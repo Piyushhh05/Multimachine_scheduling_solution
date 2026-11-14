@@ -37,21 +37,6 @@ python manage.py runserver
 
 Open `http://127.0.0.1:8000/`.
 
-### macOS / Linux
-
-```bash
-cd production_scheduler
-python3 -m venv .venv
-source .venv/bin/activate
-python -m pip install --upgrade pip
-pip install -r requirements.txt
-python manage.py makemigrations scheduler
-python manage.py migrate
-python manage.py generate_data --seed 20261022 --scale full --schedule --export
-python manage.py validate_data
-python manage.py runserver
-```
-
 The command sequence generates the full baseline, runs one schedule, validates it and exports CSV/JSON/SQL under `data/exports/`. The bundled `data/reference/` files are inspectable source data; the Django app uses SQLite ORM records created by `generate_data`. The standalone `reference_seed.sqlite3` and `seed.sql` are portable reference exports for inspection and integrity checks, not direct inserts into Django's ORM-managed `db.sqlite3`.
 
 ### Quick starter dataset
