@@ -1,0 +1,60 @@
+{
+  "project": "PlantPilot APS - Production Scheduling MVP",
+  "seed": 20261022,
+  "dataset_scale": "full",
+  "dataset_volume": {
+    "products": 100,
+    "machines": 40,
+    "production_orders": 500,
+    "operations": 2000,
+    "materials": 200
+  },
+  "checks": {
+    "python_compileall": {
+      "status": "PASS",
+      "command": "python -m compileall -q config scheduler tools manage.py"
+    },
+    "reference_data_integrity": {
+      "status": "PASS",
+      "command": "python tools/validate_reference_data.py --data data/reference --scale full",
+      "report": "reports/reference_data_validation.json"
+    },
+    "seed_sql_roundtrip": {
+      "status": "PASS",
+      "integrity_check": "ok",
+      "foreign_key_violations": 0,
+      "core_counts_match_csv": true
+    },
+    "fixed_seed_reproducibility": {
+      "status": "PASS",
+      "files_compared": 51,
+      "sha256_identical": true,
+      "report": "reports/reproducibility.json"
+    },
+    "django_application_check": {
+      "status": "NOT_RUN",
+      "reason": "Django is not installed in the build container and the package index was unreachable, so manage.py check could not be executed."
+    },
+    "django_migrations": {
+      "status": "NOT_RUN",
+      "reason": "Django is not installed. On first local run, generate the initial migration with python manage.py makemigrations scheduler, then run python manage.py migrate."
+    },
+    "django_test_suite": {
+      "status": "NOT_RUN",
+      "test_methods_written": 7,
+      "reason": "Django is not installed in the build container; install requirements and run python manage.py test scheduler -v 2."
+    },
+    "browser_end_to_end": {
+      "status": "NOT_RUN",
+      "reason": "The Django development server could not be started without Django, so browser interaction was not available for verification."
+    }
+  },
+  "important_scope_note": "Reference-data checks and standard-library generator checks were executed. Django runtime behaviour, ORM migrations, UI requests and Django tests are included in source but are not represented as passed.",
+  "generated_test_scenarios": [
+    "machine_overlap",
+    "precedence_violation",
+    "material_before_availability",
+    "outside_shift_calendar",
+    "missing_changeover"
+  ]
+}

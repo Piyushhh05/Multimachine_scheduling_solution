@@ -1,0 +1,1402 @@
+[
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0001",
+    "name": "Alloy stock 001",
+    "unit": "KG"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0002",
+    "name": "Copper stock 002",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0003",
+    "name": "Alloy stock 003",
+    "unit": "M"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0004",
+    "name": "Polymer stock 004",
+    "unit": "EA"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0005",
+    "name": "Fastener stock 005",
+    "unit": "KG"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0006",
+    "name": "Resin stock 006",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0007",
+    "name": "Fastener stock 007",
+    "unit": "M"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0008",
+    "name": "Polymer stock 008",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0009",
+    "name": "Polymer stock 009",
+    "unit": "KG"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0010",
+    "name": "Resin stock 010",
+    "unit": "L"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0011",
+    "name": "Polymer stock 011",
+    "unit": "M"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0012",
+    "name": "Circuit stock 012",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0013",
+    "name": "Alloy stock 013",
+    "unit": "KG"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0014",
+    "name": "Fastener stock 014",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0015",
+    "name": "Copper stock 015",
+    "unit": "M"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0016",
+    "name": "Fastener stock 016",
+    "unit": "EA"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0017",
+    "name": "Circuit stock 017",
+    "unit": "KG"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0018",
+    "name": "Copper stock 018",
+    "unit": "L"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0019",
+    "name": "Polymer stock 019",
+    "unit": "M"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0020",
+    "name": "Alloy stock 020",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0021",
+    "name": "Alloy stock 021",
+    "unit": "KG"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0022",
+    "name": "Fastener stock 022",
+    "unit": "L"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0023",
+    "name": "Polymer stock 023",
+    "unit": "M"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0024",
+    "name": "Resin stock 024",
+    "unit": "EA"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0025",
+    "name": "Fastener stock 025",
+    "unit": "KG"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0026",
+    "name": "Circuit stock 026",
+    "unit": "L"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0027",
+    "name": "Circuit stock 027",
+    "unit": "M"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0028",
+    "name": "Fastener stock 028",
+    "unit": "EA"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0029",
+    "name": "Copper stock 029",
+    "unit": "KG"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0030",
+    "name": "Fastener stock 030",
+    "unit": "L"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0031",
+    "name": "Circuit stock 031",
+    "unit": "M"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0032",
+    "name": "Fastener stock 032",
+    "unit": "EA"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0033",
+    "name": "Circuit stock 033",
+    "unit": "KG"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0034",
+    "name": "Copper stock 034",
+    "unit": "L"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0035",
+    "name": "Circuit stock 035",
+    "unit": "M"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0036",
+    "name": "Polymer stock 036",
+    "unit": "EA"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0037",
+    "name": "Alloy stock 037",
+    "unit": "KG"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0038",
+    "name": "Resin stock 038",
+    "unit": "L"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0039",
+    "name": "Polymer stock 039",
+    "unit": "M"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0040",
+    "name": "Polymer stock 040",
+    "unit": "EA"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0041",
+    "name": "Fastener stock 041",
+    "unit": "KG"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0042",
+    "name": "Alloy stock 042",
+    "unit": "L"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0043",
+    "name": "Alloy stock 043",
+    "unit": "M"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0044",
+    "name": "Fastener stock 044",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0045",
+    "name": "Resin stock 045",
+    "unit": "KG"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0046",
+    "name": "Resin stock 046",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0047",
+    "name": "Copper stock 047",
+    "unit": "M"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0048",
+    "name": "Resin stock 048",
+    "unit": "EA"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0049",
+    "name": "Resin stock 049",
+    "unit": "KG"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0050",
+    "name": "Alloy stock 050",
+    "unit": "L"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0051",
+    "name": "Copper stock 051",
+    "unit": "M"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0052",
+    "name": "Alloy stock 052",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0053",
+    "name": "Circuit stock 053",
+    "unit": "KG"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0054",
+    "name": "Circuit stock 054",
+    "unit": "L"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0055",
+    "name": "Copper stock 055",
+    "unit": "M"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0056",
+    "name": "Polymer stock 056",
+    "unit": "EA"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0057",
+    "name": "Fastener stock 057",
+    "unit": "KG"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0058",
+    "name": "Fastener stock 058",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0059",
+    "name": "Fastener stock 059",
+    "unit": "M"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0060",
+    "name": "Alloy stock 060",
+    "unit": "EA"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0061",
+    "name": "Resin stock 061",
+    "unit": "KG"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0062",
+    "name": "Polymer stock 062",
+    "unit": "L"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0063",
+    "name": "Copper stock 063",
+    "unit": "M"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0064",
+    "name": "Resin stock 064",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0065",
+    "name": "Polymer stock 065",
+    "unit": "KG"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0066",
+    "name": "Copper stock 066",
+    "unit": "L"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0067",
+    "name": "Copper stock 067",
+    "unit": "M"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0068",
+    "name": "Polymer stock 068",
+    "unit": "EA"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0069",
+    "name": "Polymer stock 069",
+    "unit": "KG"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0070",
+    "name": "Fastener stock 070",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0071",
+    "name": "Alloy stock 071",
+    "unit": "M"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0072",
+    "name": "Resin stock 072",
+    "unit": "EA"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0073",
+    "name": "Resin stock 073",
+    "unit": "KG"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0074",
+    "name": "Fastener stock 074",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0075",
+    "name": "Resin stock 075",
+    "unit": "M"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0076",
+    "name": "Fastener stock 076",
+    "unit": "EA"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0077",
+    "name": "Resin stock 077",
+    "unit": "KG"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0078",
+    "name": "Fastener stock 078",
+    "unit": "L"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0079",
+    "name": "Fastener stock 079",
+    "unit": "M"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0080",
+    "name": "Polymer stock 080",
+    "unit": "EA"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0081",
+    "name": "Alloy stock 081",
+    "unit": "KG"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0082",
+    "name": "Alloy stock 082",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0083",
+    "name": "Circuit stock 083",
+    "unit": "M"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0084",
+    "name": "Copper stock 084",
+    "unit": "EA"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0085",
+    "name": "Fastener stock 085",
+    "unit": "KG"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0086",
+    "name": "Resin stock 086",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0087",
+    "name": "Fastener stock 087",
+    "unit": "M"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0088",
+    "name": "Resin stock 088",
+    "unit": "EA"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0089",
+    "name": "Copper stock 089",
+    "unit": "KG"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0090",
+    "name": "Resin stock 090",
+    "unit": "L"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0091",
+    "name": "Resin stock 091",
+    "unit": "M"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0092",
+    "name": "Polymer stock 092",
+    "unit": "EA"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0093",
+    "name": "Copper stock 093",
+    "unit": "KG"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0094",
+    "name": "Resin stock 094",
+    "unit": "L"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0095",
+    "name": "Circuit stock 095",
+    "unit": "M"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0096",
+    "name": "Polymer stock 096",
+    "unit": "EA"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0097",
+    "name": "Polymer stock 097",
+    "unit": "KG"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0098",
+    "name": "Polymer stock 098",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0099",
+    "name": "Circuit stock 099",
+    "unit": "M"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0100",
+    "name": "Polymer stock 100",
+    "unit": "EA"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0101",
+    "name": "Circuit stock 101",
+    "unit": "KG"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0102",
+    "name": "Circuit stock 102",
+    "unit": "L"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0103",
+    "name": "Copper stock 103",
+    "unit": "M"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0104",
+    "name": "Polymer stock 104",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0105",
+    "name": "Copper stock 105",
+    "unit": "KG"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0106",
+    "name": "Fastener stock 106",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0107",
+    "name": "Alloy stock 107",
+    "unit": "M"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0108",
+    "name": "Resin stock 108",
+    "unit": "EA"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0109",
+    "name": "Polymer stock 109",
+    "unit": "KG"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0110",
+    "name": "Fastener stock 110",
+    "unit": "L"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0111",
+    "name": "Alloy stock 111",
+    "unit": "M"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0112",
+    "name": "Resin stock 112",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0113",
+    "name": "Circuit stock 113",
+    "unit": "KG"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0114",
+    "name": "Copper stock 114",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0115",
+    "name": "Resin stock 115",
+    "unit": "M"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0116",
+    "name": "Alloy stock 116",
+    "unit": "EA"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0117",
+    "name": "Resin stock 117",
+    "unit": "KG"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0118",
+    "name": "Copper stock 118",
+    "unit": "L"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0119",
+    "name": "Resin stock 119",
+    "unit": "M"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0120",
+    "name": "Polymer stock 120",
+    "unit": "EA"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0121",
+    "name": "Alloy stock 121",
+    "unit": "KG"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0122",
+    "name": "Polymer stock 122",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0123",
+    "name": "Polymer stock 123",
+    "unit": "M"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0124",
+    "name": "Circuit stock 124",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0125",
+    "name": "Resin stock 125",
+    "unit": "KG"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0126",
+    "name": "Alloy stock 126",
+    "unit": "L"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0127",
+    "name": "Alloy stock 127",
+    "unit": "M"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0128",
+    "name": "Copper stock 128",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0129",
+    "name": "Resin stock 129",
+    "unit": "KG"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0130",
+    "name": "Polymer stock 130",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0131",
+    "name": "Resin stock 131",
+    "unit": "M"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0132",
+    "name": "Fastener stock 132",
+    "unit": "EA"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0133",
+    "name": "Copper stock 133",
+    "unit": "KG"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0134",
+    "name": "Copper stock 134",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0135",
+    "name": "Alloy stock 135",
+    "unit": "M"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0136",
+    "name": "Alloy stock 136",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0137",
+    "name": "Copper stock 137",
+    "unit": "KG"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0138",
+    "name": "Fastener stock 138",
+    "unit": "L"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0139",
+    "name": "Alloy stock 139",
+    "unit": "M"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0140",
+    "name": "Polymer stock 140",
+    "unit": "EA"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0141",
+    "name": "Circuit stock 141",
+    "unit": "KG"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0142",
+    "name": "Resin stock 142",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0143",
+    "name": "Alloy stock 143",
+    "unit": "M"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0144",
+    "name": "Circuit stock 144",
+    "unit": "EA"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0145",
+    "name": "Fastener stock 145",
+    "unit": "KG"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0146",
+    "name": "Circuit stock 146",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0147",
+    "name": "Fastener stock 147",
+    "unit": "M"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0148",
+    "name": "Copper stock 148",
+    "unit": "EA"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0149",
+    "name": "Fastener stock 149",
+    "unit": "KG"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0150",
+    "name": "Polymer stock 150",
+    "unit": "L"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0151",
+    "name": "Copper stock 151",
+    "unit": "M"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0152",
+    "name": "Copper stock 152",
+    "unit": "EA"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0153",
+    "name": "Polymer stock 153",
+    "unit": "KG"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0154",
+    "name": "Copper stock 154",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0155",
+    "name": "Polymer stock 155",
+    "unit": "M"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0156",
+    "name": "Resin stock 156",
+    "unit": "EA"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0157",
+    "name": "Copper stock 157",
+    "unit": "KG"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0158",
+    "name": "Fastener stock 158",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0159",
+    "name": "Circuit stock 159",
+    "unit": "M"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0160",
+    "name": "Polymer stock 160",
+    "unit": "EA"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0161",
+    "name": "Circuit stock 161",
+    "unit": "KG"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0162",
+    "name": "Alloy stock 162",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0163",
+    "name": "Fastener stock 163",
+    "unit": "M"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0164",
+    "name": "Polymer stock 164",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0165",
+    "name": "Copper stock 165",
+    "unit": "KG"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0166",
+    "name": "Circuit stock 166",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0167",
+    "name": "Polymer stock 167",
+    "unit": "M"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0168",
+    "name": "Polymer stock 168",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0169",
+    "name": "Polymer stock 169",
+    "unit": "KG"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0170",
+    "name": "Polymer stock 170",
+    "unit": "L"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0171",
+    "name": "Polymer stock 171",
+    "unit": "M"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0172",
+    "name": "Fastener stock 172",
+    "unit": "EA"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0173",
+    "name": "Circuit stock 173",
+    "unit": "KG"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0174",
+    "name": "Polymer stock 174",
+    "unit": "L"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0175",
+    "name": "Resin stock 175",
+    "unit": "M"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0176",
+    "name": "Polymer stock 176",
+    "unit": "EA"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0177",
+    "name": "Resin stock 177",
+    "unit": "KG"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0178",
+    "name": "Alloy stock 178",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0179",
+    "name": "Polymer stock 179",
+    "unit": "M"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0180",
+    "name": "Fastener stock 180",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0181",
+    "name": "Alloy stock 181",
+    "unit": "KG"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0182",
+    "name": "Circuit stock 182",
+    "unit": "L"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0183",
+    "name": "Circuit stock 183",
+    "unit": "M"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0184",
+    "name": "Polymer stock 184",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0185",
+    "name": "Alloy stock 185",
+    "unit": "KG"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0186",
+    "name": "Fastener stock 186",
+    "unit": "L"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0187",
+    "name": "Alloy stock 187",
+    "unit": "M"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0188",
+    "name": "Circuit stock 188",
+    "unit": "EA"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0189",
+    "name": "Alloy stock 189",
+    "unit": "KG"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0190",
+    "name": "Alloy stock 190",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0191",
+    "name": "Copper stock 191",
+    "unit": "M"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0192",
+    "name": "Fastener stock 192",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0193",
+    "name": "Alloy stock 193",
+    "unit": "KG"
+  },
+  {
+    "category": "PACKAGING",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0194",
+    "name": "Resin stock 194",
+    "unit": "L"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0195",
+    "name": "Alloy stock 195",
+    "unit": "M"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0196",
+    "name": "Circuit stock 196",
+    "unit": "EA"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0197",
+    "name": "Polymer stock 197",
+    "unit": "KG"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0198",
+    "name": "Alloy stock 198",
+    "unit": "L"
+  },
+  {
+    "category": "COMPONENT",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0199",
+    "name": "Alloy stock 199",
+    "unit": "M"
+  },
+  {
+    "category": "RAW",
+    "lifecycle_state": "ACTIVE",
+    "material_id": "MAT-0200",
+    "name": "Fastener stock 200",
+    "unit": "EA"
+  }
+]

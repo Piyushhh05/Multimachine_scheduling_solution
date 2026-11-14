@@ -1,0 +1,6 @@
+scenario_id,operation_id,issue_type,ground_truth,expected_detection,description
+ANOM-001,OP-PO-2026-000451-04,MACHINE_OVERLAP,VIOLATION,MACHINE_OVERLAP,Move the second operation into the first operation's occupied interval.
+ANOM-002,OP-PO-2026-000034-03,PRECEDENCE,VIOLATION,PRECEDENCE,Start a downstream route step before its predecessor is complete.
+ANOM-003,OP-PO-2026-000450-01,MATERIAL_UNAVAILABLE,VIOLATION,MATERIAL_UNAVAILABLE,Attempt to consume a material lot before its available_from date.
+ANOM-004,OP-PO-2026-000034-03,CALENDAR_VIOLATION,VIOLATION,CALENDAR_VIOLATION,Move an operation outside its machine's 08:00–16:00 weekday calendar.
+ANOM-005,OP-PO-2026-000451-04,CHANGEOVER_MISSING,VIOLATION,CHANGEOVER_MISSING,Set setup minutes to zero although the machine's from-to matrix requires a changeover.

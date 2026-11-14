@@ -1,0 +1,47 @@
+{
+  "seed": 20261022,
+  "scale": "full",
+  "fixed_planning_baseline": "2026-11-16",
+  "row_counts": {
+    "anomaly_scenarios": 5,
+    "audit_events": 1,
+    "changeover_matrix": 1200,
+    "ground_truth": 5,
+    "inventory_lots": 600,
+    "labor_shifts": 5,
+    "machine_calendars": 200,
+    "machine_downtime": 80,
+    "machine_tooling": 376,
+    "machines": 40,
+    "material_reservations": 0,
+    "materials": 200,
+    "operation_eligible_machine": 6000,
+    "operation_schedules": 0,
+    "operations": 2000,
+    "product_material": 302,
+    "production_orders": 500,
+    "products": 100,
+    "routing_step_machines": 1200,
+    "routing_steps": 400,
+    "routings": 100,
+    "schedule_exceptions": 0,
+    "scheduling_runs": 0,
+    "tooling": 10
+  },
+  "files_compared": 51,
+  "all_file_sha256_checksums_match": true,
+  "checksum_mismatches": [],
+  "reference_data_validation_passed": true,
+  "exported_sql_reimport": {
+    "integrity_check": "ok",
+    "foreign_key_violations": 0,
+    "core_counts": {
+      "products": 100,
+      "machines": 40,
+      "materials": 200,
+      "production_orders": 500,
+      "operations": 2000
+    }
+  },
+  "note": "Python standard-library synthetic export and SQL seed were executed twice with the same seed. Django ORM migration, management commands and test suite were not executed because Django is absent and the package index was unreachable in the build environment."
+}

@@ -1,0 +1,502 @@
+{
+  "project": "PlantPilot APS - Production Scheduling MVP",
+  "file_count": 99,
+  "hash_algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".env.example",
+      "bytes": 248,
+      "sha256": "3019b0766b7cb7cf2e7a818dea4d8e6648616292dafd26c135187cd47f904d4e"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 72,
+      "sha256": "088db0baa0a45fcb18d150a97a96db570937f92b49421cd913c3f6d4cfac97c7"
+    },
+    {
+      "path": "README.md",
+      "bytes": 12110,
+      "sha256": "6d2eb5df13d9c9c5f57e906ff8c632a12a75a5f59169783e6aec430fc369c5f7"
+    },
+    {
+      "path": "config/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "config/asgi.py",
+      "bytes": 164,
+      "sha256": "840a7a0e73c0d9ff97d33c0462ef6f579a646cfab15e9bbd6c355e8bee6b1f64"
+    },
+    {
+      "path": "config/settings.py",
+      "bytes": 1934,
+      "sha256": "a1303211150d535be6533673c037b1681ad4413d7245e88ef17f684c67ac9665"
+    },
+    {
+      "path": "config/urls.py",
+      "bytes": 157,
+      "sha256": "9317c4cc143c10bfce6478a83ee309bcba5d3a7b0722c42da9ee3cb5827b0de5"
+    },
+    {
+      "path": "config/wsgi.py",
+      "bytes": 164,
+      "sha256": "cfabf7e90e061247dee31c055705a105eb5bf021e4bcc819f6c82fc0f3e496ae"
+    },
+    {
+      "path": "data/reference/anomaly_scenarios.csv",
+      "bytes": 1410,
+      "sha256": "dd365b96e1901c7bfa75194f0ded55ca63940652a6fc2db6ac38d1e8851ba6fe"
+    },
+    {
+      "path": "data/reference/anomaly_scenarios.json",
+      "bytes": 2628,
+      "sha256": "0b36ba652f62d9378acd544db78aeb10a3ce2d0336b9357b04d653768698a768"
+    },
+    {
+      "path": "data/reference/audit_events.csv",
+      "bytes": 259,
+      "sha256": "9250e88eb9555609fb21c0d238ad2eaabae770ba36f1b9312dedc85b1e11c023"
+    },
+    {
+      "path": "data/reference/audit_events.json",
+      "bytes": 336,
+      "sha256": "4bd00fb6c9fe8287850e3f83718d2fb0f9bad994d082f68d533a91b690aedf36"
+    },
+    {
+      "path": "data/reference/changeover_matrix.csv",
+      "bytes": 85613,
+      "sha256": "4f898881f3e6938f6eb2e144b0904ee8f61ab7c1f5a8d6d57c2480abd87e5702"
+    },
+    {
+      "path": "data/reference/changeover_matrix.json",
+      "bytes": 285923,
+      "sha256": "35e690f7930b35b9f2950c283ff404d9db84b56ea3fbd91d024c6044c62329ea"
+    },
+    {
+      "path": "data/reference/ground_truth.csv",
+      "bytes": 837,
+      "sha256": "3387732832c946b626e937c6b775936b00b5d9ff02e49e9e32cd634abd54627c"
+    },
+    {
+      "path": "data/reference/ground_truth.json",
+      "bytes": 1497,
+      "sha256": "42eb402134dad6e0f48d9353b19b19de4320d3d18c516ffdb7cf8fa6b3358f54"
+    },
+    {
+      "path": "data/reference/inventory_lots.csv",
+      "bytes": 38672,
+      "sha256": "de93cd7d69912ee619d0fb12224fbd93970873198023511bb28a3d053dee99f4"
+    },
+    {
+      "path": "data/reference/inventory_lots.json",
+      "bytes": 132193,
+      "sha256": "d58df0439861b120171bb1ebd2ab3df18e177b1617952d608a8a61ba28688220"
+    },
+    {
+      "path": "data/reference/labor_shifts.csv",
+      "bytes": 307,
+      "sha256": "fcf37fa2f1c5f4d27774095bea6286175e9f0b08758dd1affab56e4b46c437e7"
+    },
+    {
+      "path": "data/reference/labor_shifts.json",
+      "bytes": 928,
+      "sha256": "a3f020171462c10c40e81627d06d98d11101727faae8bf6bb255d2c9898e88ed"
+    },
+    {
+      "path": "data/reference/machine_calendars.csv",
+      "bytes": 11287,
+      "sha256": "8a15d70e4cf8f43c1810cdf94a8f47792aa9d06bb6db8fb0ac2d3561e8f7f988"
+    },
+    {
+      "path": "data/reference/machine_calendars.json",
+      "bytes": 43003,
+      "sha256": "0dfc1f8de1002ff486579caadb05517aca8ec3904f065ff36bbfc6375e48134b"
+    },
+    {
+      "path": "data/reference/machine_downtime.csv",
+      "bytes": 8907,
+      "sha256": "e7941564ce9a2b7de6d13c4459e878ab1e50fa2c86c34c2dc98ff99cd13375ec"
+    },
+    {
+      "path": "data/reference/machine_downtime.json",
+      "bytes": 18772,
+      "sha256": "36035aa3163e18424a7836d22ad9a0ff0105486273e73362c628e8ad62e3c1f9"
+    },
+    {
+      "path": "data/reference/machine_tooling.csv",
+      "bytes": 7167,
+      "sha256": "d42950167412170167e9a288ce2ef7bf6f4f4b3b32e3a8148c16f762679c9230"
+    },
+    {
+      "path": "data/reference/machine_tooling.json",
+      "bytes": 25571,
+      "sha256": "006211ca693747d38d93d684a914bb366e75d58045766bab4987dd4e06ded662"
+    },
+    {
+      "path": "data/reference/machines.csv",
+      "bytes": 2787,
+      "sha256": "8ec1e759e6cc363a4b55a81223a6e5237c8cdc195cfdc4836a85aa2c0c024ee5"
+    },
+    {
+      "path": "data/reference/machines.json",
+      "bytes": 10323,
+      "sha256": "e6cef6eeec85515c62b5a090a204c5b6b3267057b3ccc14082ac5e1cd17b7176"
+    },
+    {
+      "path": "data/reference/material_reservations.csv",
+      "bytes": 72,
+      "sha256": "67c5c859bdbc3a2532c78546d34a3eae33875e34994f28f32ed4461583aca911"
+    },
+    {
+      "path": "data/reference/material_reservations.json",
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "path": "data/reference/materials.csv",
+      "bytes": 8952,
+      "sha256": "8f8eb0e620fd7028d328bc828fd013d5dea26e86cdc1a205098f4046195470fc"
+    },
+    {
+      "path": "data/reference/materials.json",
+      "bytes": 29707,
+      "sha256": "b0f1b52c51cb348bed40aef63889e8a3e69ff7ce1a0bd9441b9588341ef3f895"
+    },
+    {
+      "path": "data/reference/operation_eligible_machine.csv",
+      "bytes": 186025,
+      "sha256": "dbf50ee23425d881f87146f382c96f35e03edb290aec7a36b9b74cd10d29cd5d"
+    },
+    {
+      "path": "data/reference/operation_eligible_machine.json",
+      "bytes": 492003,
+      "sha256": "35329a13e84a0fb9136a10e8efceda4006c67a959a408cc1f9994702576db1d5"
+    },
+    {
+      "path": "data/reference/operation_schedules.csv",
+      "bytes": 120,
+      "sha256": "4c3d01bd0902c13f085bb35ede89328b8c5dab760514fa683679e442e3444c73"
+    },
+    {
+      "path": "data/reference/operation_schedules.json",
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "path": "data/reference/operations.csv",
+      "bytes": 140821,
+      "sha256": "e7a94c5ca8a8a9c6c6af745b97911059bdedaac0cafe46f481b70364c3841fd0"
+    },
+    {
+      "path": "data/reference/operations.json",
+      "bytes": 464732,
+      "sha256": "efc6a2695a86f1d1d08bb9b00fe6f6f7144bd2a1e3db07736d4e88a9b116debd"
+    },
+    {
+      "path": "data/reference/product_material.csv",
+      "bytes": 10277,
+      "sha256": "c74403c4c52bd79602d0dab7455f4366add0dcc190848ad3f048dea479374605"
+    },
+    {
+      "path": "data/reference/product_material.json",
+      "bytes": 33190,
+      "sha256": "f8f3bb70bf87f3e0efde63b1836e882d6c7bf287c85771bf2d599958faf5d0dd"
+    },
+    {
+      "path": "data/reference/production_orders.csv",
+      "bytes": 56588,
+      "sha256": "e3e1408e0fe8d899d601938d4d7eaf1ebca6cfbf50ed829a6312621b8c7e035e"
+    },
+    {
+      "path": "data/reference/production_orders.json",
+      "bytes": 146503,
+      "sha256": "a9b6b564e7c0df6894e87ef90ed7ef545d30ab607fe80d8199fa6a961744e831"
+    },
+    {
+      "path": "data/reference/products.csv",
+      "bytes": 9239,
+      "sha256": "fa7c6247624937f81b0f8a90f9e8c25181b43e95aa4ab8da003e3276e11b5ba5"
+    },
+    {
+      "path": "data/reference/products.json",
+      "bytes": 23475,
+      "sha256": "81b2dd6deffd6d9417e9cce4ecaa9cca032d3c1acfe6e2c1fd36042d15608dd9"
+    },
+    {
+      "path": "data/reference/reference_seed.sqlite3",
+      "bytes": 1409024,
+      "sha256": "1d4bb0c00621fbb5f30804f592680ccc7b3fa5336fed669b910be64ca60bf59a"
+    },
+    {
+      "path": "data/reference/routing_step_machines.csv",
+      "bytes": 33628,
+      "sha256": "76859c4fb4a0f4f6cbdf783427edae8dcd1eb1530f894b42d11c3cc1e3606c40"
+    },
+    {
+      "path": "data/reference/routing_step_machines.json",
+      "bytes": 98403,
+      "sha256": "db3ecf2dea281ca53f4f9ac8ec8609138238354497b69726bb6bfda591f7db7f"
+    },
+    {
+      "path": "data/reference/routing_steps.csv",
+      "bytes": 30402,
+      "sha256": "3f0220c54dcff9b27f090f0f265dce170633b3afbcbe38db9044eafbf872db3f"
+    },
+    {
+      "path": "data/reference/routing_steps.json",
+      "bytes": 115083,
+      "sha256": "e4621a9f8b60a9f3ed979d7aacdf6b079423305b0e08c4b2940f8751e59ae808"
+    },
+    {
+      "path": "data/reference/routings.csv",
+      "bytes": 9386,
+      "sha256": "05e10475783f6774593818323e8f6e19a79645230d1e27ee05883abade812e6c"
+    },
+    {
+      "path": "data/reference/routings.json",
+      "bytes": 25303,
+      "sha256": "7777f9f1e59f0460d2549484416f075205f83db2da5f0dce7b1588405a2b68fa"
+    },
+    {
+      "path": "data/reference/schedule_exceptions.csv",
+      "bytes": 72,
+      "sha256": "a790c62c5c825ac14d01b71b93aa6a61f8bac9889b3d08ac2992e0d86b4eb454"
+    },
+    {
+      "path": "data/reference/schedule_exceptions.json",
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "path": "data/reference/scheduling_runs.csv",
+      "bytes": 76,
+      "sha256": "4694983cac902bdb7a7ee8b847ab434274a503dff7f89ff9fdfe199ecc2434d5"
+    },
+    {
+      "path": "data/reference/scheduling_runs.json",
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "path": "data/reference/seed.sql",
+      "bytes": 1308286,
+      "sha256": "a9cbda4f62c10711f5d97a717f9d93eb0283811874fdee7732d256d96f104a69"
+    },
+    {
+      "path": "data/reference/source_manifest.json",
+      "bytes": 6591,
+      "sha256": "790daae97de31ace2274b4386e69212ce106e1b34be0c8961980368c402c4947"
+    },
+    {
+      "path": "data/reference/tooling.csv",
+      "bytes": 412,
+      "sha256": "1c855130080729a5b710cc1d316ed5d4ea9317cc8d4a1d7b00a09dca1a017037"
+    },
+    {
+      "path": "data/reference/tooling.json",
+      "bytes": 1233,
+      "sha256": "3dfe915f0021a5f80e4212d9052aabf6861ebaa07f3d6f74869ddc4419d521f1"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "bytes": 4425,
+      "sha256": "ebb24930ba6c9c7ef6135112e857c01e8525ab60dbabbc5edab636ccce7ffcdf"
+    },
+    {
+      "path": "docs/DATA_DICTIONARY.md",
+      "bytes": 9134,
+      "sha256": "bc9a67932f73689b8d9c95630629c7519435be7cb456781fd69afd7b6e5d73b8"
+    },
+    {
+      "path": "docs/DEMO_PITCH.md",
+      "bytes": 3412,
+      "sha256": "33ae53ccdeacfe78791acd2009bf620dbab432d6ae239a7defd4987e49397a87"
+    },
+    {
+      "path": "docs/PROBLEM_ANALYSIS.md",
+      "bytes": 4501,
+      "sha256": "b7dfed6e01b5c27cc05e4e6ee59f9df0eee930ae354cd4fb6f05af8e3dfabf2c"
+    },
+    {
+      "path": "docs/TEST_PLAN.md",
+      "bytes": 3703,
+      "sha256": "3dac823ab1bfa18b6b5b19cd1e3038b143bbd947ad5784fa94bc08bea5dd1d6c"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "bytes": 4856,
+      "sha256": "70c8deb96c40db01679e7c0549c0a860199bb42d075befce64b6712fb72eee94"
+    },
+    {
+      "path": "manage.py",
+      "bytes": 247,
+      "sha256": "9ea668a3f9aebe86cf570e3fc4535ba71eea08fd196b54b3478796ca8a368220"
+    },
+    {
+      "path": "reports/VALIDATION_SUMMARY.json",
+      "bytes": 2253,
+      "sha256": "e414e867a71448663e2e1515bc9ae00719113a7b8997832a7d3363afc55588fb"
+    },
+    {
+      "path": "reports/reference_data_validation.json",
+      "bytes": 2538,
+      "sha256": "70e4627ae9887d1b47777149d65e557ec3c54cf4b576c0828c175cf53b9dacaa"
+    },
+    {
+      "path": "reports/reproducibility.json",
+      "bytes": 1413,
+      "sha256": "5982710cba6b9cec266feea8257584ad3a1a8fb7f70ccb2aa542c17dcac76c96"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 17,
+      "sha256": "39c61094212daae8b52fc8b622afcf06cb51d790375033619ef40137247a72de"
+    },
+    {
+      "path": "scheduler/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "scheduler/admin.py",
+      "bytes": 2985,
+      "sha256": "2de58b70261071bd0c5fa3ed5964f262ae235b031b04e170def162a07238bac0"
+    },
+    {
+      "path": "scheduler/apps.py",
+      "bytes": 149,
+      "sha256": "417231db9011cc7e0eee18aa596e68b4c9f5600dd1ca50377e26c43622aa7636"
+    },
+    {
+      "path": "scheduler/management/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "scheduler/management/commands/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "scheduler/management/commands/export_data.py",
+      "bytes": 608,
+      "sha256": "4e329c1dd9a06cb44354ea5feac35285c099b3a536896851b0ebf6928ab6c83f"
+    },
+    {
+      "path": "scheduler/management/commands/generate_data.py",
+      "bytes": 1664,
+      "sha256": "d132353fe2ead50efbf8eb2834027a2574642260eec0cfb07b668de900310fca"
+    },
+    {
+      "path": "scheduler/management/commands/validate_data.py",
+      "bytes": 4413,
+      "sha256": "74a86a0227bca31096dcff2865dab9811259db51004141b2c769ec621073ac2f"
+    },
+    {
+      "path": "scheduler/management/commands/verify_reproducibility.py",
+      "bytes": 1679,
+      "sha256": "f2c4fa87942bf5fd58acf8a546f65b898c185807c137539ff248630bfbcc9244"
+    },
+    {
+      "path": "scheduler/migrations/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "scheduler/models.py",
+      "bytes": 19979,
+      "sha256": "59e2aac747a84081167b5adfa407fdc19e8527a0de03fb85b3952b6f2cf43c31"
+    },
+    {
+      "path": "scheduler/services/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "scheduler/services/data_generator.py",
+      "bytes": 15364,
+      "sha256": "2015b04f1a6db33db9ee511b894a1b84d56ae7742cd7e8c26492896b2f56a174"
+    },
+    {
+      "path": "scheduler/services/engine.py",
+      "bytes": 26394,
+      "sha256": "c36728ca9295342ebfc8dfd71dbb1e21b2a3754e53bd202e84f9022249a0480b"
+    },
+    {
+      "path": "scheduler/services/exporter.py",
+      "bytes": 12565,
+      "sha256": "8b802b347641293ff527d9f10a6d061a52a13fda208dc73b36603a10e8046f02"
+    },
+    {
+      "path": "scheduler/services/validator.py",
+      "bytes": 13800,
+      "sha256": "12074ff0ab57148a019391410e18142dd73016a273467baccb2c7827df1268ed"
+    },
+    {
+      "path": "scheduler/static/scheduler/app.css",
+      "bytes": 8556,
+      "sha256": "48b1c3329676956d0b7b6d59a694d5e4b7344d468216f92f53923a8211a78b49"
+    },
+    {
+      "path": "scheduler/static/scheduler/app.js",
+      "bytes": 434,
+      "sha256": "cca917ebb86c9a045faac0be07acd3952513d59746d4322f83d36207082ff147"
+    },
+    {
+      "path": "scheduler/templates/scheduler/base.html",
+      "bytes": 2939,
+      "sha256": "b80dd990543cf69991635c60521a40382351d281848df4d9bdcef3e8947ea88a"
+    },
+    {
+      "path": "scheduler/templates/scheduler/dashboard.html",
+      "bytes": 8202,
+      "sha256": "0b0c783667eb081ed4711e658f28c07aacb06738d09902ae72e7f0ae41fa6b2d"
+    },
+    {
+      "path": "scheduler/templates/scheduler/data.html",
+      "bytes": 3866,
+      "sha256": "ae60829c42062133de80cc97e63a9192e4f7138617862ce9804b5df81118d17f"
+    },
+    {
+      "path": "scheduler/templates/scheduler/exceptions.html",
+      "bytes": 3137,
+      "sha256": "2504d78beb32381eff17489470ffe7a13f4f186af41b808b926441d39ea2df39"
+    },
+    {
+      "path": "scheduler/templates/scheduler/schedule.html",
+      "bytes": 4755,
+      "sha256": "243ab559b0515d7ec90955ac2bd00c19a0a13a2c956e082dd6373024024bebec"
+    },
+    {
+      "path": "scheduler/tests.py",
+      "bytes": 12677,
+      "sha256": "9462a7679692a0ecad4740c4229b48c1a18e98cbc7211d3b4ecb203e8d134b8f"
+    },
+    {
+      "path": "scheduler/urls.py",
+      "bytes": 679,
+      "sha256": "b42eb326211876c13485406613159adfe736f985f3a88d90154ce3be8273ae31"
+    },
+    {
+      "path": "scheduler/views.py",
+      "bytes": 7835,
+      "sha256": "b0392407115853fd41bb257c4b878c926f5c7875e8247df0dc387f1d613323fb"
+    },
+    {
+      "path": "tests/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "tools/generate_reference_data.py",
+      "bytes": 23716,
+      "sha256": "7fe1f5ebb207f07eb6c4907163602586483ede22ff589b02290b0c27ca038680"
+    },
+    {
+      "path": "tools/validate_reference_data.py",
+      "bytes": 7395,
+      "sha256": "ae787d310fc6513be9f1d8b30033d8971db7449a0129329764c58f8cb6a8bd61"
+    }
+  ]
+}

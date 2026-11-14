@@ -1,0 +1,63 @@
+{% extends 'scheduler/base.html' %}
+{% block title %}Dashboard · PlantPilot{% endblock %}
+{% block content %}
+<div class="d-flex align-items-start justify-content-between flex-wrap gap-3 mb-4">
+  <div><div class="eyebrow">PLANT CONTROL TOWER</div><h1 class="page-title">Production overview</h1><p class="page-subtitle mb-0">Turn released orders into a feasible, explainable shop-floor plan.</p></div>
+  <div class="d-flex gap-2 align-items-center">
+    {% if latest_run %}<a class="btn btn-outline-secondary" href="{% url 'export_schedule' %}"><i class="bi bi-download me-1"></i>Export schedule</a>{% endif %}
+    <form method="post" action="{% url 'run_schedule' %}" data-loading-form>{% csrf_token %}<button class="btn btn-primary btn-run" type="submit"><i class="bi bi-play-fill me-1"></i><span>Run scheduler</span></button></form>
+  </div>
+</div>
+<div class="row g-3 mb-4">
+  <div class="col-6 col-xl-3"><div class="stat-card"><div class="stat-label">Released orders</div><div class="stat-value">{{ active_orders|default:0 }}</div><div class="stat-foot"><i class="bi bi-inboxes"></i> {{ products_count }} product SKUs</div></div></div>
+  <div class="col-6 col-xl-3"><div class="stat-card"><div class="stat-label">Scheduled operations</div><div class="stat-value">{{ metrics.scheduled_operations|default:0 }}</div><div class="stat-foot"><i class="bi bi-gear-wide-connected"></i> {{ metrics.total_operations|default:operations_count }} operation steps</div></div></div>
+  <div class="col-6 col-xl-3"><div class="stat-card"><div class="stat-label">Projected on-time rate</div><div class="stat-value">{{ metrics.on_time_rate_pct|default:0|floatformat:1 }}<small>%</small></div><div class="stat-foot"><i class="bi bi-flag"></i> Fully planned orders vs due date</div></div></div>
+  <div class="col-6 col-xl-3"><div class="stat-card"><div class="stat-label">Machine utilization</div><div class="stat-value">{{ metrics.machine_utilization_pct|default:0|floatformat:1 }}<small>%</small></div><div class="stat-foot"><i class="bi bi-speedometer2"></i> Scheduled processing / capacity</div></div></div>
+</div>
+<div class="row g-3 mb-4">
+  <div class="col-12 col-xl-8">
+    <section class="panel h-100">
+      <div class="panel-head"><div><div class="eyebrow">SCHEDULE HEALTH</div><h2 class="panel-title">Latest planning run</h2></div>{% if latest_run %}<span class="status-pill status-good"><span></span>{{ latest_run.status }}</span>{% else %}<span class="status-pill status-muted">No run yet</span>{% endif %}</div>
+      {% if latest_run %}
+      <div class="run-meta mb-3"><span><i class="bi bi-hash"></i> {{ latest_run.run_id }}</span><span><i class="bi bi-clock"></i> {{ latest_run.created_at|date:'d M Y, H:i' }}</span><span><i class="bi bi-shuffle"></i> {{ latest_run.strategy }}</span></div>
+      <div class="row g-3">
+        <div class="col-6 col-md-2"><div class="mini-kpi"><span>Makespan</span><strong>{{ metrics.makespan_hours|default:0|floatformat:1 }} h</strong></div></div>
+        <div class="col-6 col-md-2"><div class="mini-kpi"><span>Total tardiness</span><strong>{{ metrics.total_tardiness_days|default:0 }} d</strong></div></div>
+        <div class="col-6 col-md-2"><div class="mini-kpi"><span>Setup time</span><strong>{{ metrics.total_setup_hours|default:0|floatformat:1 }} h</strong></div></div>
+        <div class="col-6 col-md-2"><div class="mini-kpi"><span>Bottleneck machine</span><strong>{{ metrics.bottleneck_machine|default:'-' }}</strong></div></div>
+        <div class="col-6 col-md-2"><div class="mini-kpi"><span>Urgent on-time</span><strong>{{ metrics.urgent_on_time_rate_pct|default:0|floatformat:1 }}%</strong></div></div>
+        <div class="col-6 col-md-2"><div class="mini-kpi"><span>Validator issues</span><strong class="{% if metrics.validator_exception_count %}text-danger{% else %}text-success{% endif %}">{{ metrics.total_exceptions|default:0 }}</strong></div></div>
+      </div>
+      <div class="metric-progress mt-4"><div class="d-flex justify-content-between small mb-2"><span>Operation coverage</span><strong>{{ metrics.scheduled_operations|default:0 }} / {{ metrics.total_operations|default:operations_count }}</strong></div><div class="progress" role="progressbar"><div class="progress-bar" style="width:{% widthratio metrics.scheduled_operations|default:0 metrics.total_operations|default:1 100 %}%"></div></div></div>
+      <div class="d-flex gap-2 flex-wrap mt-4"><a class="btn btn-sm btn-dark" href="{% url 'schedule_board' %}">Open schedule <i class="bi bi-arrow-right ms-1"></i></a><a class="btn btn-sm btn-outline-secondary" href="{% url 'exceptions_page' %}">Review exceptions</a></div>
+      {% else %}
+      <div class="empty-state"><div class="empty-icon"><i class="bi bi-calendar2-check"></i></div><h3>No schedule has been generated</h3><p>Load the synthetic dataset, then run the scheduler to calculate machine assignments, setup gaps, material reservations and delivery KPIs.</p><a class="btn btn-primary" href="{% url 'data_browser' %}">Inspect plant data</a></div>
+      {% endif %}
+    </section>
+  </div>
+  <div class="col-12 col-xl-4">
+    <section class="panel h-100">
+      <div class="panel-head"><div><div class="eyebrow">RESOURCE SNAPSHOT</div><h2 class="panel-title">Plant footprint</h2></div><i class="bi bi-buildings panel-icon"></i></div>
+      <div class="resource-list">
+        <div><span class="resource-icon"><i class="bi bi-cpu"></i></span><span><strong>{{ machines_count }}</strong><small>Machines / work centres</small></span><span class="resource-tag">CAPACITY</span></div>
+        <div><span class="resource-icon"><i class="bi bi-box-seam"></i></span><span><strong>{{ materials_count }}</strong><small>Material master records</small></span><span class="resource-tag">SUPPLY</span></div>
+        <div><span class="resource-icon"><i class="bi bi-diagram-2"></i></span><span><strong>{{ operations_count }}</strong><small>Routed operations</small></span><span class="resource-tag">ROUTING</span></div>
+        <div><span class="resource-icon"><i class="bi bi-journal-check"></i></span><span><strong>{{ scheduled_total }}</strong><small>Schedule records across runs</small></span><span class="resource-tag">TRACE</span></div>
+      </div>
+      <div class="resource-note"><i class="bi bi-info-circle me-1"></i>New runs append new schedule versions. Previous assignments and audit events remain available.</div>
+    </section>
+  </div>
+</div>
+<div class="row g-3">
+  <div class="col-12 col-xl-7">
+    <section class="panel h-100"><div class="panel-head"><div><div class="eyebrow">EXCEPTION MANAGEMENT</div><h2 class="panel-title">Latest run exceptions</h2></div><a class="small-link" href="{% url 'exceptions_page' %}">View all <i class="bi bi-arrow-up-right"></i></a></div>
+      {% if exceptions %}<div class="table-responsive"><table class="table app-table align-middle mb-0"><thead><tr><th>Issue</th><th>Operation</th><th>Explanation</th></tr></thead><tbody>{% for item in exceptions %}<tr><td><span class="issue-tag">{{ item.get_issue_type_display }}</span></td><td class="font-mono">{{ item.operation_id|default:'-' }}</td><td class="small text-secondary">{{ item.message }}</td></tr>{% endfor %}</tbody></table></div>{% else %}<div class="empty-inline"><i class="bi bi-check2-circle"></i><span>No exceptions recorded for the latest run.</span></div>{% endif %}
+    </section>
+  </div>
+  <div class="col-12 col-xl-5">
+    <section class="panel h-100"><div class="panel-head"><div><div class="eyebrow">TRACEABILITY</div><h2 class="panel-title">Recent scheduling runs</h2></div><i class="bi bi-clock-history panel-icon"></i></div>
+      {% if recent_runs %}<div class="run-list">{% for run in recent_runs %}<a href="{% url 'schedule_board' %}?run={{ run.run_id }}" class="run-item"><span class="run-symbol"><i class="bi bi-calendar2-week"></i></span><span class="run-info"><strong>{{ run.run_id }}</strong><small>{{ run.created_at|date:'d M, H:i' }} · {{ run.metrics.scheduled_operations|default:0 }} operations</small></span><span class="run-state">{{ run.status }}</span></a>{% endfor %}</div>{% else %}<div class="empty-inline">No historical runs yet.</div>{% endif %}
+    </section>
+  </div>
+</div>
+{% endblock %}

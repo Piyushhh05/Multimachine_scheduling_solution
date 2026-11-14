@@ -1,0 +1,1512 @@
+[
+  {
+    "material_id": "MAT-0122",
+    "product_id": "PROD-2026-000001",
+    "quantity_per_unit": 1.3371
+  },
+  {
+    "material_id": "MAT-0141",
+    "product_id": "PROD-2026-000001",
+    "quantity_per_unit": 0.2063
+  },
+  {
+    "material_id": "MAT-0185",
+    "product_id": "PROD-2026-000001",
+    "quantity_per_unit": 1.0565
+  },
+  {
+    "material_id": "MAT-0067",
+    "product_id": "PROD-2026-000002",
+    "quantity_per_unit": 1.2321
+  },
+  {
+    "material_id": "MAT-0122",
+    "product_id": "PROD-2026-000002",
+    "quantity_per_unit": 1.5287
+  },
+  {
+    "material_id": "MAT-0048",
+    "product_id": "PROD-2026-000002",
+    "quantity_per_unit": 0.7346
+  },
+  {
+    "material_id": "MAT-0129",
+    "product_id": "PROD-2026-000002",
+    "quantity_per_unit": 0.7222
+  },
+  {
+    "material_id": "MAT-0199",
+    "product_id": "PROD-2026-000003",
+    "quantity_per_unit": 1.4009
+  },
+  {
+    "material_id": "MAT-0158",
+    "product_id": "PROD-2026-000003",
+    "quantity_per_unit": 1.1729
+  },
+  {
+    "material_id": "MAT-0040",
+    "product_id": "PROD-2026-000003",
+    "quantity_per_unit": 1.2745
+  },
+  {
+    "material_id": "MAT-0150",
+    "product_id": "PROD-2026-000004",
+    "quantity_per_unit": 0.4814
+  },
+  {
+    "material_id": "MAT-0033",
+    "product_id": "PROD-2026-000004",
+    "quantity_per_unit": 0.325
+  },
+  {
+    "material_id": "MAT-0168",
+    "product_id": "PROD-2026-000004",
+    "quantity_per_unit": 0.917
+  },
+  {
+    "material_id": "MAT-0185",
+    "product_id": "PROD-2026-000004",
+    "quantity_per_unit": 1.3711
+  },
+  {
+    "material_id": "MAT-0141",
+    "product_id": "PROD-2026-000005",
+    "quantity_per_unit": 0.4683
+  },
+  {
+    "material_id": "MAT-0109",
+    "product_id": "PROD-2026-000005",
+    "quantity_per_unit": 0.7953
+  },
+  {
+    "material_id": "MAT-0149",
+    "product_id": "PROD-2026-000005",
+    "quantity_per_unit": 1.3638
+  },
+  {
+    "material_id": "MAT-0190",
+    "product_id": "PROD-2026-000006",
+    "quantity_per_unit": 1.5411
+  },
+  {
+    "material_id": "MAT-0054",
+    "product_id": "PROD-2026-000006",
+    "quantity_per_unit": 0.7556
+  },
+  {
+    "material_id": "MAT-0044",
+    "product_id": "PROD-2026-000007",
+    "quantity_per_unit": 1.6766
+  },
+  {
+    "material_id": "MAT-0037",
+    "product_id": "PROD-2026-000007",
+    "quantity_per_unit": 0.9426
+  },
+  {
+    "material_id": "MAT-0166",
+    "product_id": "PROD-2026-000007",
+    "quantity_per_unit": 0.1968
+  },
+  {
+    "material_id": "MAT-0163",
+    "product_id": "PROD-2026-000007",
+    "quantity_per_unit": 1.7608
+  },
+  {
+    "material_id": "MAT-0183",
+    "product_id": "PROD-2026-000008",
+    "quantity_per_unit": 1.7131
+  },
+  {
+    "material_id": "MAT-0181",
+    "product_id": "PROD-2026-000008",
+    "quantity_per_unit": 1.3701
+  },
+  {
+    "material_id": "MAT-0008",
+    "product_id": "PROD-2026-000008",
+    "quantity_per_unit": 1.3254
+  },
+  {
+    "material_id": "MAT-0010",
+    "product_id": "PROD-2026-000008",
+    "quantity_per_unit": 0.6543
+  },
+  {
+    "material_id": "MAT-0150",
+    "product_id": "PROD-2026-000009",
+    "quantity_per_unit": 0.1509
+  },
+  {
+    "material_id": "MAT-0185",
+    "product_id": "PROD-2026-000009",
+    "quantity_per_unit": 1.7101
+  },
+  {
+    "material_id": "MAT-0097",
+    "product_id": "PROD-2026-000010",
+    "quantity_per_unit": 0.3475
+  },
+  {
+    "material_id": "MAT-0047",
+    "product_id": "PROD-2026-000010",
+    "quantity_per_unit": 0.3188
+  },
+  {
+    "material_id": "MAT-0018",
+    "product_id": "PROD-2026-000011",
+    "quantity_per_unit": 1.6019
+  },
+  {
+    "material_id": "MAT-0065",
+    "product_id": "PROD-2026-000011",
+    "quantity_per_unit": 1.0103
+  },
+  {
+    "material_id": "MAT-0154",
+    "product_id": "PROD-2026-000011",
+    "quantity_per_unit": 1.5776
+  },
+  {
+    "material_id": "MAT-0110",
+    "product_id": "PROD-2026-000012",
+    "quantity_per_unit": 1.7918
+  },
+  {
+    "material_id": "MAT-0189",
+    "product_id": "PROD-2026-000012",
+    "quantity_per_unit": 0.7253
+  },
+  {
+    "material_id": "MAT-0135",
+    "product_id": "PROD-2026-000013",
+    "quantity_per_unit": 1.2372
+  },
+  {
+    "material_id": "MAT-0163",
+    "product_id": "PROD-2026-000013",
+    "quantity_per_unit": 0.8172
+  },
+  {
+    "material_id": "MAT-0138",
+    "product_id": "PROD-2026-000014",
+    "quantity_per_unit": 1.7697
+  },
+  {
+    "material_id": "MAT-0152",
+    "product_id": "PROD-2026-000014",
+    "quantity_per_unit": 0.9535
+  },
+  {
+    "material_id": "MAT-0135",
+    "product_id": "PROD-2026-000014",
+    "quantity_per_unit": 0.6835
+  },
+  {
+    "material_id": "MAT-0119",
+    "product_id": "PROD-2026-000015",
+    "quantity_per_unit": 1.7015
+  },
+  {
+    "material_id": "MAT-0177",
+    "product_id": "PROD-2026-000015",
+    "quantity_per_unit": 0.381
+  },
+  {
+    "material_id": "MAT-0144",
+    "product_id": "PROD-2026-000015",
+    "quantity_per_unit": 0.2524
+  },
+  {
+    "material_id": "MAT-0061",
+    "product_id": "PROD-2026-000015",
+    "quantity_per_unit": 1.2239
+  },
+  {
+    "material_id": "MAT-0045",
+    "product_id": "PROD-2026-000016",
+    "quantity_per_unit": 1.4128
+  },
+  {
+    "material_id": "MAT-0161",
+    "product_id": "PROD-2026-000016",
+    "quantity_per_unit": 1.0786
+  },
+  {
+    "material_id": "MAT-0140",
+    "product_id": "PROD-2026-000017",
+    "quantity_per_unit": 1.4753
+  },
+  {
+    "material_id": "MAT-0001",
+    "product_id": "PROD-2026-000017",
+    "quantity_per_unit": 0.2976
+  },
+  {
+    "material_id": "MAT-0158",
+    "product_id": "PROD-2026-000017",
+    "quantity_per_unit": 1.7874
+  },
+  {
+    "material_id": "MAT-0170",
+    "product_id": "PROD-2026-000018",
+    "quantity_per_unit": 1.6861
+  },
+  {
+    "material_id": "MAT-0080",
+    "product_id": "PROD-2026-000018",
+    "quantity_per_unit": 0.6951
+  },
+  {
+    "material_id": "MAT-0109",
+    "product_id": "PROD-2026-000019",
+    "quantity_per_unit": 0.6163
+  },
+  {
+    "material_id": "MAT-0005",
+    "product_id": "PROD-2026-000019",
+    "quantity_per_unit": 0.6354
+  },
+  {
+    "material_id": "MAT-0034",
+    "product_id": "PROD-2026-000019",
+    "quantity_per_unit": 0.8776
+  },
+  {
+    "material_id": "MAT-0151",
+    "product_id": "PROD-2026-000019",
+    "quantity_per_unit": 1.3222
+  },
+  {
+    "material_id": "MAT-0156",
+    "product_id": "PROD-2026-000020",
+    "quantity_per_unit": 1.5402
+  },
+  {
+    "material_id": "MAT-0105",
+    "product_id": "PROD-2026-000020",
+    "quantity_per_unit": 1.7243
+  },
+  {
+    "material_id": "MAT-0059",
+    "product_id": "PROD-2026-000020",
+    "quantity_per_unit": 0.868
+  },
+  {
+    "material_id": "MAT-0186",
+    "product_id": "PROD-2026-000020",
+    "quantity_per_unit": 1.3869
+  },
+  {
+    "material_id": "MAT-0077",
+    "product_id": "PROD-2026-000021",
+    "quantity_per_unit": 0.6873
+  },
+  {
+    "material_id": "MAT-0126",
+    "product_id": "PROD-2026-000021",
+    "quantity_per_unit": 0.2657
+  },
+  {
+    "material_id": "MAT-0008",
+    "product_id": "PROD-2026-000022",
+    "quantity_per_unit": 0.1793
+  },
+  {
+    "material_id": "MAT-0159",
+    "product_id": "PROD-2026-000022",
+    "quantity_per_unit": 0.9281
+  },
+  {
+    "material_id": "MAT-0002",
+    "product_id": "PROD-2026-000022",
+    "quantity_per_unit": 0.2346
+  },
+  {
+    "material_id": "MAT-0170",
+    "product_id": "PROD-2026-000023",
+    "quantity_per_unit": 1.0788
+  },
+  {
+    "material_id": "MAT-0038",
+    "product_id": "PROD-2026-000023",
+    "quantity_per_unit": 1.5188
+  },
+  {
+    "material_id": "MAT-0131",
+    "product_id": "PROD-2026-000024",
+    "quantity_per_unit": 0.5298
+  },
+  {
+    "material_id": "MAT-0052",
+    "product_id": "PROD-2026-000024",
+    "quantity_per_unit": 0.6377
+  },
+  {
+    "material_id": "MAT-0028",
+    "product_id": "PROD-2026-000024",
+    "quantity_per_unit": 1.7487
+  },
+  {
+    "material_id": "MAT-0019",
+    "product_id": "PROD-2026-000024",
+    "quantity_per_unit": 1.6262
+  },
+  {
+    "material_id": "MAT-0166",
+    "product_id": "PROD-2026-000025",
+    "quantity_per_unit": 1.6946
+  },
+  {
+    "material_id": "MAT-0112",
+    "product_id": "PROD-2026-000025",
+    "quantity_per_unit": 0.2871
+  },
+  {
+    "material_id": "MAT-0066",
+    "product_id": "PROD-2026-000026",
+    "quantity_per_unit": 1.2871
+  },
+  {
+    "material_id": "MAT-0176",
+    "product_id": "PROD-2026-000026",
+    "quantity_per_unit": 0.8754
+  },
+  {
+    "material_id": "MAT-0192",
+    "product_id": "PROD-2026-000026",
+    "quantity_per_unit": 0.6063
+  },
+  {
+    "material_id": "MAT-0140",
+    "product_id": "PROD-2026-000027",
+    "quantity_per_unit": 1.7899
+  },
+  {
+    "material_id": "MAT-0171",
+    "product_id": "PROD-2026-000027",
+    "quantity_per_unit": 0.6075
+  },
+  {
+    "material_id": "MAT-0062",
+    "product_id": "PROD-2026-000027",
+    "quantity_per_unit": 0.2911
+  },
+  {
+    "material_id": "MAT-0040",
+    "product_id": "PROD-2026-000027",
+    "quantity_per_unit": 1.7372
+  },
+  {
+    "material_id": "MAT-0037",
+    "product_id": "PROD-2026-000028",
+    "quantity_per_unit": 1.6375
+  },
+  {
+    "material_id": "MAT-0154",
+    "product_id": "PROD-2026-000028",
+    "quantity_per_unit": 1.7353
+  },
+  {
+    "material_id": "MAT-0081",
+    "product_id": "PROD-2026-000028",
+    "quantity_per_unit": 1.6766
+  },
+  {
+    "material_id": "MAT-0016",
+    "product_id": "PROD-2026-000028",
+    "quantity_per_unit": 1.1364
+  },
+  {
+    "material_id": "MAT-0076",
+    "product_id": "PROD-2026-000029",
+    "quantity_per_unit": 1.4696
+  },
+  {
+    "material_id": "MAT-0011",
+    "product_id": "PROD-2026-000029",
+    "quantity_per_unit": 0.3622
+  },
+  {
+    "material_id": "MAT-0008",
+    "product_id": "PROD-2026-000029",
+    "quantity_per_unit": 0.8142
+  },
+  {
+    "material_id": "MAT-0058",
+    "product_id": "PROD-2026-000030",
+    "quantity_per_unit": 0.9808
+  },
+  {
+    "material_id": "MAT-0183",
+    "product_id": "PROD-2026-000030",
+    "quantity_per_unit": 1.2351
+  },
+  {
+    "material_id": "MAT-0189",
+    "product_id": "PROD-2026-000030",
+    "quantity_per_unit": 0.5322
+  },
+  {
+    "material_id": "MAT-0150",
+    "product_id": "PROD-2026-000031",
+    "quantity_per_unit": 1.6197
+  },
+  {
+    "material_id": "MAT-0102",
+    "product_id": "PROD-2026-000031",
+    "quantity_per_unit": 1.0045
+  },
+  {
+    "material_id": "MAT-0161",
+    "product_id": "PROD-2026-000032",
+    "quantity_per_unit": 1.1724
+  },
+  {
+    "material_id": "MAT-0120",
+    "product_id": "PROD-2026-000032",
+    "quantity_per_unit": 1.7981
+  },
+  {
+    "material_id": "MAT-0156",
+    "product_id": "PROD-2026-000032",
+    "quantity_per_unit": 1.5785
+  },
+  {
+    "material_id": "MAT-0152",
+    "product_id": "PROD-2026-000033",
+    "quantity_per_unit": 1.6324
+  },
+  {
+    "material_id": "MAT-0123",
+    "product_id": "PROD-2026-000033",
+    "quantity_per_unit": 1.6533
+  },
+  {
+    "material_id": "MAT-0146",
+    "product_id": "PROD-2026-000033",
+    "quantity_per_unit": 1.4869
+  },
+  {
+    "material_id": "MAT-0171",
+    "product_id": "PROD-2026-000033",
+    "quantity_per_unit": 0.9325
+  },
+  {
+    "material_id": "MAT-0197",
+    "product_id": "PROD-2026-000034",
+    "quantity_per_unit": 1.3909
+  },
+  {
+    "material_id": "MAT-0153",
+    "product_id": "PROD-2026-000034",
+    "quantity_per_unit": 1.3858
+  },
+  {
+    "material_id": "MAT-0026",
+    "product_id": "PROD-2026-000035",
+    "quantity_per_unit": 0.908
+  },
+  {
+    "material_id": "MAT-0169",
+    "product_id": "PROD-2026-000035",
+    "quantity_per_unit": 0.2923
+  },
+  {
+    "material_id": "MAT-0078",
+    "product_id": "PROD-2026-000035",
+    "quantity_per_unit": 0.9364
+  },
+  {
+    "material_id": "MAT-0010",
+    "product_id": "PROD-2026-000036",
+    "quantity_per_unit": 1.5026
+  },
+  {
+    "material_id": "MAT-0184",
+    "product_id": "PROD-2026-000036",
+    "quantity_per_unit": 1.066
+  },
+  {
+    "material_id": "MAT-0049",
+    "product_id": "PROD-2026-000036",
+    "quantity_per_unit": 1.7967
+  },
+  {
+    "material_id": "MAT-0145",
+    "product_id": "PROD-2026-000036",
+    "quantity_per_unit": 0.2916
+  },
+  {
+    "material_id": "MAT-0033",
+    "product_id": "PROD-2026-000037",
+    "quantity_per_unit": 1.2738
+  },
+  {
+    "material_id": "MAT-0029",
+    "product_id": "PROD-2026-000037",
+    "quantity_per_unit": 0.5529
+  },
+  {
+    "material_id": "MAT-0089",
+    "product_id": "PROD-2026-000037",
+    "quantity_per_unit": 0.8816
+  },
+  {
+    "material_id": "MAT-0040",
+    "product_id": "PROD-2026-000037",
+    "quantity_per_unit": 1.6477
+  },
+  {
+    "material_id": "MAT-0069",
+    "product_id": "PROD-2026-000038",
+    "quantity_per_unit": 0.3153
+  },
+  {
+    "material_id": "MAT-0110",
+    "product_id": "PROD-2026-000038",
+    "quantity_per_unit": 1.5102
+  },
+  {
+    "material_id": "MAT-0005",
+    "product_id": "PROD-2026-000039",
+    "quantity_per_unit": 1.1553
+  },
+  {
+    "material_id": "MAT-0030",
+    "product_id": "PROD-2026-000039",
+    "quantity_per_unit": 0.4556
+  },
+  {
+    "material_id": "MAT-0067",
+    "product_id": "PROD-2026-000039",
+    "quantity_per_unit": 0.9092
+  },
+  {
+    "material_id": "MAT-0007",
+    "product_id": "PROD-2026-000039",
+    "quantity_per_unit": 1.3326
+  },
+  {
+    "material_id": "MAT-0138",
+    "product_id": "PROD-2026-000040",
+    "quantity_per_unit": 0.5646
+  },
+  {
+    "material_id": "MAT-0012",
+    "product_id": "PROD-2026-000040",
+    "quantity_per_unit": 0.6737
+  },
+  {
+    "material_id": "MAT-0081",
+    "product_id": "PROD-2026-000040",
+    "quantity_per_unit": 1.1969
+  },
+  {
+    "material_id": "MAT-0085",
+    "product_id": "PROD-2026-000041",
+    "quantity_per_unit": 1.7336
+  },
+  {
+    "material_id": "MAT-0139",
+    "product_id": "PROD-2026-000041",
+    "quantity_per_unit": 1.5927
+  },
+  {
+    "material_id": "MAT-0001",
+    "product_id": "PROD-2026-000041",
+    "quantity_per_unit": 1.3956
+  },
+  {
+    "material_id": "MAT-0127",
+    "product_id": "PROD-2026-000041",
+    "quantity_per_unit": 1.1538
+  },
+  {
+    "material_id": "MAT-0133",
+    "product_id": "PROD-2026-000042",
+    "quantity_per_unit": 0.3854
+  },
+  {
+    "material_id": "MAT-0064",
+    "product_id": "PROD-2026-000042",
+    "quantity_per_unit": 1.7956
+  },
+  {
+    "material_id": "MAT-0023",
+    "product_id": "PROD-2026-000042",
+    "quantity_per_unit": 0.4045
+  },
+  {
+    "material_id": "MAT-0166",
+    "product_id": "PROD-2026-000042",
+    "quantity_per_unit": 1.7768
+  },
+  {
+    "material_id": "MAT-0082",
+    "product_id": "PROD-2026-000043",
+    "quantity_per_unit": 1.0883
+  },
+  {
+    "material_id": "MAT-0013",
+    "product_id": "PROD-2026-000043",
+    "quantity_per_unit": 0.6545
+  },
+  {
+    "material_id": "MAT-0017",
+    "product_id": "PROD-2026-000043",
+    "quantity_per_unit": 1.3784
+  },
+  {
+    "material_id": "MAT-0060",
+    "product_id": "PROD-2026-000044",
+    "quantity_per_unit": 1.2263
+  },
+  {
+    "material_id": "MAT-0065",
+    "product_id": "PROD-2026-000044",
+    "quantity_per_unit": 1.6798
+  },
+  {
+    "material_id": "MAT-0169",
+    "product_id": "PROD-2026-000044",
+    "quantity_per_unit": 0.4271
+  },
+  {
+    "material_id": "MAT-0137",
+    "product_id": "PROD-2026-000044",
+    "quantity_per_unit": 0.2878
+  },
+  {
+    "material_id": "MAT-0007",
+    "product_id": "PROD-2026-000045",
+    "quantity_per_unit": 0.3611
+  },
+  {
+    "material_id": "MAT-0122",
+    "product_id": "PROD-2026-000045",
+    "quantity_per_unit": 0.3254
+  },
+  {
+    "material_id": "MAT-0169",
+    "product_id": "PROD-2026-000045",
+    "quantity_per_unit": 0.5845
+  },
+  {
+    "material_id": "MAT-0012",
+    "product_id": "PROD-2026-000046",
+    "quantity_per_unit": 0.3362
+  },
+  {
+    "material_id": "MAT-0173",
+    "product_id": "PROD-2026-000046",
+    "quantity_per_unit": 1.1844
+  },
+  {
+    "material_id": "MAT-0022",
+    "product_id": "PROD-2026-000047",
+    "quantity_per_unit": 0.4201
+  },
+  {
+    "material_id": "MAT-0186",
+    "product_id": "PROD-2026-000047",
+    "quantity_per_unit": 0.2688
+  },
+  {
+    "material_id": "MAT-0055",
+    "product_id": "PROD-2026-000048",
+    "quantity_per_unit": 1.1972
+  },
+  {
+    "material_id": "MAT-0158",
+    "product_id": "PROD-2026-000048",
+    "quantity_per_unit": 0.8029
+  },
+  {
+    "material_id": "MAT-0080",
+    "product_id": "PROD-2026-000048",
+    "quantity_per_unit": 1.3863
+  },
+  {
+    "material_id": "MAT-0072",
+    "product_id": "PROD-2026-000048",
+    "quantity_per_unit": 0.2569
+  },
+  {
+    "material_id": "MAT-0158",
+    "product_id": "PROD-2026-000049",
+    "quantity_per_unit": 1.4774
+  },
+  {
+    "material_id": "MAT-0020",
+    "product_id": "PROD-2026-000049",
+    "quantity_per_unit": 0.5507
+  },
+  {
+    "material_id": "MAT-0101",
+    "product_id": "PROD-2026-000049",
+    "quantity_per_unit": 0.1513
+  },
+  {
+    "material_id": "MAT-0040",
+    "product_id": "PROD-2026-000049",
+    "quantity_per_unit": 1.6816
+  },
+  {
+    "material_id": "MAT-0010",
+    "product_id": "PROD-2026-000050",
+    "quantity_per_unit": 1.4589
+  },
+  {
+    "material_id": "MAT-0108",
+    "product_id": "PROD-2026-000050",
+    "quantity_per_unit": 0.661
+  },
+  {
+    "material_id": "MAT-0049",
+    "product_id": "PROD-2026-000050",
+    "quantity_per_unit": 1.6814
+  },
+  {
+    "material_id": "MAT-0164",
+    "product_id": "PROD-2026-000051",
+    "quantity_per_unit": 0.4585
+  },
+  {
+    "material_id": "MAT-0003",
+    "product_id": "PROD-2026-000051",
+    "quantity_per_unit": 1.24
+  },
+  {
+    "material_id": "MAT-0103",
+    "product_id": "PROD-2026-000051",
+    "quantity_per_unit": 0.3897
+  },
+  {
+    "material_id": "MAT-0104",
+    "product_id": "PROD-2026-000052",
+    "quantity_per_unit": 1.7096
+  },
+  {
+    "material_id": "MAT-0100",
+    "product_id": "PROD-2026-000052",
+    "quantity_per_unit": 1.5615
+  },
+  {
+    "material_id": "MAT-0130",
+    "product_id": "PROD-2026-000053",
+    "quantity_per_unit": 0.4306
+  },
+  {
+    "material_id": "MAT-0041",
+    "product_id": "PROD-2026-000053",
+    "quantity_per_unit": 0.5209
+  },
+  {
+    "material_id": "MAT-0153",
+    "product_id": "PROD-2026-000054",
+    "quantity_per_unit": 1.7976
+  },
+  {
+    "material_id": "MAT-0076",
+    "product_id": "PROD-2026-000054",
+    "quantity_per_unit": 0.4244
+  },
+  {
+    "material_id": "MAT-0186",
+    "product_id": "PROD-2026-000054",
+    "quantity_per_unit": 0.3489
+  },
+  {
+    "material_id": "MAT-0102",
+    "product_id": "PROD-2026-000055",
+    "quantity_per_unit": 0.9999
+  },
+  {
+    "material_id": "MAT-0024",
+    "product_id": "PROD-2026-000055",
+    "quantity_per_unit": 1.3315
+  },
+  {
+    "material_id": "MAT-0128",
+    "product_id": "PROD-2026-000055",
+    "quantity_per_unit": 1.2016
+  },
+  {
+    "material_id": "MAT-0175",
+    "product_id": "PROD-2026-000056",
+    "quantity_per_unit": 0.217
+  },
+  {
+    "material_id": "MAT-0126",
+    "product_id": "PROD-2026-000056",
+    "quantity_per_unit": 0.845
+  },
+  {
+    "material_id": "MAT-0171",
+    "product_id": "PROD-2026-000057",
+    "quantity_per_unit": 0.6841
+  },
+  {
+    "material_id": "MAT-0155",
+    "product_id": "PROD-2026-000057",
+    "quantity_per_unit": 0.887
+  },
+  {
+    "material_id": "MAT-0027",
+    "product_id": "PROD-2026-000057",
+    "quantity_per_unit": 0.2814
+  },
+  {
+    "material_id": "MAT-0100",
+    "product_id": "PROD-2026-000058",
+    "quantity_per_unit": 0.4005
+  },
+  {
+    "material_id": "MAT-0154",
+    "product_id": "PROD-2026-000058",
+    "quantity_per_unit": 1.2806
+  },
+  {
+    "material_id": "MAT-0136",
+    "product_id": "PROD-2026-000058",
+    "quantity_per_unit": 1.786
+  },
+  {
+    "material_id": "MAT-0073",
+    "product_id": "PROD-2026-000058",
+    "quantity_per_unit": 0.4078
+  },
+  {
+    "material_id": "MAT-0094",
+    "product_id": "PROD-2026-000059",
+    "quantity_per_unit": 0.6236
+  },
+  {
+    "material_id": "MAT-0165",
+    "product_id": "PROD-2026-000059",
+    "quantity_per_unit": 1.3719
+  },
+  {
+    "material_id": "MAT-0125",
+    "product_id": "PROD-2026-000060",
+    "quantity_per_unit": 0.7332
+  },
+  {
+    "material_id": "MAT-0114",
+    "product_id": "PROD-2026-000060",
+    "quantity_per_unit": 1.3639
+  },
+  {
+    "material_id": "MAT-0103",
+    "product_id": "PROD-2026-000060",
+    "quantity_per_unit": 0.3507
+  },
+  {
+    "material_id": "MAT-0084",
+    "product_id": "PROD-2026-000060",
+    "quantity_per_unit": 1.7938
+  },
+  {
+    "material_id": "MAT-0081",
+    "product_id": "PROD-2026-000061",
+    "quantity_per_unit": 1.785
+  },
+  {
+    "material_id": "MAT-0165",
+    "product_id": "PROD-2026-000061",
+    "quantity_per_unit": 1.28
+  },
+  {
+    "material_id": "MAT-0060",
+    "product_id": "PROD-2026-000062",
+    "quantity_per_unit": 0.6628
+  },
+  {
+    "material_id": "MAT-0068",
+    "product_id": "PROD-2026-000062",
+    "quantity_per_unit": 0.2059
+  },
+  {
+    "material_id": "MAT-0059",
+    "product_id": "PROD-2026-000062",
+    "quantity_per_unit": 1.1939
+  },
+  {
+    "material_id": "MAT-0120",
+    "product_id": "PROD-2026-000062",
+    "quantity_per_unit": 1.788
+  },
+  {
+    "material_id": "MAT-0046",
+    "product_id": "PROD-2026-000063",
+    "quantity_per_unit": 0.8975
+  },
+  {
+    "material_id": "MAT-0106",
+    "product_id": "PROD-2026-000063",
+    "quantity_per_unit": 0.5623
+  },
+  {
+    "material_id": "MAT-0172",
+    "product_id": "PROD-2026-000063",
+    "quantity_per_unit": 1.1325
+  },
+  {
+    "material_id": "MAT-0022",
+    "product_id": "PROD-2026-000063",
+    "quantity_per_unit": 0.2973
+  },
+  {
+    "material_id": "MAT-0011",
+    "product_id": "PROD-2026-000064",
+    "quantity_per_unit": 0.6217
+  },
+  {
+    "material_id": "MAT-0105",
+    "product_id": "PROD-2026-000064",
+    "quantity_per_unit": 1.2354
+  },
+  {
+    "material_id": "MAT-0184",
+    "product_id": "PROD-2026-000064",
+    "quantity_per_unit": 1.2646
+  },
+  {
+    "material_id": "MAT-0062",
+    "product_id": "PROD-2026-000064",
+    "quantity_per_unit": 0.5083
+  },
+  {
+    "material_id": "MAT-0150",
+    "product_id": "PROD-2026-000065",
+    "quantity_per_unit": 1.494
+  },
+  {
+    "material_id": "MAT-0171",
+    "product_id": "PROD-2026-000065",
+    "quantity_per_unit": 1.7139
+  },
+  {
+    "material_id": "MAT-0192",
+    "product_id": "PROD-2026-000066",
+    "quantity_per_unit": 1.407
+  },
+  {
+    "material_id": "MAT-0077",
+    "product_id": "PROD-2026-000066",
+    "quantity_per_unit": 0.9907
+  },
+  {
+    "material_id": "MAT-0011",
+    "product_id": "PROD-2026-000067",
+    "quantity_per_unit": 0.5124
+  },
+  {
+    "material_id": "MAT-0033",
+    "product_id": "PROD-2026-000067",
+    "quantity_per_unit": 1.2985
+  },
+  {
+    "material_id": "MAT-0088",
+    "product_id": "PROD-2026-000068",
+    "quantity_per_unit": 0.9171
+  },
+  {
+    "material_id": "MAT-0118",
+    "product_id": "PROD-2026-000068",
+    "quantity_per_unit": 1.4149
+  },
+  {
+    "material_id": "MAT-0095",
+    "product_id": "PROD-2026-000068",
+    "quantity_per_unit": 0.1504
+  },
+  {
+    "material_id": "MAT-0198",
+    "product_id": "PROD-2026-000069",
+    "quantity_per_unit": 1.7112
+  },
+  {
+    "material_id": "MAT-0089",
+    "product_id": "PROD-2026-000069",
+    "quantity_per_unit": 1.59
+  },
+  {
+    "material_id": "MAT-0200",
+    "product_id": "PROD-2026-000069",
+    "quantity_per_unit": 0.4456
+  },
+  {
+    "material_id": "MAT-0130",
+    "product_id": "PROD-2026-000069",
+    "quantity_per_unit": 1.301
+  },
+  {
+    "material_id": "MAT-0119",
+    "product_id": "PROD-2026-000070",
+    "quantity_per_unit": 1.4754
+  },
+  {
+    "material_id": "MAT-0141",
+    "product_id": "PROD-2026-000070",
+    "quantity_per_unit": 0.6873
+  },
+  {
+    "material_id": "MAT-0200",
+    "product_id": "PROD-2026-000071",
+    "quantity_per_unit": 0.4033
+  },
+  {
+    "material_id": "MAT-0002",
+    "product_id": "PROD-2026-000071",
+    "quantity_per_unit": 0.6433
+  },
+  {
+    "material_id": "MAT-0113",
+    "product_id": "PROD-2026-000071",
+    "quantity_per_unit": 0.4649
+  },
+  {
+    "material_id": "MAT-0149",
+    "product_id": "PROD-2026-000071",
+    "quantity_per_unit": 1.2274
+  },
+  {
+    "material_id": "MAT-0143",
+    "product_id": "PROD-2026-000072",
+    "quantity_per_unit": 1.2314
+  },
+  {
+    "material_id": "MAT-0190",
+    "product_id": "PROD-2026-000072",
+    "quantity_per_unit": 0.1745
+  },
+  {
+    "material_id": "MAT-0155",
+    "product_id": "PROD-2026-000073",
+    "quantity_per_unit": 0.3067
+  },
+  {
+    "material_id": "MAT-0082",
+    "product_id": "PROD-2026-000073",
+    "quantity_per_unit": 0.9612
+  },
+  {
+    "material_id": "MAT-0154",
+    "product_id": "PROD-2026-000073",
+    "quantity_per_unit": 0.3793
+  },
+  {
+    "material_id": "MAT-0121",
+    "product_id": "PROD-2026-000073",
+    "quantity_per_unit": 0.8712
+  },
+  {
+    "material_id": "MAT-0182",
+    "product_id": "PROD-2026-000074",
+    "quantity_per_unit": 0.2099
+  },
+  {
+    "material_id": "MAT-0190",
+    "product_id": "PROD-2026-000074",
+    "quantity_per_unit": 1.711
+  },
+  {
+    "material_id": "MAT-0015",
+    "product_id": "PROD-2026-000074",
+    "quantity_per_unit": 0.8624
+  },
+  {
+    "material_id": "MAT-0030",
+    "product_id": "PROD-2026-000075",
+    "quantity_per_unit": 0.1575
+  },
+  {
+    "material_id": "MAT-0092",
+    "product_id": "PROD-2026-000075",
+    "quantity_per_unit": 1.3959
+  },
+  {
+    "material_id": "MAT-0093",
+    "product_id": "PROD-2026-000075",
+    "quantity_per_unit": 1.7466
+  },
+  {
+    "material_id": "MAT-0035",
+    "product_id": "PROD-2026-000076",
+    "quantity_per_unit": 1.7101
+  },
+  {
+    "material_id": "MAT-0096",
+    "product_id": "PROD-2026-000076",
+    "quantity_per_unit": 1.112
+  },
+  {
+    "material_id": "MAT-0081",
+    "product_id": "PROD-2026-000077",
+    "quantity_per_unit": 1.117
+  },
+  {
+    "material_id": "MAT-0166",
+    "product_id": "PROD-2026-000077",
+    "quantity_per_unit": 0.8124
+  },
+  {
+    "material_id": "MAT-0139",
+    "product_id": "PROD-2026-000078",
+    "quantity_per_unit": 0.1953
+  },
+  {
+    "material_id": "MAT-0073",
+    "product_id": "PROD-2026-000078",
+    "quantity_per_unit": 0.3301
+  },
+  {
+    "material_id": "MAT-0088",
+    "product_id": "PROD-2026-000078",
+    "quantity_per_unit": 0.3525
+  },
+  {
+    "material_id": "MAT-0017",
+    "product_id": "PROD-2026-000079",
+    "quantity_per_unit": 0.5627
+  },
+  {
+    "material_id": "MAT-0083",
+    "product_id": "PROD-2026-000079",
+    "quantity_per_unit": 0.9825
+  },
+  {
+    "material_id": "MAT-0200",
+    "product_id": "PROD-2026-000080",
+    "quantity_per_unit": 1.3371
+  },
+  {
+    "material_id": "MAT-0114",
+    "product_id": "PROD-2026-000080",
+    "quantity_per_unit": 1.1558
+  },
+  {
+    "material_id": "MAT-0017",
+    "product_id": "PROD-2026-000080",
+    "quantity_per_unit": 0.3729
+  },
+  {
+    "material_id": "MAT-0179",
+    "product_id": "PROD-2026-000080",
+    "quantity_per_unit": 1.5408
+  },
+  {
+    "material_id": "MAT-0111",
+    "product_id": "PROD-2026-000081",
+    "quantity_per_unit": 0.8923
+  },
+  {
+    "material_id": "MAT-0132",
+    "product_id": "PROD-2026-000081",
+    "quantity_per_unit": 1.7985
+  },
+  {
+    "material_id": "MAT-0120",
+    "product_id": "PROD-2026-000082",
+    "quantity_per_unit": 0.8632
+  },
+  {
+    "material_id": "MAT-0109",
+    "product_id": "PROD-2026-000082",
+    "quantity_per_unit": 1.1842
+  },
+  {
+    "material_id": "MAT-0194",
+    "product_id": "PROD-2026-000082",
+    "quantity_per_unit": 0.7153
+  },
+  {
+    "material_id": "MAT-0097",
+    "product_id": "PROD-2026-000083",
+    "quantity_per_unit": 1.5142
+  },
+  {
+    "material_id": "MAT-0024",
+    "product_id": "PROD-2026-000083",
+    "quantity_per_unit": 0.5981
+  },
+  {
+    "material_id": "MAT-0154",
+    "product_id": "PROD-2026-000083",
+    "quantity_per_unit": 1.348
+  },
+  {
+    "material_id": "MAT-0084",
+    "product_id": "PROD-2026-000083",
+    "quantity_per_unit": 0.873
+  },
+  {
+    "material_id": "MAT-0048",
+    "product_id": "PROD-2026-000084",
+    "quantity_per_unit": 0.8104
+  },
+  {
+    "material_id": "MAT-0151",
+    "product_id": "PROD-2026-000084",
+    "quantity_per_unit": 0.8681
+  },
+  {
+    "material_id": "MAT-0167",
+    "product_id": "PROD-2026-000085",
+    "quantity_per_unit": 1.0172
+  },
+  {
+    "material_id": "MAT-0042",
+    "product_id": "PROD-2026-000085",
+    "quantity_per_unit": 0.2301
+  },
+  {
+    "material_id": "MAT-0053",
+    "product_id": "PROD-2026-000085",
+    "quantity_per_unit": 0.6687
+  },
+  {
+    "material_id": "MAT-0127",
+    "product_id": "PROD-2026-000086",
+    "quantity_per_unit": 0.7019
+  },
+  {
+    "material_id": "MAT-0196",
+    "product_id": "PROD-2026-000086",
+    "quantity_per_unit": 0.6399
+  },
+  {
+    "material_id": "MAT-0139",
+    "product_id": "PROD-2026-000086",
+    "quantity_per_unit": 1.5736
+  },
+  {
+    "material_id": "MAT-0133",
+    "product_id": "PROD-2026-000086",
+    "quantity_per_unit": 0.9002
+  },
+  {
+    "material_id": "MAT-0188",
+    "product_id": "PROD-2026-000087",
+    "quantity_per_unit": 1.6763
+  },
+  {
+    "material_id": "MAT-0050",
+    "product_id": "PROD-2026-000087",
+    "quantity_per_unit": 1.2601
+  },
+  {
+    "material_id": "MAT-0043",
+    "product_id": "PROD-2026-000088",
+    "quantity_per_unit": 0.2342
+  },
+  {
+    "material_id": "MAT-0089",
+    "product_id": "PROD-2026-000088",
+    "quantity_per_unit": 0.1787
+  },
+  {
+    "material_id": "MAT-0164",
+    "product_id": "PROD-2026-000088",
+    "quantity_per_unit": 0.3459
+  },
+  {
+    "material_id": "MAT-0095",
+    "product_id": "PROD-2026-000088",
+    "quantity_per_unit": 0.3773
+  },
+  {
+    "material_id": "MAT-0122",
+    "product_id": "PROD-2026-000089",
+    "quantity_per_unit": 0.3678
+  },
+  {
+    "material_id": "MAT-0195",
+    "product_id": "PROD-2026-000089",
+    "quantity_per_unit": 1.752
+  },
+  {
+    "material_id": "MAT-0014",
+    "product_id": "PROD-2026-000089",
+    "quantity_per_unit": 0.3568
+  },
+  {
+    "material_id": "MAT-0025",
+    "product_id": "PROD-2026-000090",
+    "quantity_per_unit": 1.3643
+  },
+  {
+    "material_id": "MAT-0132",
+    "product_id": "PROD-2026-000090",
+    "quantity_per_unit": 0.6844
+  },
+  {
+    "material_id": "MAT-0140",
+    "product_id": "PROD-2026-000091",
+    "quantity_per_unit": 0.6067
+  },
+  {
+    "material_id": "MAT-0170",
+    "product_id": "PROD-2026-000091",
+    "quantity_per_unit": 0.8954
+  },
+  {
+    "material_id": "MAT-0008",
+    "product_id": "PROD-2026-000091",
+    "quantity_per_unit": 0.7539
+  },
+  {
+    "material_id": "MAT-0119",
+    "product_id": "PROD-2026-000092",
+    "quantity_per_unit": 1.1059
+  },
+  {
+    "material_id": "MAT-0043",
+    "product_id": "PROD-2026-000092",
+    "quantity_per_unit": 0.5407
+  },
+  {
+    "material_id": "MAT-0092",
+    "product_id": "PROD-2026-000093",
+    "quantity_per_unit": 0.8851
+  },
+  {
+    "material_id": "MAT-0106",
+    "product_id": "PROD-2026-000093",
+    "quantity_per_unit": 1.003
+  },
+  {
+    "material_id": "MAT-0120",
+    "product_id": "PROD-2026-000094",
+    "quantity_per_unit": 0.8485
+  },
+  {
+    "material_id": "MAT-0170",
+    "product_id": "PROD-2026-000094",
+    "quantity_per_unit": 1.4518
+  },
+  {
+    "material_id": "MAT-0053",
+    "product_id": "PROD-2026-000094",
+    "quantity_per_unit": 0.2584
+  },
+  {
+    "material_id": "MAT-0091",
+    "product_id": "PROD-2026-000094",
+    "quantity_per_unit": 0.181
+  },
+  {
+    "material_id": "MAT-0055",
+    "product_id": "PROD-2026-000095",
+    "quantity_per_unit": 0.3458
+  },
+  {
+    "material_id": "MAT-0099",
+    "product_id": "PROD-2026-000095",
+    "quantity_per_unit": 1.793
+  },
+  {
+    "material_id": "MAT-0097",
+    "product_id": "PROD-2026-000095",
+    "quantity_per_unit": 1.3842
+  },
+  {
+    "material_id": "MAT-0180",
+    "product_id": "PROD-2026-000096",
+    "quantity_per_unit": 0.1708
+  },
+  {
+    "material_id": "MAT-0006",
+    "product_id": "PROD-2026-000096",
+    "quantity_per_unit": 0.8472
+  },
+  {
+    "material_id": "MAT-0153",
+    "product_id": "PROD-2026-000096",
+    "quantity_per_unit": 1.4322
+  },
+  {
+    "material_id": "MAT-0083",
+    "product_id": "PROD-2026-000096",
+    "quantity_per_unit": 1.1848
+  },
+  {
+    "material_id": "MAT-0066",
+    "product_id": "PROD-2026-000097",
+    "quantity_per_unit": 0.8219
+  },
+  {
+    "material_id": "MAT-0185",
+    "product_id": "PROD-2026-000097",
+    "quantity_per_unit": 0.6054
+  },
+  {
+    "material_id": "MAT-0067",
+    "product_id": "PROD-2026-000097",
+    "quantity_per_unit": 1.7026
+  },
+  {
+    "material_id": "MAT-0161",
+    "product_id": "PROD-2026-000098",
+    "quantity_per_unit": 1.1599
+  },
+  {
+    "material_id": "MAT-0051",
+    "product_id": "PROD-2026-000098",
+    "quantity_per_unit": 0.2167
+  },
+  {
+    "material_id": "MAT-0078",
+    "product_id": "PROD-2026-000098",
+    "quantity_per_unit": 1.2673
+  },
+  {
+    "material_id": "MAT-0085",
+    "product_id": "PROD-2026-000098",
+    "quantity_per_unit": 1.5266
+  },
+  {
+    "material_id": "MAT-0088",
+    "product_id": "PROD-2026-000099",
+    "quantity_per_unit": 1.0067
+  },
+  {
+    "material_id": "MAT-0177",
+    "product_id": "PROD-2026-000099",
+    "quantity_per_unit": 1.6832
+  },
+  {
+    "material_id": "MAT-0198",
+    "product_id": "PROD-2026-000099",
+    "quantity_per_unit": 1.6018
+  },
+  {
+    "material_id": "MAT-0187",
+    "product_id": "PROD-2026-000099",
+    "quantity_per_unit": 1.6072
+  },
+  {
+    "material_id": "MAT-0165",
+    "product_id": "PROD-2026-000100",
+    "quantity_per_unit": 1.5523
+  },
+  {
+    "material_id": "MAT-0158",
+    "product_id": "PROD-2026-000100",
+    "quantity_per_unit": 0.34
+  },
+  {
+    "material_id": "MAT-0062",
+    "product_id": "PROD-2026-000100",
+    "quantity_per_unit": 0.6218
+  },
+  {
+    "material_id": "MAT-0033",
+    "product_id": "PROD-2026-000100",
+    "quantity_per_unit": 0.7214
+  }
+]

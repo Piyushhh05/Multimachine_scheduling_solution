@@ -1,0 +1,6 @@
+scenario_id,operation_id,issue_type,ground_truth,expected_detection,description
+ANOM-001,OP-PO-2026-000003-02,MACHINE_OVERLAP,VIOLATION,MACHINE_OVERLAP,Two otherwise eligible jobs are hypothetically assigned overlapping time on one machine.
+ANOM-002,OP-PO-2026-000001-02,PRECEDENCE,VIOLATION,PRECEDENCE,A downstream operation is moved ahead of its predecessor.
+ANOM-003,OP-PO-2026-000127-01,MATERIAL_UNAVAILABLE,VIOLATION,MATERIAL_UNAVAILABLE,An order attempts to consume a delayed material lot one day before it is available.
+ANOM-004,OP-PO-2026-000001-01,CALENDAR_VIOLATION,VIOLATION,CALENDAR_VIOLATION,An operation is assigned outside its weekday 08:00–16:00 shift.
+ANOM-005,OP-PO-2026-000001-01,CHANGEOVER_MISSING,VIOLATION,CHANGEOVER_MISSING,A sequence-dependent setup is omitted even though the from-to matrix requires it.

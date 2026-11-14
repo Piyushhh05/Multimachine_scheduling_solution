@@ -1,0 +1,79 @@
+[
+  {
+    "description": "Move the second operation into the first operation's occupied interval.",
+    "evidence": {
+      "conflicting_schedule_id": "SCH-2026-000003"
+    },
+    "expected_detection": "MACHINE_OVERLAP",
+    "issue_type": "MACHINE_OVERLAP",
+    "machine_id": "MACH-001",
+    "operation_id": "OP-PO-2026-000451-04",
+    "proposed_end": "2026-11-23T06:21:00+00:00",
+    "proposed_setup_minutes": 31,
+    "proposed_start": "2026-11-23T05:37:00+00:00",
+    "related_operation_id": "OP-PO-2026-000034-03",
+    "scenario_id": "ANOM-001"
+  },
+  {
+    "description": "Start a downstream route step before its predecessor is complete.",
+    "evidence": {
+      "predecessor_end": "2026-11-23T05:37:00+00:00"
+    },
+    "expected_detection": "PRECEDENCE",
+    "issue_type": "PRECEDENCE",
+    "machine_id": "MACH-001",
+    "operation_id": "OP-PO-2026-000034-03",
+    "proposed_end": "2026-11-23T06:21:00+00:00",
+    "proposed_setup_minutes": 0,
+    "proposed_start": "2026-11-23T03:48:00+00:00",
+    "related_operation_id": "OP-PO-2026-000034-02",
+    "scenario_id": "ANOM-002"
+  },
+  {
+    "description": "Attempt to consume a material lot before its available_from date.",
+    "evidence": {
+      "available_from": "2026-11-17",
+      "lot_id": "LOT-000001",
+      "material_id": "MAT-0001"
+    },
+    "expected_detection": "MATERIAL_UNAVAILABLE",
+    "issue_type": "MATERIAL_UNAVAILABLE",
+    "machine_id": "",
+    "operation_id": "OP-PO-2026-000450-01",
+    "proposed_end": "",
+    "proposed_setup_minutes": 0,
+    "proposed_start": "2026-11-16T08:00:00+05:30",
+    "related_operation_id": "",
+    "scenario_id": "ANOM-003"
+  },
+  {
+    "description": "Move an operation outside its machine's 08:00\u201316:00 weekday calendar.",
+    "evidence": {
+      "calendar": "Monday-Friday 08:00-16:00"
+    },
+    "expected_detection": "CALENDAR_VIOLATION",
+    "issue_type": "CALENDAR_VIOLATION",
+    "machine_id": "MACH-001",
+    "operation_id": "OP-PO-2026-000034-03",
+    "proposed_end": "2026-11-23T04:44:00+05:30",
+    "proposed_setup_minutes": 0,
+    "proposed_start": "2026-11-23T04:00:00+05:30",
+    "related_operation_id": "",
+    "scenario_id": "ANOM-004"
+  },
+  {
+    "description": "Set setup minutes to zero although the machine's from-to matrix requires a changeover.",
+    "evidence": {
+      "recorded_setup_minutes": 31
+    },
+    "expected_detection": "CHANGEOVER_MISSING",
+    "issue_type": "CHANGEOVER_MISSING",
+    "machine_id": "MACH-001",
+    "operation_id": "OP-PO-2026-000451-04",
+    "proposed_end": "2026-11-24T09:06:00+00:00",
+    "proposed_setup_minutes": 0,
+    "proposed_start": "2026-11-24T08:14:00+00:00",
+    "related_operation_id": "",
+    "scenario_id": "ANOM-005"
+  }
+]

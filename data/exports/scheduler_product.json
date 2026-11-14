@@ -1,0 +1,902 @@
+[
+  {
+    "category": "MACHINED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Industrial Assembly 001",
+    "product_id": "PROD-2026-000001",
+    "sku_code": "SKU-0001",
+    "unit": "EA"
+  },
+  {
+    "category": "ASSEMBLY",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Industrial Valve 002",
+    "product_id": "PROD-2026-000002",
+    "sku_code": "SKU-0002",
+    "unit": "EA"
+  },
+  {
+    "category": "ELECTRICAL",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Valve 003",
+    "product_id": "PROD-2026-000003",
+    "sku_code": "SKU-0003",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Valve 004",
+    "product_id": "PROD-2026-000004",
+    "sku_code": "SKU-0004",
+    "unit": "EA"
+  },
+  {
+    "category": "FINISHED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Assembly 005",
+    "product_id": "PROD-2026-000005",
+    "sku_code": "SKU-0005",
+    "unit": "EA"
+  },
+  {
+    "category": "MACHINED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Drive 006",
+    "product_id": "PROD-2026-000006",
+    "sku_code": "SKU-0006",
+    "unit": "EA"
+  },
+  {
+    "category": "ASSEMBLY",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Valve 007",
+    "product_id": "PROD-2026-000007",
+    "sku_code": "SKU-0007",
+    "unit": "EA"
+  },
+  {
+    "category": "ELECTRICAL",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Industrial Assembly 008",
+    "product_id": "PROD-2026-000008",
+    "sku_code": "SKU-0008",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Valve 009",
+    "product_id": "PROD-2026-000009",
+    "sku_code": "SKU-0009",
+    "unit": "EA"
+  },
+  {
+    "category": "FINISHED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Assembly 010",
+    "product_id": "PROD-2026-000010",
+    "sku_code": "SKU-0010",
+    "unit": "EA"
+  },
+  {
+    "category": "MACHINED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Valve 011",
+    "product_id": "PROD-2026-000011",
+    "sku_code": "SKU-0011",
+    "unit": "EA"
+  },
+  {
+    "category": "ASSEMBLY",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Drive 012",
+    "product_id": "PROD-2026-000012",
+    "sku_code": "SKU-0012",
+    "unit": "EA"
+  },
+  {
+    "category": "ELECTRICAL",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Panel 013",
+    "product_id": "PROD-2026-000013",
+    "sku_code": "SKU-0013",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Assembly 014",
+    "product_id": "PROD-2026-000014",
+    "sku_code": "SKU-0014",
+    "unit": "EA"
+  },
+  {
+    "category": "FINISHED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Industrial Unit 015",
+    "product_id": "PROD-2026-000015",
+    "sku_code": "SKU-0015",
+    "unit": "EA"
+  },
+  {
+    "category": "MACHINED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Drive 016",
+    "product_id": "PROD-2026-000016",
+    "sku_code": "SKU-0016",
+    "unit": "EA"
+  },
+  {
+    "category": "ASSEMBLY",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Valve 017",
+    "product_id": "PROD-2026-000017",
+    "sku_code": "SKU-0017",
+    "unit": "EA"
+  },
+  {
+    "category": "ELECTRICAL",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Drive 018",
+    "product_id": "PROD-2026-000018",
+    "sku_code": "SKU-0018",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Assembly 019",
+    "product_id": "PROD-2026-000019",
+    "sku_code": "SKU-0019",
+    "unit": "EA"
+  },
+  {
+    "category": "FINISHED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Assembly 020",
+    "product_id": "PROD-2026-000020",
+    "sku_code": "SKU-0020",
+    "unit": "EA"
+  },
+  {
+    "category": "MACHINED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Industrial Drive 021",
+    "product_id": "PROD-2026-000021",
+    "sku_code": "SKU-0021",
+    "unit": "EA"
+  },
+  {
+    "category": "ASSEMBLY",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Unit 022",
+    "product_id": "PROD-2026-000022",
+    "sku_code": "SKU-0022",
+    "unit": "EA"
+  },
+  {
+    "category": "ELECTRICAL",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Drive 023",
+    "product_id": "PROD-2026-000023",
+    "sku_code": "SKU-0023",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Unit 024",
+    "product_id": "PROD-2026-000024",
+    "sku_code": "SKU-0024",
+    "unit": "EA"
+  },
+  {
+    "category": "FINISHED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Valve 025",
+    "product_id": "PROD-2026-000025",
+    "sku_code": "SKU-0025",
+    "unit": "EA"
+  },
+  {
+    "category": "MACHINED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Assembly 026",
+    "product_id": "PROD-2026-000026",
+    "sku_code": "SKU-0026",
+    "unit": "EA"
+  },
+  {
+    "category": "ASSEMBLY",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Drive 027",
+    "product_id": "PROD-2026-000027",
+    "sku_code": "SKU-0027",
+    "unit": "EA"
+  },
+  {
+    "category": "ELECTRICAL",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Panel 028",
+    "product_id": "PROD-2026-000028",
+    "sku_code": "SKU-0028",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Panel 029",
+    "product_id": "PROD-2026-000029",
+    "sku_code": "SKU-0029",
+    "unit": "EA"
+  },
+  {
+    "category": "FINISHED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Drive 030",
+    "product_id": "PROD-2026-000030",
+    "sku_code": "SKU-0030",
+    "unit": "EA"
+  },
+  {
+    "category": "MACHINED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Drive 031",
+    "product_id": "PROD-2026-000031",
+    "sku_code": "SKU-0031",
+    "unit": "EA"
+  },
+  {
+    "category": "ASSEMBLY",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Valve 032",
+    "product_id": "PROD-2026-000032",
+    "sku_code": "SKU-0032",
+    "unit": "EA"
+  },
+  {
+    "category": "ELECTRICAL",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Unit 033",
+    "product_id": "PROD-2026-000033",
+    "sku_code": "SKU-0033",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Assembly 034",
+    "product_id": "PROD-2026-000034",
+    "sku_code": "SKU-0034",
+    "unit": "EA"
+  },
+  {
+    "category": "FINISHED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Panel 035",
+    "product_id": "PROD-2026-000035",
+    "sku_code": "SKU-0035",
+    "unit": "EA"
+  },
+  {
+    "category": "MACHINED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Assembly 036",
+    "product_id": "PROD-2026-000036",
+    "sku_code": "SKU-0036",
+    "unit": "EA"
+  },
+  {
+    "category": "ASSEMBLY",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Drive 037",
+    "product_id": "PROD-2026-000037",
+    "sku_code": "SKU-0037",
+    "unit": "EA"
+  },
+  {
+    "category": "ELECTRICAL",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Drive 038",
+    "product_id": "PROD-2026-000038",
+    "sku_code": "SKU-0038",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Drive 039",
+    "product_id": "PROD-2026-000039",
+    "sku_code": "SKU-0039",
+    "unit": "EA"
+  },
+  {
+    "category": "FINISHED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Panel 040",
+    "product_id": "PROD-2026-000040",
+    "sku_code": "SKU-0040",
+    "unit": "EA"
+  },
+  {
+    "category": "MACHINED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Industrial Drive 041",
+    "product_id": "PROD-2026-000041",
+    "sku_code": "SKU-0041",
+    "unit": "EA"
+  },
+  {
+    "category": "ASSEMBLY",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Industrial Unit 042",
+    "product_id": "PROD-2026-000042",
+    "sku_code": "SKU-0042",
+    "unit": "EA"
+  },
+  {
+    "category": "ELECTRICAL",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Drive 043",
+    "product_id": "PROD-2026-000043",
+    "sku_code": "SKU-0043",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Panel 044",
+    "product_id": "PROD-2026-000044",
+    "sku_code": "SKU-0044",
+    "unit": "EA"
+  },
+  {
+    "category": "FINISHED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Drive 045",
+    "product_id": "PROD-2026-000045",
+    "sku_code": "SKU-0045",
+    "unit": "EA"
+  },
+  {
+    "category": "MACHINED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Unit 046",
+    "product_id": "PROD-2026-000046",
+    "sku_code": "SKU-0046",
+    "unit": "EA"
+  },
+  {
+    "category": "ASSEMBLY",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Industrial Unit 047",
+    "product_id": "PROD-2026-000047",
+    "sku_code": "SKU-0047",
+    "unit": "EA"
+  },
+  {
+    "category": "ELECTRICAL",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Unit 048",
+    "product_id": "PROD-2026-000048",
+    "sku_code": "SKU-0048",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Industrial Valve 049",
+    "product_id": "PROD-2026-000049",
+    "sku_code": "SKU-0049",
+    "unit": "EA"
+  },
+  {
+    "category": "FINISHED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Industrial Assembly 050",
+    "product_id": "PROD-2026-000050",
+    "sku_code": "SKU-0050",
+    "unit": "EA"
+  },
+  {
+    "category": "MACHINED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Panel 051",
+    "product_id": "PROD-2026-000051",
+    "sku_code": "SKU-0051",
+    "unit": "EA"
+  },
+  {
+    "category": "ASSEMBLY",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Industrial Panel 052",
+    "product_id": "PROD-2026-000052",
+    "sku_code": "SKU-0052",
+    "unit": "EA"
+  },
+  {
+    "category": "ELECTRICAL",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Assembly 053",
+    "product_id": "PROD-2026-000053",
+    "sku_code": "SKU-0053",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Industrial Panel 054",
+    "product_id": "PROD-2026-000054",
+    "sku_code": "SKU-0054",
+    "unit": "EA"
+  },
+  {
+    "category": "FINISHED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Valve 055",
+    "product_id": "PROD-2026-000055",
+    "sku_code": "SKU-0055",
+    "unit": "EA"
+  },
+  {
+    "category": "MACHINED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Unit 056",
+    "product_id": "PROD-2026-000056",
+    "sku_code": "SKU-0056",
+    "unit": "EA"
+  },
+  {
+    "category": "ASSEMBLY",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Industrial Unit 057",
+    "product_id": "PROD-2026-000057",
+    "sku_code": "SKU-0057",
+    "unit": "EA"
+  },
+  {
+    "category": "ELECTRICAL",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Drive 058",
+    "product_id": "PROD-2026-000058",
+    "sku_code": "SKU-0058",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Unit 059",
+    "product_id": "PROD-2026-000059",
+    "sku_code": "SKU-0059",
+    "unit": "EA"
+  },
+  {
+    "category": "FINISHED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Industrial Assembly 060",
+    "product_id": "PROD-2026-000060",
+    "sku_code": "SKU-0060",
+    "unit": "EA"
+  },
+  {
+    "category": "MACHINED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Drive 061",
+    "product_id": "PROD-2026-000061",
+    "sku_code": "SKU-0061",
+    "unit": "EA"
+  },
+  {
+    "category": "ASSEMBLY",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Unit 062",
+    "product_id": "PROD-2026-000062",
+    "sku_code": "SKU-0062",
+    "unit": "EA"
+  },
+  {
+    "category": "ELECTRICAL",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Valve 063",
+    "product_id": "PROD-2026-000063",
+    "sku_code": "SKU-0063",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Valve 064",
+    "product_id": "PROD-2026-000064",
+    "sku_code": "SKU-0064",
+    "unit": "EA"
+  },
+  {
+    "category": "FINISHED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Assembly 065",
+    "product_id": "PROD-2026-000065",
+    "sku_code": "SKU-0065",
+    "unit": "EA"
+  },
+  {
+    "category": "MACHINED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Assembly 066",
+    "product_id": "PROD-2026-000066",
+    "sku_code": "SKU-0066",
+    "unit": "EA"
+  },
+  {
+    "category": "ASSEMBLY",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Industrial Drive 067",
+    "product_id": "PROD-2026-000067",
+    "sku_code": "SKU-0067",
+    "unit": "EA"
+  },
+  {
+    "category": "ELECTRICAL",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Unit 068",
+    "product_id": "PROD-2026-000068",
+    "sku_code": "SKU-0068",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Industrial Drive 069",
+    "product_id": "PROD-2026-000069",
+    "sku_code": "SKU-0069",
+    "unit": "EA"
+  },
+  {
+    "category": "FINISHED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Industrial Drive 070",
+    "product_id": "PROD-2026-000070",
+    "sku_code": "SKU-0070",
+    "unit": "EA"
+  },
+  {
+    "category": "MACHINED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Drive 071",
+    "product_id": "PROD-2026-000071",
+    "sku_code": "SKU-0071",
+    "unit": "EA"
+  },
+  {
+    "category": "ASSEMBLY",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Industrial Panel 072",
+    "product_id": "PROD-2026-000072",
+    "sku_code": "SKU-0072",
+    "unit": "EA"
+  },
+  {
+    "category": "ELECTRICAL",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Assembly 073",
+    "product_id": "PROD-2026-000073",
+    "sku_code": "SKU-0073",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Drive 074",
+    "product_id": "PROD-2026-000074",
+    "sku_code": "SKU-0074",
+    "unit": "EA"
+  },
+  {
+    "category": "FINISHED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Valve 075",
+    "product_id": "PROD-2026-000075",
+    "sku_code": "SKU-0075",
+    "unit": "EA"
+  },
+  {
+    "category": "MACHINED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Unit 076",
+    "product_id": "PROD-2026-000076",
+    "sku_code": "SKU-0076",
+    "unit": "EA"
+  },
+  {
+    "category": "ASSEMBLY",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Unit 077",
+    "product_id": "PROD-2026-000077",
+    "sku_code": "SKU-0077",
+    "unit": "EA"
+  },
+  {
+    "category": "ELECTRICAL",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Drive 078",
+    "product_id": "PROD-2026-000078",
+    "sku_code": "SKU-0078",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Unit 079",
+    "product_id": "PROD-2026-000079",
+    "sku_code": "SKU-0079",
+    "unit": "EA"
+  },
+  {
+    "category": "FINISHED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Valve 080",
+    "product_id": "PROD-2026-000080",
+    "sku_code": "SKU-0080",
+    "unit": "EA"
+  },
+  {
+    "category": "MACHINED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Unit 081",
+    "product_id": "PROD-2026-000081",
+    "sku_code": "SKU-0081",
+    "unit": "EA"
+  },
+  {
+    "category": "ASSEMBLY",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Industrial Valve 082",
+    "product_id": "PROD-2026-000082",
+    "sku_code": "SKU-0082",
+    "unit": "EA"
+  },
+  {
+    "category": "ELECTRICAL",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Panel 083",
+    "product_id": "PROD-2026-000083",
+    "sku_code": "SKU-0083",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Industrial Drive 084",
+    "product_id": "PROD-2026-000084",
+    "sku_code": "SKU-0084",
+    "unit": "EA"
+  },
+  {
+    "category": "FINISHED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Drive 085",
+    "product_id": "PROD-2026-000085",
+    "sku_code": "SKU-0085",
+    "unit": "EA"
+  },
+  {
+    "category": "MACHINED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Assembly 086",
+    "product_id": "PROD-2026-000086",
+    "sku_code": "SKU-0086",
+    "unit": "EA"
+  },
+  {
+    "category": "ASSEMBLY",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Unit 087",
+    "product_id": "PROD-2026-000087",
+    "sku_code": "SKU-0087",
+    "unit": "EA"
+  },
+  {
+    "category": "ELECTRICAL",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Drive 088",
+    "product_id": "PROD-2026-000088",
+    "sku_code": "SKU-0088",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Industrial Valve 089",
+    "product_id": "PROD-2026-000089",
+    "sku_code": "SKU-0089",
+    "unit": "EA"
+  },
+  {
+    "category": "FINISHED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Unit 090",
+    "product_id": "PROD-2026-000090",
+    "sku_code": "SKU-0090",
+    "unit": "EA"
+  },
+  {
+    "category": "MACHINED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Panel 091",
+    "product_id": "PROD-2026-000091",
+    "sku_code": "SKU-0091",
+    "unit": "EA"
+  },
+  {
+    "category": "ASSEMBLY",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Panel 092",
+    "product_id": "PROD-2026-000092",
+    "sku_code": "SKU-0092",
+    "unit": "EA"
+  },
+  {
+    "category": "ELECTRICAL",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Assembly 093",
+    "product_id": "PROD-2026-000093",
+    "sku_code": "SKU-0093",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Assembly 094",
+    "product_id": "PROD-2026-000094",
+    "sku_code": "SKU-0094",
+    "unit": "EA"
+  },
+  {
+    "category": "FINISHED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Assembly 095",
+    "product_id": "PROD-2026-000095",
+    "sku_code": "SKU-0095",
+    "unit": "EA"
+  },
+  {
+    "category": "MACHINED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Modular Unit 096",
+    "product_id": "PROD-2026-000096",
+    "sku_code": "SKU-0096",
+    "unit": "EA"
+  },
+  {
+    "category": "ASSEMBLY",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Drive 097",
+    "product_id": "PROD-2026-000097",
+    "sku_code": "SKU-0097",
+    "unit": "EA"
+  },
+  {
+    "category": "ELECTRICAL",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Smart Assembly 098",
+    "product_id": "PROD-2026-000098",
+    "sku_code": "SKU-0098",
+    "unit": "EA"
+  },
+  {
+    "category": "PACKAGING",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Valve 099",
+    "product_id": "PROD-2026-000099",
+    "sku_code": "SKU-0099",
+    "unit": "EA"
+  },
+  {
+    "category": "FINISHED",
+    "created_at": "2026-09-17T02:30:00+00:00",
+    "lifecycle_state": "ACTIVE",
+    "name": "Precision Drive 100",
+    "product_id": "PROD-2026-000100",
+    "sku_code": "SKU-0100",
+    "unit": "EA"
+  }
+]

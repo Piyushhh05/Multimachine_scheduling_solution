@@ -1,0 +1,1 @@
+schedule_id,run_id,operation_id,machine_id,start_at,end_at,setup_minutes,processing_minutes,decision_reason,created_at

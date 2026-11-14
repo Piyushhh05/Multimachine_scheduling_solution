@@ -1,0 +1,642 @@
+[
+  {
+    "downtime_id": "DOWN-00001",
+    "end_at": "2027-01-13T08:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-001",
+    "reason": "Tool calibration",
+    "start_at": "2027-01-13T07:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00002",
+    "end_at": "2026-12-28T06:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-001",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-12-28T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00003",
+    "end_at": "2026-12-21T07:00:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-002",
+    "reason": "Tool calibration",
+    "start_at": "2026-12-21T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00004",
+    "end_at": "2026-12-07T07:00:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-002",
+    "reason": "Tool calibration",
+    "start_at": "2026-12-07T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00005",
+    "end_at": "2026-12-04T04:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-003",
+    "reason": "Tool calibration",
+    "start_at": "2026-12-04T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00006",
+    "end_at": "2026-12-14T05:30:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-003",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-12-14T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00007",
+    "end_at": "2026-12-08T05:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-004",
+    "reason": "Preventive maintenance",
+    "start_at": "2026-12-08T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00008",
+    "end_at": "2026-11-20T06:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-004",
+    "reason": "Tool calibration",
+    "start_at": "2026-11-20T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00009",
+    "end_at": "2026-12-04T07:00:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-005",
+    "reason": "Preventive maintenance",
+    "start_at": "2026-12-04T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00010",
+    "end_at": "2026-11-23T09:00:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-005",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-11-23T07:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00011",
+    "end_at": "2026-12-28T04:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-006",
+    "reason": "Tool calibration",
+    "start_at": "2026-12-28T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00012",
+    "end_at": "2026-12-09T07:30:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-006",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-12-09T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00013",
+    "end_at": "2027-01-15T10:00:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-007",
+    "reason": "Unplanned breakdown",
+    "start_at": "2027-01-15T08:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00014",
+    "end_at": "2026-11-18T06:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-007",
+    "reason": "Preventive maintenance",
+    "start_at": "2026-11-18T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00015",
+    "end_at": "2026-11-23T05:00:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-008",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-11-23T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00016",
+    "end_at": "2026-11-17T07:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-008",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-11-17T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00017",
+    "end_at": "2026-12-08T05:00:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-009",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-12-08T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00018",
+    "end_at": "2027-01-18T05:00:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-009",
+    "reason": "Preventive maintenance",
+    "start_at": "2027-01-18T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00019",
+    "end_at": "2026-11-17T10:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-010",
+    "reason": "Preventive maintenance",
+    "start_at": "2026-11-17T08:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00020",
+    "end_at": "2026-12-07T07:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-010",
+    "reason": "Tool calibration",
+    "start_at": "2026-12-07T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00021",
+    "end_at": "2027-01-19T09:30:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-011",
+    "reason": "Tool calibration",
+    "start_at": "2027-01-19T08:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00022",
+    "end_at": "2026-12-17T06:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-011",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-12-17T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00023",
+    "end_at": "2027-01-06T05:00:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-012",
+    "reason": "Tool calibration",
+    "start_at": "2027-01-06T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00024",
+    "end_at": "2026-11-25T05:30:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-012",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-11-25T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00025",
+    "end_at": "2027-01-11T08:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-013",
+    "reason": "Tool calibration",
+    "start_at": "2027-01-11T07:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00026",
+    "end_at": "2026-12-28T06:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-013",
+    "reason": "Preventive maintenance",
+    "start_at": "2026-12-28T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00027",
+    "end_at": "2026-11-30T05:00:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-014",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-11-30T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00028",
+    "end_at": "2027-01-21T10:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-014",
+    "reason": "Tool calibration",
+    "start_at": "2027-01-21T08:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00029",
+    "end_at": "2026-11-24T09:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-015",
+    "reason": "Tool calibration",
+    "start_at": "2026-11-24T07:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00030",
+    "end_at": "2026-11-30T10:30:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-015",
+    "reason": "Preventive maintenance",
+    "start_at": "2026-11-30T08:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00031",
+    "end_at": "2026-11-16T09:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-016",
+    "reason": "Preventive maintenance",
+    "start_at": "2026-11-16T08:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00032",
+    "end_at": "2027-01-18T05:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-016",
+    "reason": "Unplanned breakdown",
+    "start_at": "2027-01-18T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00033",
+    "end_at": "2026-11-16T07:30:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-017",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-11-16T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00034",
+    "end_at": "2026-11-23T09:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-017",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-11-23T07:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00035",
+    "end_at": "2027-01-04T09:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-018",
+    "reason": "Tool calibration",
+    "start_at": "2027-01-04T07:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00036",
+    "end_at": "2026-12-03T10:00:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-018",
+    "reason": "Tool calibration",
+    "start_at": "2026-12-03T08:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00037",
+    "end_at": "2027-01-11T04:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-019",
+    "reason": "Unplanned breakdown",
+    "start_at": "2027-01-11T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00038",
+    "end_at": "2026-12-04T09:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-019",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-12-04T07:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00039",
+    "end_at": "2027-01-18T09:30:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-020",
+    "reason": "Preventive maintenance",
+    "start_at": "2027-01-18T08:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00040",
+    "end_at": "2027-01-04T09:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-020",
+    "reason": "Tool calibration",
+    "start_at": "2027-01-04T07:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00041",
+    "end_at": "2027-01-08T07:00:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-021",
+    "reason": "Unplanned breakdown",
+    "start_at": "2027-01-08T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00042",
+    "end_at": "2026-12-04T09:30:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-021",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-12-04T08:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00043",
+    "end_at": "2026-12-16T10:00:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-022",
+    "reason": "Preventive maintenance",
+    "start_at": "2026-12-16T08:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00044",
+    "end_at": "2026-12-18T09:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-022",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-12-18T08:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00045",
+    "end_at": "2027-01-11T10:30:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-023",
+    "reason": "Unplanned breakdown",
+    "start_at": "2027-01-11T08:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00046",
+    "end_at": "2027-01-25T10:00:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-023",
+    "reason": "Preventive maintenance",
+    "start_at": "2027-01-25T08:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00047",
+    "end_at": "2026-12-28T04:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-024",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-12-28T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00048",
+    "end_at": "2026-12-01T05:00:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-024",
+    "reason": "Preventive maintenance",
+    "start_at": "2026-12-01T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00049",
+    "end_at": "2027-01-12T08:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-025",
+    "reason": "Tool calibration",
+    "start_at": "2027-01-12T07:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00050",
+    "end_at": "2027-01-04T07:00:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-025",
+    "reason": "Unplanned breakdown",
+    "start_at": "2027-01-04T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00051",
+    "end_at": "2027-01-04T07:00:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-026",
+    "reason": "Preventive maintenance",
+    "start_at": "2027-01-04T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00052",
+    "end_at": "2027-01-22T04:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-026",
+    "reason": "Unplanned breakdown",
+    "start_at": "2027-01-22T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00053",
+    "end_at": "2026-12-25T04:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-027",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-12-25T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00054",
+    "end_at": "2027-01-25T09:00:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-027",
+    "reason": "Tool calibration",
+    "start_at": "2027-01-25T07:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00055",
+    "end_at": "2027-01-04T10:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-028",
+    "reason": "Unplanned breakdown",
+    "start_at": "2027-01-04T08:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00056",
+    "end_at": "2026-12-14T09:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-028",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-12-14T08:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00057",
+    "end_at": "2027-01-05T09:30:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-029",
+    "reason": "Preventive maintenance",
+    "start_at": "2027-01-05T08:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00058",
+    "end_at": "2026-11-24T04:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-029",
+    "reason": "Tool calibration",
+    "start_at": "2026-11-24T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00059",
+    "end_at": "2026-12-02T09:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-030",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-12-02T08:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00060",
+    "end_at": "2026-11-26T09:00:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-030",
+    "reason": "Preventive maintenance",
+    "start_at": "2026-11-26T07:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00061",
+    "end_at": "2026-12-21T07:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-031",
+    "reason": "Preventive maintenance",
+    "start_at": "2026-12-21T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00062",
+    "end_at": "2026-12-28T07:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-031",
+    "reason": "Preventive maintenance",
+    "start_at": "2026-12-28T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00063",
+    "end_at": "2027-01-06T07:00:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-032",
+    "reason": "Unplanned breakdown",
+    "start_at": "2027-01-06T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00064",
+    "end_at": "2026-12-28T07:00:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-032",
+    "reason": "Preventive maintenance",
+    "start_at": "2026-12-28T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00065",
+    "end_at": "2026-12-02T09:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-033",
+    "reason": "Preventive maintenance",
+    "start_at": "2026-12-02T08:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00066",
+    "end_at": "2027-01-22T06:30:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-033",
+    "reason": "Unplanned breakdown",
+    "start_at": "2027-01-22T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00067",
+    "end_at": "2027-01-15T07:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-034",
+    "reason": "Tool calibration",
+    "start_at": "2027-01-15T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00068",
+    "end_at": "2027-01-25T10:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-034",
+    "reason": "Preventive maintenance",
+    "start_at": "2027-01-25T08:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00069",
+    "end_at": "2027-01-20T06:30:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-035",
+    "reason": "Tool calibration",
+    "start_at": "2027-01-20T05:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00070",
+    "end_at": "2027-01-07T05:00:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-035",
+    "reason": "Preventive maintenance",
+    "start_at": "2027-01-07T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00071",
+    "end_at": "2026-11-20T05:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-036",
+    "reason": "Preventive maintenance",
+    "start_at": "2026-11-20T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00072",
+    "end_at": "2026-12-03T05:30:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-036",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-12-03T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00073",
+    "end_at": "2026-12-03T04:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-037",
+    "reason": "Tool calibration",
+    "start_at": "2026-12-03T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00074",
+    "end_at": "2027-01-18T09:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-037",
+    "reason": "Tool calibration",
+    "start_at": "2027-01-18T08:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00075",
+    "end_at": "2027-01-25T04:30:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-038",
+    "reason": "Tool calibration",
+    "start_at": "2027-01-25T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00076",
+    "end_at": "2026-12-16T05:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-038",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-12-16T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00077",
+    "end_at": "2026-11-18T05:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-039",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-11-18T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00078",
+    "end_at": "2026-12-09T05:30:00+00:00",
+    "issue_type": "UNPLANNED_DOWNTIME",
+    "machine_id": "MACH-039",
+    "reason": "Preventive maintenance",
+    "start_at": "2026-12-09T03:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00079",
+    "end_at": "2026-12-10T08:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-040",
+    "reason": "Unplanned breakdown",
+    "start_at": "2026-12-10T07:30:00+00:00"
+  },
+  {
+    "downtime_id": "DOWN-00080",
+    "end_at": "2026-12-17T05:30:00+00:00",
+    "issue_type": "PLANNED_DOWNTIME",
+    "machine_id": "MACH-040",
+    "reason": "Tool calibration",
+    "start_at": "2026-12-17T03:30:00+00:00"
+  }
+]

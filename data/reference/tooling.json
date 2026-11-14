@@ -1,0 +1,62 @@
+[
+  {
+    "capacity": 1,
+    "lifecycle_state": "ACTIVE",
+    "name": "Shared fixture 01",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "capacity": 1,
+    "lifecycle_state": "ACTIVE",
+    "name": "Shared fixture 02",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "capacity": 1,
+    "lifecycle_state": "ACTIVE",
+    "name": "Shared fixture 03",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "capacity": 1,
+    "lifecycle_state": "ACTIVE",
+    "name": "Shared fixture 04",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "capacity": 1,
+    "lifecycle_state": "ACTIVE",
+    "name": "Shared fixture 05",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "capacity": 1,
+    "lifecycle_state": "ACTIVE",
+    "name": "Shared fixture 06",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "capacity": 1,
+    "lifecycle_state": "ACTIVE",
+    "name": "Shared fixture 07",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "capacity": 1,
+    "lifecycle_state": "ACTIVE",
+    "name": "Shared fixture 08",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "capacity": 1,
+    "lifecycle_state": "ACTIVE",
+    "name": "Shared fixture 09",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "capacity": 1,
+    "lifecycle_state": "ACTIVE",
+    "name": "Shared fixture 10",
+    "tooling_id": "TOOL-010"
+  }
+]

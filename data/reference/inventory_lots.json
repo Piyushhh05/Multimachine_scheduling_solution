@@ -1,0 +1,5402 @@
+[
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000001",
+    "lot_number": "MAT-0001-L01",
+    "material_id": "MAT-0001",
+    "quality_status": "AVAILABLE",
+    "quantity": 1009.482
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000002",
+    "lot_number": "MAT-0001-L02",
+    "material_id": "MAT-0001",
+    "quality_status": "AVAILABLE",
+    "quantity": 1375.888
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000003",
+    "lot_number": "MAT-0001-L03",
+    "material_id": "MAT-0001",
+    "quality_status": "AVAILABLE",
+    "quantity": 1338.192
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000004",
+    "lot_number": "MAT-0002-L01",
+    "material_id": "MAT-0002",
+    "quality_status": "AVAILABLE",
+    "quantity": 1126.9
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000005",
+    "lot_number": "MAT-0002-L02",
+    "material_id": "MAT-0002",
+    "quality_status": "AVAILABLE",
+    "quantity": 727.333
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000006",
+    "lot_number": "MAT-0002-L03",
+    "material_id": "MAT-0002",
+    "quality_status": "AVAILABLE",
+    "quantity": 897.033
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000007",
+    "lot_number": "MAT-0003-L01",
+    "material_id": "MAT-0003",
+    "quality_status": "AVAILABLE",
+    "quantity": 1327.972
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000008",
+    "lot_number": "MAT-0003-L02",
+    "material_id": "MAT-0003",
+    "quality_status": "AVAILABLE",
+    "quantity": 713.751
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000009",
+    "lot_number": "MAT-0003-L03",
+    "material_id": "MAT-0003",
+    "quality_status": "AVAILABLE",
+    "quantity": 1272.576
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000010",
+    "lot_number": "MAT-0004-L01",
+    "material_id": "MAT-0004",
+    "quality_status": "AVAILABLE",
+    "quantity": 1177.878
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000011",
+    "lot_number": "MAT-0004-L02",
+    "material_id": "MAT-0004",
+    "quality_status": "AVAILABLE",
+    "quantity": 1059.185
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000012",
+    "lot_number": "MAT-0004-L03",
+    "material_id": "MAT-0004",
+    "quality_status": "AVAILABLE",
+    "quantity": 533.149
+  },
+  {
+    "available_from": "2026-11-27",
+    "expiry_date": "",
+    "lot_id": "LOT-000013",
+    "lot_number": "MAT-0005-L01",
+    "material_id": "MAT-0005",
+    "quality_status": "AVAILABLE",
+    "quantity": 1174.616
+  },
+  {
+    "available_from": "2026-11-28",
+    "expiry_date": "",
+    "lot_id": "LOT-000014",
+    "lot_number": "MAT-0005-L02",
+    "material_id": "MAT-0005",
+    "quality_status": "AVAILABLE",
+    "quantity": 1263.894
+  },
+  {
+    "available_from": "2026-12-10",
+    "expiry_date": "",
+    "lot_id": "LOT-000015",
+    "lot_number": "MAT-0005-L03",
+    "material_id": "MAT-0005",
+    "quality_status": "AVAILABLE",
+    "quantity": 985.382
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000016",
+    "lot_number": "MAT-0006-L01",
+    "material_id": "MAT-0006",
+    "quality_status": "AVAILABLE",
+    "quantity": 1264.088
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000017",
+    "lot_number": "MAT-0006-L02",
+    "material_id": "MAT-0006",
+    "quality_status": "AVAILABLE",
+    "quantity": 1040.125
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000018",
+    "lot_number": "MAT-0006-L03",
+    "material_id": "MAT-0006",
+    "quality_status": "AVAILABLE",
+    "quantity": 637.182
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000019",
+    "lot_number": "MAT-0007-L01",
+    "material_id": "MAT-0007",
+    "quality_status": "AVAILABLE",
+    "quantity": 605.792
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000020",
+    "lot_number": "MAT-0007-L02",
+    "material_id": "MAT-0007",
+    "quality_status": "AVAILABLE",
+    "quantity": 524.139
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000021",
+    "lot_number": "MAT-0007-L03",
+    "material_id": "MAT-0007",
+    "quality_status": "AVAILABLE",
+    "quantity": 768.197
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000022",
+    "lot_number": "MAT-0008-L01",
+    "material_id": "MAT-0008",
+    "quality_status": "AVAILABLE",
+    "quantity": 791.752
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000023",
+    "lot_number": "MAT-0008-L02",
+    "material_id": "MAT-0008",
+    "quality_status": "AVAILABLE",
+    "quantity": 1298.031
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000024",
+    "lot_number": "MAT-0008-L03",
+    "material_id": "MAT-0008",
+    "quality_status": "AVAILABLE",
+    "quantity": 621.382
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000025",
+    "lot_number": "MAT-0009-L01",
+    "material_id": "MAT-0009",
+    "quality_status": "AVAILABLE",
+    "quantity": 1152.855
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000026",
+    "lot_number": "MAT-0009-L02",
+    "material_id": "MAT-0009",
+    "quality_status": "AVAILABLE",
+    "quantity": 1261.17
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000027",
+    "lot_number": "MAT-0009-L03",
+    "material_id": "MAT-0009",
+    "quality_status": "AVAILABLE",
+    "quantity": 1306.217
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000028",
+    "lot_number": "MAT-0010-L01",
+    "material_id": "MAT-0010",
+    "quality_status": "AVAILABLE",
+    "quantity": 668.457
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000029",
+    "lot_number": "MAT-0010-L02",
+    "material_id": "MAT-0010",
+    "quality_status": "AVAILABLE",
+    "quantity": 870.739
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000030",
+    "lot_number": "MAT-0010-L03",
+    "material_id": "MAT-0010",
+    "quality_status": "AVAILABLE",
+    "quantity": 912.126
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000031",
+    "lot_number": "MAT-0011-L01",
+    "material_id": "MAT-0011",
+    "quality_status": "AVAILABLE",
+    "quantity": 1030.312
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000032",
+    "lot_number": "MAT-0011-L02",
+    "material_id": "MAT-0011",
+    "quality_status": "AVAILABLE",
+    "quantity": 571.045
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000033",
+    "lot_number": "MAT-0011-L03",
+    "material_id": "MAT-0011",
+    "quality_status": "AVAILABLE",
+    "quantity": 1307.811
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000034",
+    "lot_number": "MAT-0012-L01",
+    "material_id": "MAT-0012",
+    "quality_status": "AVAILABLE",
+    "quantity": 1257.945
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000035",
+    "lot_number": "MAT-0012-L02",
+    "material_id": "MAT-0012",
+    "quality_status": "AVAILABLE",
+    "quantity": 984.525
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000036",
+    "lot_number": "MAT-0012-L03",
+    "material_id": "MAT-0012",
+    "quality_status": "AVAILABLE",
+    "quantity": 1081.977
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000037",
+    "lot_number": "MAT-0013-L01",
+    "material_id": "MAT-0013",
+    "quality_status": "AVAILABLE",
+    "quantity": 703.01
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000038",
+    "lot_number": "MAT-0013-L02",
+    "material_id": "MAT-0013",
+    "quality_status": "AVAILABLE",
+    "quantity": 727.179
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000039",
+    "lot_number": "MAT-0013-L03",
+    "material_id": "MAT-0013",
+    "quality_status": "AVAILABLE",
+    "quantity": 885.094
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000040",
+    "lot_number": "MAT-0014-L01",
+    "material_id": "MAT-0014",
+    "quality_status": "AVAILABLE",
+    "quantity": 624.344
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000041",
+    "lot_number": "MAT-0014-L02",
+    "material_id": "MAT-0014",
+    "quality_status": "AVAILABLE",
+    "quantity": 1095.539
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000042",
+    "lot_number": "MAT-0014-L03",
+    "material_id": "MAT-0014",
+    "quality_status": "AVAILABLE",
+    "quantity": 1362.723
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000043",
+    "lot_number": "MAT-0015-L01",
+    "material_id": "MAT-0015",
+    "quality_status": "AVAILABLE",
+    "quantity": 585.236
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000044",
+    "lot_number": "MAT-0015-L02",
+    "material_id": "MAT-0015",
+    "quality_status": "AVAILABLE",
+    "quantity": 1194.105
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000045",
+    "lot_number": "MAT-0015-L03",
+    "material_id": "MAT-0015",
+    "quality_status": "AVAILABLE",
+    "quantity": 1392.846
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000046",
+    "lot_number": "MAT-0016-L01",
+    "material_id": "MAT-0016",
+    "quality_status": "AVAILABLE",
+    "quantity": 1030.377
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000047",
+    "lot_number": "MAT-0016-L02",
+    "material_id": "MAT-0016",
+    "quality_status": "AVAILABLE",
+    "quantity": 527.499
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000048",
+    "lot_number": "MAT-0016-L03",
+    "material_id": "MAT-0016",
+    "quality_status": "AVAILABLE",
+    "quantity": 550.053
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000049",
+    "lot_number": "MAT-0017-L01",
+    "material_id": "MAT-0017",
+    "quality_status": "AVAILABLE",
+    "quantity": 1303.473
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000050",
+    "lot_number": "MAT-0017-L02",
+    "material_id": "MAT-0017",
+    "quality_status": "AVAILABLE",
+    "quantity": 524.288
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000051",
+    "lot_number": "MAT-0017-L03",
+    "material_id": "MAT-0017",
+    "quality_status": "AVAILABLE",
+    "quantity": 1258.711
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000052",
+    "lot_number": "MAT-0018-L01",
+    "material_id": "MAT-0018",
+    "quality_status": "AVAILABLE",
+    "quantity": 1154.484
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000053",
+    "lot_number": "MAT-0018-L02",
+    "material_id": "MAT-0018",
+    "quality_status": "AVAILABLE",
+    "quantity": 1268.826
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000054",
+    "lot_number": "MAT-0018-L03",
+    "material_id": "MAT-0018",
+    "quality_status": "AVAILABLE",
+    "quantity": 529.426
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000055",
+    "lot_number": "MAT-0019-L01",
+    "material_id": "MAT-0019",
+    "quality_status": "AVAILABLE",
+    "quantity": 715.884
+  },
+  {
+    "available_from": "2026-12-02",
+    "expiry_date": "",
+    "lot_id": "LOT-000056",
+    "lot_number": "MAT-0019-L02",
+    "material_id": "MAT-0019",
+    "quality_status": "AVAILABLE",
+    "quantity": 1212.629
+  },
+  {
+    "available_from": "2026-12-01",
+    "expiry_date": "",
+    "lot_id": "LOT-000057",
+    "lot_number": "MAT-0019-L03",
+    "material_id": "MAT-0019",
+    "quality_status": "AVAILABLE",
+    "quantity": 1354.385
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000058",
+    "lot_number": "MAT-0020-L01",
+    "material_id": "MAT-0020",
+    "quality_status": "AVAILABLE",
+    "quantity": 993.49
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000059",
+    "lot_number": "MAT-0020-L02",
+    "material_id": "MAT-0020",
+    "quality_status": "AVAILABLE",
+    "quantity": 794.154
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000060",
+    "lot_number": "MAT-0020-L03",
+    "material_id": "MAT-0020",
+    "quality_status": "AVAILABLE",
+    "quantity": 666.561
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000061",
+    "lot_number": "MAT-0021-L01",
+    "material_id": "MAT-0021",
+    "quality_status": "AVAILABLE",
+    "quantity": 1360.613
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000062",
+    "lot_number": "MAT-0021-L02",
+    "material_id": "MAT-0021",
+    "quality_status": "AVAILABLE",
+    "quantity": 960.927
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000063",
+    "lot_number": "MAT-0021-L03",
+    "material_id": "MAT-0021",
+    "quality_status": "AVAILABLE",
+    "quantity": 529.116
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000064",
+    "lot_number": "MAT-0022-L01",
+    "material_id": "MAT-0022",
+    "quality_status": "AVAILABLE",
+    "quantity": 925.73
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000065",
+    "lot_number": "MAT-0022-L02",
+    "material_id": "MAT-0022",
+    "quality_status": "AVAILABLE",
+    "quantity": 1146.181
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000066",
+    "lot_number": "MAT-0022-L03",
+    "material_id": "MAT-0022",
+    "quality_status": "AVAILABLE",
+    "quantity": 1393.102
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000067",
+    "lot_number": "MAT-0023-L01",
+    "material_id": "MAT-0023",
+    "quality_status": "AVAILABLE",
+    "quantity": 573.059
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000068",
+    "lot_number": "MAT-0023-L02",
+    "material_id": "MAT-0023",
+    "quality_status": "AVAILABLE",
+    "quantity": 679.294
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000069",
+    "lot_number": "MAT-0023-L03",
+    "material_id": "MAT-0023",
+    "quality_status": "AVAILABLE",
+    "quantity": 890.678
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000070",
+    "lot_number": "MAT-0024-L01",
+    "material_id": "MAT-0024",
+    "quality_status": "AVAILABLE",
+    "quantity": 1240.858
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000071",
+    "lot_number": "MAT-0024-L02",
+    "material_id": "MAT-0024",
+    "quality_status": "AVAILABLE",
+    "quantity": 965.066
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000072",
+    "lot_number": "MAT-0024-L03",
+    "material_id": "MAT-0024",
+    "quality_status": "AVAILABLE",
+    "quantity": 682.31
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000073",
+    "lot_number": "MAT-0025-L01",
+    "material_id": "MAT-0025",
+    "quality_status": "AVAILABLE",
+    "quantity": 624.244
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000074",
+    "lot_number": "MAT-0025-L02",
+    "material_id": "MAT-0025",
+    "quality_status": "AVAILABLE",
+    "quantity": 719.627
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000075",
+    "lot_number": "MAT-0025-L03",
+    "material_id": "MAT-0025",
+    "quality_status": "AVAILABLE",
+    "quantity": 1146.884
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000076",
+    "lot_number": "MAT-0026-L01",
+    "material_id": "MAT-0026",
+    "quality_status": "AVAILABLE",
+    "quantity": 1282.774
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000077",
+    "lot_number": "MAT-0026-L02",
+    "material_id": "MAT-0026",
+    "quality_status": "AVAILABLE",
+    "quantity": 681.883
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000078",
+    "lot_number": "MAT-0026-L03",
+    "material_id": "MAT-0026",
+    "quality_status": "AVAILABLE",
+    "quantity": 952.391
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000079",
+    "lot_number": "MAT-0027-L01",
+    "material_id": "MAT-0027",
+    "quality_status": "AVAILABLE",
+    "quantity": 925.92
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000080",
+    "lot_number": "MAT-0027-L02",
+    "material_id": "MAT-0027",
+    "quality_status": "AVAILABLE",
+    "quantity": 522.127
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000081",
+    "lot_number": "MAT-0027-L03",
+    "material_id": "MAT-0027",
+    "quality_status": "AVAILABLE",
+    "quantity": 1352.623
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000082",
+    "lot_number": "MAT-0028-L01",
+    "material_id": "MAT-0028",
+    "quality_status": "AVAILABLE",
+    "quantity": 1076.258
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000083",
+    "lot_number": "MAT-0028-L02",
+    "material_id": "MAT-0028",
+    "quality_status": "AVAILABLE",
+    "quantity": 1338.114
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000084",
+    "lot_number": "MAT-0028-L03",
+    "material_id": "MAT-0028",
+    "quality_status": "AVAILABLE",
+    "quantity": 1046.235
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000085",
+    "lot_number": "MAT-0029-L01",
+    "material_id": "MAT-0029",
+    "quality_status": "AVAILABLE",
+    "quantity": 1325.382
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000086",
+    "lot_number": "MAT-0029-L02",
+    "material_id": "MAT-0029",
+    "quality_status": "AVAILABLE",
+    "quantity": 819.559
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000087",
+    "lot_number": "MAT-0029-L03",
+    "material_id": "MAT-0029",
+    "quality_status": "AVAILABLE",
+    "quantity": 1244.024
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000088",
+    "lot_number": "MAT-0030-L01",
+    "material_id": "MAT-0030",
+    "quality_status": "AVAILABLE",
+    "quantity": 819.096
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000089",
+    "lot_number": "MAT-0030-L02",
+    "material_id": "MAT-0030",
+    "quality_status": "AVAILABLE",
+    "quantity": 816.172
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000090",
+    "lot_number": "MAT-0030-L03",
+    "material_id": "MAT-0030",
+    "quality_status": "AVAILABLE",
+    "quantity": 1185.189
+  },
+  {
+    "available_from": "2026-11-29",
+    "expiry_date": "",
+    "lot_id": "LOT-000091",
+    "lot_number": "MAT-0031-L01",
+    "material_id": "MAT-0031",
+    "quality_status": "AVAILABLE",
+    "quantity": 1299.183
+  },
+  {
+    "available_from": "2026-11-30",
+    "expiry_date": "",
+    "lot_id": "LOT-000092",
+    "lot_number": "MAT-0031-L02",
+    "material_id": "MAT-0031",
+    "quality_status": "AVAILABLE",
+    "quantity": 1243.7
+  },
+  {
+    "available_from": "2026-12-07",
+    "expiry_date": "",
+    "lot_id": "LOT-000093",
+    "lot_number": "MAT-0031-L03",
+    "material_id": "MAT-0031",
+    "quality_status": "AVAILABLE",
+    "quantity": 1053.829
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000094",
+    "lot_number": "MAT-0032-L01",
+    "material_id": "MAT-0032",
+    "quality_status": "AVAILABLE",
+    "quantity": 1335.545
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000095",
+    "lot_number": "MAT-0032-L02",
+    "material_id": "MAT-0032",
+    "quality_status": "AVAILABLE",
+    "quantity": 885.657
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000096",
+    "lot_number": "MAT-0032-L03",
+    "material_id": "MAT-0032",
+    "quality_status": "AVAILABLE",
+    "quantity": 901.006
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000097",
+    "lot_number": "MAT-0033-L01",
+    "material_id": "MAT-0033",
+    "quality_status": "AVAILABLE",
+    "quantity": 1019.746
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000098",
+    "lot_number": "MAT-0033-L02",
+    "material_id": "MAT-0033",
+    "quality_status": "AVAILABLE",
+    "quantity": 1358.819
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000099",
+    "lot_number": "MAT-0033-L03",
+    "material_id": "MAT-0033",
+    "quality_status": "AVAILABLE",
+    "quantity": 1287.361
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000100",
+    "lot_number": "MAT-0034-L01",
+    "material_id": "MAT-0034",
+    "quality_status": "AVAILABLE",
+    "quantity": 1028.508
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000101",
+    "lot_number": "MAT-0034-L02",
+    "material_id": "MAT-0034",
+    "quality_status": "AVAILABLE",
+    "quantity": 566.096
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000102",
+    "lot_number": "MAT-0034-L03",
+    "material_id": "MAT-0034",
+    "quality_status": "AVAILABLE",
+    "quantity": 1328.298
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000103",
+    "lot_number": "MAT-0035-L01",
+    "material_id": "MAT-0035",
+    "quality_status": "AVAILABLE",
+    "quantity": 693.355
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000104",
+    "lot_number": "MAT-0035-L02",
+    "material_id": "MAT-0035",
+    "quality_status": "AVAILABLE",
+    "quantity": 1354.95
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000105",
+    "lot_number": "MAT-0035-L03",
+    "material_id": "MAT-0035",
+    "quality_status": "AVAILABLE",
+    "quantity": 826.399
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000106",
+    "lot_number": "MAT-0036-L01",
+    "material_id": "MAT-0036",
+    "quality_status": "AVAILABLE",
+    "quantity": 1175.56
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000107",
+    "lot_number": "MAT-0036-L02",
+    "material_id": "MAT-0036",
+    "quality_status": "AVAILABLE",
+    "quantity": 875.432
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000108",
+    "lot_number": "MAT-0036-L03",
+    "material_id": "MAT-0036",
+    "quality_status": "AVAILABLE",
+    "quantity": 592.696
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000109",
+    "lot_number": "MAT-0037-L01",
+    "material_id": "MAT-0037",
+    "quality_status": "AVAILABLE",
+    "quantity": 1279.808
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000110",
+    "lot_number": "MAT-0037-L02",
+    "material_id": "MAT-0037",
+    "quality_status": "AVAILABLE",
+    "quantity": 1379.211
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000111",
+    "lot_number": "MAT-0037-L03",
+    "material_id": "MAT-0037",
+    "quality_status": "AVAILABLE",
+    "quantity": 1104.173
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000112",
+    "lot_number": "MAT-0038-L01",
+    "material_id": "MAT-0038",
+    "quality_status": "AVAILABLE",
+    "quantity": 555.826
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000113",
+    "lot_number": "MAT-0038-L02",
+    "material_id": "MAT-0038",
+    "quality_status": "AVAILABLE",
+    "quantity": 1350.614
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000114",
+    "lot_number": "MAT-0038-L03",
+    "material_id": "MAT-0038",
+    "quality_status": "AVAILABLE",
+    "quantity": 874.597
+  },
+  {
+    "available_from": "2026-11-29",
+    "expiry_date": "",
+    "lot_id": "LOT-000115",
+    "lot_number": "MAT-0039-L01",
+    "material_id": "MAT-0039",
+    "quality_status": "AVAILABLE",
+    "quantity": 1193.504
+  },
+  {
+    "available_from": "2026-12-04",
+    "expiry_date": "",
+    "lot_id": "LOT-000116",
+    "lot_number": "MAT-0039-L02",
+    "material_id": "MAT-0039",
+    "quality_status": "AVAILABLE",
+    "quantity": 781.447
+  },
+  {
+    "available_from": "2026-12-06",
+    "expiry_date": "",
+    "lot_id": "LOT-000117",
+    "lot_number": "MAT-0039-L03",
+    "material_id": "MAT-0039",
+    "quality_status": "AVAILABLE",
+    "quantity": 823.374
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000118",
+    "lot_number": "MAT-0040-L01",
+    "material_id": "MAT-0040",
+    "quality_status": "AVAILABLE",
+    "quantity": 686.992
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000119",
+    "lot_number": "MAT-0040-L02",
+    "material_id": "MAT-0040",
+    "quality_status": "AVAILABLE",
+    "quantity": 841.304
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000120",
+    "lot_number": "MAT-0040-L03",
+    "material_id": "MAT-0040",
+    "quality_status": "AVAILABLE",
+    "quantity": 1017.948
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000121",
+    "lot_number": "MAT-0041-L01",
+    "material_id": "MAT-0041",
+    "quality_status": "AVAILABLE",
+    "quantity": 1347.12
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000122",
+    "lot_number": "MAT-0041-L02",
+    "material_id": "MAT-0041",
+    "quality_status": "AVAILABLE",
+    "quantity": 1012.596
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000123",
+    "lot_number": "MAT-0041-L03",
+    "material_id": "MAT-0041",
+    "quality_status": "AVAILABLE",
+    "quantity": 622.652
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000124",
+    "lot_number": "MAT-0042-L01",
+    "material_id": "MAT-0042",
+    "quality_status": "AVAILABLE",
+    "quantity": 1014.543
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000125",
+    "lot_number": "MAT-0042-L02",
+    "material_id": "MAT-0042",
+    "quality_status": "AVAILABLE",
+    "quantity": 1328.218
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000126",
+    "lot_number": "MAT-0042-L03",
+    "material_id": "MAT-0042",
+    "quality_status": "AVAILABLE",
+    "quantity": 717.55
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000127",
+    "lot_number": "MAT-0043-L01",
+    "material_id": "MAT-0043",
+    "quality_status": "AVAILABLE",
+    "quantity": 1387.67
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000128",
+    "lot_number": "MAT-0043-L02",
+    "material_id": "MAT-0043",
+    "quality_status": "AVAILABLE",
+    "quantity": 1197.56
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000129",
+    "lot_number": "MAT-0043-L03",
+    "material_id": "MAT-0043",
+    "quality_status": "AVAILABLE",
+    "quantity": 741.153
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000130",
+    "lot_number": "MAT-0044-L01",
+    "material_id": "MAT-0044",
+    "quality_status": "AVAILABLE",
+    "quantity": 974.62
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000131",
+    "lot_number": "MAT-0044-L02",
+    "material_id": "MAT-0044",
+    "quality_status": "AVAILABLE",
+    "quantity": 703.633
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000132",
+    "lot_number": "MAT-0044-L03",
+    "material_id": "MAT-0044",
+    "quality_status": "AVAILABLE",
+    "quantity": 942.163
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000133",
+    "lot_number": "MAT-0045-L01",
+    "material_id": "MAT-0045",
+    "quality_status": "AVAILABLE",
+    "quantity": 600.7
+  },
+  {
+    "available_from": "2026-12-06",
+    "expiry_date": "",
+    "lot_id": "LOT-000134",
+    "lot_number": "MAT-0045-L02",
+    "material_id": "MAT-0045",
+    "quality_status": "AVAILABLE",
+    "quantity": 1015.328
+  },
+  {
+    "available_from": "2026-12-08",
+    "expiry_date": "",
+    "lot_id": "LOT-000135",
+    "lot_number": "MAT-0045-L03",
+    "material_id": "MAT-0045",
+    "quality_status": "AVAILABLE",
+    "quantity": 720.866
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000136",
+    "lot_number": "MAT-0046-L01",
+    "material_id": "MAT-0046",
+    "quality_status": "AVAILABLE",
+    "quantity": 1332.658
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000137",
+    "lot_number": "MAT-0046-L02",
+    "material_id": "MAT-0046",
+    "quality_status": "AVAILABLE",
+    "quantity": 1137.731
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000138",
+    "lot_number": "MAT-0046-L03",
+    "material_id": "MAT-0046",
+    "quality_status": "AVAILABLE",
+    "quantity": 1297.507
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000139",
+    "lot_number": "MAT-0047-L01",
+    "material_id": "MAT-0047",
+    "quality_status": "AVAILABLE",
+    "quantity": 518.953
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000140",
+    "lot_number": "MAT-0047-L02",
+    "material_id": "MAT-0047",
+    "quality_status": "AVAILABLE",
+    "quantity": 1032.546
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000141",
+    "lot_number": "MAT-0047-L03",
+    "material_id": "MAT-0047",
+    "quality_status": "AVAILABLE",
+    "quantity": 1267.569
+  },
+  {
+    "available_from": "2026-11-29",
+    "expiry_date": "",
+    "lot_id": "LOT-000142",
+    "lot_number": "MAT-0048-L01",
+    "material_id": "MAT-0048",
+    "quality_status": "AVAILABLE",
+    "quantity": 691.255
+  },
+  {
+    "available_from": "2026-12-03",
+    "expiry_date": "",
+    "lot_id": "LOT-000143",
+    "lot_number": "MAT-0048-L02",
+    "material_id": "MAT-0048",
+    "quality_status": "AVAILABLE",
+    "quantity": 574.5
+  },
+  {
+    "available_from": "2026-12-09",
+    "expiry_date": "",
+    "lot_id": "LOT-000144",
+    "lot_number": "MAT-0048-L03",
+    "material_id": "MAT-0048",
+    "quality_status": "AVAILABLE",
+    "quantity": 890.298
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000145",
+    "lot_number": "MAT-0049-L01",
+    "material_id": "MAT-0049",
+    "quality_status": "AVAILABLE",
+    "quantity": 733.45
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000146",
+    "lot_number": "MAT-0049-L02",
+    "material_id": "MAT-0049",
+    "quality_status": "AVAILABLE",
+    "quantity": 774.035
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000147",
+    "lot_number": "MAT-0049-L03",
+    "material_id": "MAT-0049",
+    "quality_status": "AVAILABLE",
+    "quantity": 1395.037
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000148",
+    "lot_number": "MAT-0050-L01",
+    "material_id": "MAT-0050",
+    "quality_status": "AVAILABLE",
+    "quantity": 525.597
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000149",
+    "lot_number": "MAT-0050-L02",
+    "material_id": "MAT-0050",
+    "quality_status": "AVAILABLE",
+    "quantity": 1088.65
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000150",
+    "lot_number": "MAT-0050-L03",
+    "material_id": "MAT-0050",
+    "quality_status": "AVAILABLE",
+    "quantity": 834.907
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000151",
+    "lot_number": "MAT-0051-L01",
+    "material_id": "MAT-0051",
+    "quality_status": "AVAILABLE",
+    "quantity": 564.021
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000152",
+    "lot_number": "MAT-0051-L02",
+    "material_id": "MAT-0051",
+    "quality_status": "AVAILABLE",
+    "quantity": 1302.714
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000153",
+    "lot_number": "MAT-0051-L03",
+    "material_id": "MAT-0051",
+    "quality_status": "AVAILABLE",
+    "quantity": 871.909
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000154",
+    "lot_number": "MAT-0052-L01",
+    "material_id": "MAT-0052",
+    "quality_status": "AVAILABLE",
+    "quantity": 590.845
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000155",
+    "lot_number": "MAT-0052-L02",
+    "material_id": "MAT-0052",
+    "quality_status": "AVAILABLE",
+    "quantity": 522.454
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000156",
+    "lot_number": "MAT-0052-L03",
+    "material_id": "MAT-0052",
+    "quality_status": "AVAILABLE",
+    "quantity": 506.038
+  },
+  {
+    "available_from": "2026-12-04",
+    "expiry_date": "",
+    "lot_id": "LOT-000157",
+    "lot_number": "MAT-0053-L01",
+    "material_id": "MAT-0053",
+    "quality_status": "AVAILABLE",
+    "quantity": 609.641
+  },
+  {
+    "available_from": "2026-11-30",
+    "expiry_date": "",
+    "lot_id": "LOT-000158",
+    "lot_number": "MAT-0053-L02",
+    "material_id": "MAT-0053",
+    "quality_status": "AVAILABLE",
+    "quantity": 533.101
+  },
+  {
+    "available_from": "2026-11-30",
+    "expiry_date": "",
+    "lot_id": "LOT-000159",
+    "lot_number": "MAT-0053-L03",
+    "material_id": "MAT-0053",
+    "quality_status": "AVAILABLE",
+    "quantity": 864.472
+  },
+  {
+    "available_from": "2026-12-02",
+    "expiry_date": "",
+    "lot_id": "LOT-000160",
+    "lot_number": "MAT-0054-L01",
+    "material_id": "MAT-0054",
+    "quality_status": "AVAILABLE",
+    "quantity": 1233.623
+  },
+  {
+    "available_from": "2026-11-30",
+    "expiry_date": "",
+    "lot_id": "LOT-000161",
+    "lot_number": "MAT-0054-L02",
+    "material_id": "MAT-0054",
+    "quality_status": "AVAILABLE",
+    "quantity": 1114.605
+  },
+  {
+    "available_from": "2026-12-09",
+    "expiry_date": "",
+    "lot_id": "LOT-000162",
+    "lot_number": "MAT-0054-L03",
+    "material_id": "MAT-0054",
+    "quality_status": "AVAILABLE",
+    "quantity": 726.846
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000163",
+    "lot_number": "MAT-0055-L01",
+    "material_id": "MAT-0055",
+    "quality_status": "AVAILABLE",
+    "quantity": 551.41
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000164",
+    "lot_number": "MAT-0055-L02",
+    "material_id": "MAT-0055",
+    "quality_status": "AVAILABLE",
+    "quantity": 1141.71
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000165",
+    "lot_number": "MAT-0055-L03",
+    "material_id": "MAT-0055",
+    "quality_status": "AVAILABLE",
+    "quantity": 581.88
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000166",
+    "lot_number": "MAT-0056-L01",
+    "material_id": "MAT-0056",
+    "quality_status": "AVAILABLE",
+    "quantity": 622.28
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000167",
+    "lot_number": "MAT-0056-L02",
+    "material_id": "MAT-0056",
+    "quality_status": "AVAILABLE",
+    "quantity": 927.005
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000168",
+    "lot_number": "MAT-0056-L03",
+    "material_id": "MAT-0056",
+    "quality_status": "AVAILABLE",
+    "quantity": 1316.787
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000169",
+    "lot_number": "MAT-0057-L01",
+    "material_id": "MAT-0057",
+    "quality_status": "AVAILABLE",
+    "quantity": 907.791
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000170",
+    "lot_number": "MAT-0057-L02",
+    "material_id": "MAT-0057",
+    "quality_status": "AVAILABLE",
+    "quantity": 1370.867
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000171",
+    "lot_number": "MAT-0057-L03",
+    "material_id": "MAT-0057",
+    "quality_status": "AVAILABLE",
+    "quantity": 1268.149
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000172",
+    "lot_number": "MAT-0058-L01",
+    "material_id": "MAT-0058",
+    "quality_status": "AVAILABLE",
+    "quantity": 1212.38
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000173",
+    "lot_number": "MAT-0058-L02",
+    "material_id": "MAT-0058",
+    "quality_status": "AVAILABLE",
+    "quantity": 1354.419
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000174",
+    "lot_number": "MAT-0058-L03",
+    "material_id": "MAT-0058",
+    "quality_status": "AVAILABLE",
+    "quantity": 619.448
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000175",
+    "lot_number": "MAT-0059-L01",
+    "material_id": "MAT-0059",
+    "quality_status": "AVAILABLE",
+    "quantity": 623.034
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000176",
+    "lot_number": "MAT-0059-L02",
+    "material_id": "MAT-0059",
+    "quality_status": "AVAILABLE",
+    "quantity": 1304.414
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000177",
+    "lot_number": "MAT-0059-L03",
+    "material_id": "MAT-0059",
+    "quality_status": "AVAILABLE",
+    "quantity": 1069.711
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000178",
+    "lot_number": "MAT-0060-L01",
+    "material_id": "MAT-0060",
+    "quality_status": "AVAILABLE",
+    "quantity": 1161.329
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000179",
+    "lot_number": "MAT-0060-L02",
+    "material_id": "MAT-0060",
+    "quality_status": "AVAILABLE",
+    "quantity": 1084.902
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000180",
+    "lot_number": "MAT-0060-L03",
+    "material_id": "MAT-0060",
+    "quality_status": "AVAILABLE",
+    "quantity": 1200.471
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000181",
+    "lot_number": "MAT-0061-L01",
+    "material_id": "MAT-0061",
+    "quality_status": "AVAILABLE",
+    "quantity": 922.98
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000182",
+    "lot_number": "MAT-0061-L02",
+    "material_id": "MAT-0061",
+    "quality_status": "AVAILABLE",
+    "quantity": 959.757
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000183",
+    "lot_number": "MAT-0061-L03",
+    "material_id": "MAT-0061",
+    "quality_status": "AVAILABLE",
+    "quantity": 1082.534
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000184",
+    "lot_number": "MAT-0062-L01",
+    "material_id": "MAT-0062",
+    "quality_status": "AVAILABLE",
+    "quantity": 1278.831
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000185",
+    "lot_number": "MAT-0062-L02",
+    "material_id": "MAT-0062",
+    "quality_status": "AVAILABLE",
+    "quantity": 586.537
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000186",
+    "lot_number": "MAT-0062-L03",
+    "material_id": "MAT-0062",
+    "quality_status": "AVAILABLE",
+    "quantity": 1216.3
+  },
+  {
+    "available_from": "2026-12-04",
+    "expiry_date": "",
+    "lot_id": "LOT-000187",
+    "lot_number": "MAT-0063-L01",
+    "material_id": "MAT-0063",
+    "quality_status": "AVAILABLE",
+    "quantity": 1087.627
+  },
+  {
+    "available_from": "2026-12-07",
+    "expiry_date": "",
+    "lot_id": "LOT-000188",
+    "lot_number": "MAT-0063-L02",
+    "material_id": "MAT-0063",
+    "quality_status": "AVAILABLE",
+    "quantity": 638.272
+  },
+  {
+    "available_from": "2026-12-01",
+    "expiry_date": "",
+    "lot_id": "LOT-000189",
+    "lot_number": "MAT-0063-L03",
+    "material_id": "MAT-0063",
+    "quality_status": "AVAILABLE",
+    "quantity": 676.056
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000190",
+    "lot_number": "MAT-0064-L01",
+    "material_id": "MAT-0064",
+    "quality_status": "AVAILABLE",
+    "quantity": 767.523
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000191",
+    "lot_number": "MAT-0064-L02",
+    "material_id": "MAT-0064",
+    "quality_status": "AVAILABLE",
+    "quantity": 1179.62
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000192",
+    "lot_number": "MAT-0064-L03",
+    "material_id": "MAT-0064",
+    "quality_status": "AVAILABLE",
+    "quantity": 969.538
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000193",
+    "lot_number": "MAT-0065-L01",
+    "material_id": "MAT-0065",
+    "quality_status": "AVAILABLE",
+    "quantity": 778.499
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000194",
+    "lot_number": "MAT-0065-L02",
+    "material_id": "MAT-0065",
+    "quality_status": "AVAILABLE",
+    "quantity": 1331.521
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000195",
+    "lot_number": "MAT-0065-L03",
+    "material_id": "MAT-0065",
+    "quality_status": "AVAILABLE",
+    "quantity": 1378.866
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000196",
+    "lot_number": "MAT-0066-L01",
+    "material_id": "MAT-0066",
+    "quality_status": "AVAILABLE",
+    "quantity": 723.357
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000197",
+    "lot_number": "MAT-0066-L02",
+    "material_id": "MAT-0066",
+    "quality_status": "AVAILABLE",
+    "quantity": 808.402
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000198",
+    "lot_number": "MAT-0066-L03",
+    "material_id": "MAT-0066",
+    "quality_status": "AVAILABLE",
+    "quantity": 648.37
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000199",
+    "lot_number": "MAT-0067-L01",
+    "material_id": "MAT-0067",
+    "quality_status": "AVAILABLE",
+    "quantity": 996.378
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000200",
+    "lot_number": "MAT-0067-L02",
+    "material_id": "MAT-0067",
+    "quality_status": "AVAILABLE",
+    "quantity": 830.684
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000201",
+    "lot_number": "MAT-0067-L03",
+    "material_id": "MAT-0067",
+    "quality_status": "AVAILABLE",
+    "quantity": 710.745
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000202",
+    "lot_number": "MAT-0068-L01",
+    "material_id": "MAT-0068",
+    "quality_status": "AVAILABLE",
+    "quantity": 841.841
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000203",
+    "lot_number": "MAT-0068-L02",
+    "material_id": "MAT-0068",
+    "quality_status": "AVAILABLE",
+    "quantity": 606.576
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000204",
+    "lot_number": "MAT-0068-L03",
+    "material_id": "MAT-0068",
+    "quality_status": "AVAILABLE",
+    "quantity": 879.361
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000205",
+    "lot_number": "MAT-0069-L01",
+    "material_id": "MAT-0069",
+    "quality_status": "AVAILABLE",
+    "quantity": 565.216
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000206",
+    "lot_number": "MAT-0069-L02",
+    "material_id": "MAT-0069",
+    "quality_status": "AVAILABLE",
+    "quantity": 940.829
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000207",
+    "lot_number": "MAT-0069-L03",
+    "material_id": "MAT-0069",
+    "quality_status": "AVAILABLE",
+    "quantity": 1398.319
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000208",
+    "lot_number": "MAT-0070-L01",
+    "material_id": "MAT-0070",
+    "quality_status": "AVAILABLE",
+    "quantity": 1262.116
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000209",
+    "lot_number": "MAT-0070-L02",
+    "material_id": "MAT-0070",
+    "quality_status": "AVAILABLE",
+    "quantity": 718.475
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000210",
+    "lot_number": "MAT-0070-L03",
+    "material_id": "MAT-0070",
+    "quality_status": "AVAILABLE",
+    "quantity": 1391.027
+  },
+  {
+    "available_from": "2026-12-02",
+    "expiry_date": "",
+    "lot_id": "LOT-000211",
+    "lot_number": "MAT-0071-L01",
+    "material_id": "MAT-0071",
+    "quality_status": "AVAILABLE",
+    "quantity": 1304.469
+  },
+  {
+    "available_from": "2026-12-07",
+    "expiry_date": "",
+    "lot_id": "LOT-000212",
+    "lot_number": "MAT-0071-L02",
+    "material_id": "MAT-0071",
+    "quality_status": "AVAILABLE",
+    "quantity": 520.156
+  },
+  {
+    "available_from": "2026-12-06",
+    "expiry_date": "",
+    "lot_id": "LOT-000213",
+    "lot_number": "MAT-0071-L03",
+    "material_id": "MAT-0071",
+    "quality_status": "AVAILABLE",
+    "quantity": 1322.841
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000214",
+    "lot_number": "MAT-0072-L01",
+    "material_id": "MAT-0072",
+    "quality_status": "AVAILABLE",
+    "quantity": 1009.14
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000215",
+    "lot_number": "MAT-0072-L02",
+    "material_id": "MAT-0072",
+    "quality_status": "AVAILABLE",
+    "quantity": 609.051
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000216",
+    "lot_number": "MAT-0072-L03",
+    "material_id": "MAT-0072",
+    "quality_status": "AVAILABLE",
+    "quantity": 590.384
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000217",
+    "lot_number": "MAT-0073-L01",
+    "material_id": "MAT-0073",
+    "quality_status": "AVAILABLE",
+    "quantity": 679.198
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000218",
+    "lot_number": "MAT-0073-L02",
+    "material_id": "MAT-0073",
+    "quality_status": "AVAILABLE",
+    "quantity": 946.729
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000219",
+    "lot_number": "MAT-0073-L03",
+    "material_id": "MAT-0073",
+    "quality_status": "AVAILABLE",
+    "quantity": 900.866
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000220",
+    "lot_number": "MAT-0074-L01",
+    "material_id": "MAT-0074",
+    "quality_status": "AVAILABLE",
+    "quantity": 1325.264
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000221",
+    "lot_number": "MAT-0074-L02",
+    "material_id": "MAT-0074",
+    "quality_status": "AVAILABLE",
+    "quantity": 845.429
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000222",
+    "lot_number": "MAT-0074-L03",
+    "material_id": "MAT-0074",
+    "quality_status": "AVAILABLE",
+    "quantity": 814.944
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000223",
+    "lot_number": "MAT-0075-L01",
+    "material_id": "MAT-0075",
+    "quality_status": "AVAILABLE",
+    "quantity": 1066.128
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000224",
+    "lot_number": "MAT-0075-L02",
+    "material_id": "MAT-0075",
+    "quality_status": "AVAILABLE",
+    "quantity": 1117.477
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000225",
+    "lot_number": "MAT-0075-L03",
+    "material_id": "MAT-0075",
+    "quality_status": "AVAILABLE",
+    "quantity": 652.437
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000226",
+    "lot_number": "MAT-0076-L01",
+    "material_id": "MAT-0076",
+    "quality_status": "AVAILABLE",
+    "quantity": 670.598
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000227",
+    "lot_number": "MAT-0076-L02",
+    "material_id": "MAT-0076",
+    "quality_status": "AVAILABLE",
+    "quantity": 814.572
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000228",
+    "lot_number": "MAT-0076-L03",
+    "material_id": "MAT-0076",
+    "quality_status": "AVAILABLE",
+    "quantity": 816.651
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000229",
+    "lot_number": "MAT-0077-L01",
+    "material_id": "MAT-0077",
+    "quality_status": "AVAILABLE",
+    "quantity": 555.966
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000230",
+    "lot_number": "MAT-0077-L02",
+    "material_id": "MAT-0077",
+    "quality_status": "AVAILABLE",
+    "quantity": 503.436
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000231",
+    "lot_number": "MAT-0077-L03",
+    "material_id": "MAT-0077",
+    "quality_status": "AVAILABLE",
+    "quantity": 632.95
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000232",
+    "lot_number": "MAT-0078-L01",
+    "material_id": "MAT-0078",
+    "quality_status": "AVAILABLE",
+    "quantity": 949.194
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000233",
+    "lot_number": "MAT-0078-L02",
+    "material_id": "MAT-0078",
+    "quality_status": "AVAILABLE",
+    "quantity": 1201.124
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000234",
+    "lot_number": "MAT-0078-L03",
+    "material_id": "MAT-0078",
+    "quality_status": "AVAILABLE",
+    "quantity": 563.829
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000235",
+    "lot_number": "MAT-0079-L01",
+    "material_id": "MAT-0079",
+    "quality_status": "AVAILABLE",
+    "quantity": 522.724
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000236",
+    "lot_number": "MAT-0079-L02",
+    "material_id": "MAT-0079",
+    "quality_status": "AVAILABLE",
+    "quantity": 750.72
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000237",
+    "lot_number": "MAT-0079-L03",
+    "material_id": "MAT-0079",
+    "quality_status": "AVAILABLE",
+    "quantity": 1263.275
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000238",
+    "lot_number": "MAT-0080-L01",
+    "material_id": "MAT-0080",
+    "quality_status": "AVAILABLE",
+    "quantity": 978.781
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000239",
+    "lot_number": "MAT-0080-L02",
+    "material_id": "MAT-0080",
+    "quality_status": "AVAILABLE",
+    "quantity": 915.905
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000240",
+    "lot_number": "MAT-0080-L03",
+    "material_id": "MAT-0080",
+    "quality_status": "AVAILABLE",
+    "quantity": 737.961
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000241",
+    "lot_number": "MAT-0081-L01",
+    "material_id": "MAT-0081",
+    "quality_status": "AVAILABLE",
+    "quantity": 1004.902
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000242",
+    "lot_number": "MAT-0081-L02",
+    "material_id": "MAT-0081",
+    "quality_status": "AVAILABLE",
+    "quantity": 679.5
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000243",
+    "lot_number": "MAT-0081-L03",
+    "material_id": "MAT-0081",
+    "quality_status": "AVAILABLE",
+    "quantity": 1377.515
+  },
+  {
+    "available_from": "2026-12-01",
+    "expiry_date": "",
+    "lot_id": "LOT-000244",
+    "lot_number": "MAT-0082-L01",
+    "material_id": "MAT-0082",
+    "quality_status": "AVAILABLE",
+    "quantity": 1168.366
+  },
+  {
+    "available_from": "2026-11-28",
+    "expiry_date": "",
+    "lot_id": "LOT-000245",
+    "lot_number": "MAT-0082-L02",
+    "material_id": "MAT-0082",
+    "quality_status": "AVAILABLE",
+    "quantity": 583.54
+  },
+  {
+    "available_from": "2026-12-10",
+    "expiry_date": "",
+    "lot_id": "LOT-000246",
+    "lot_number": "MAT-0082-L03",
+    "material_id": "MAT-0082",
+    "quality_status": "AVAILABLE",
+    "quantity": 1357.361
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000247",
+    "lot_number": "MAT-0083-L01",
+    "material_id": "MAT-0083",
+    "quality_status": "AVAILABLE",
+    "quantity": 841.272
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000248",
+    "lot_number": "MAT-0083-L02",
+    "material_id": "MAT-0083",
+    "quality_status": "AVAILABLE",
+    "quantity": 598.739
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000249",
+    "lot_number": "MAT-0083-L03",
+    "material_id": "MAT-0083",
+    "quality_status": "AVAILABLE",
+    "quantity": 1394.45
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000250",
+    "lot_number": "MAT-0084-L01",
+    "material_id": "MAT-0084",
+    "quality_status": "AVAILABLE",
+    "quantity": 1313.86
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000251",
+    "lot_number": "MAT-0084-L02",
+    "material_id": "MAT-0084",
+    "quality_status": "AVAILABLE",
+    "quantity": 557.763
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000252",
+    "lot_number": "MAT-0084-L03",
+    "material_id": "MAT-0084",
+    "quality_status": "AVAILABLE",
+    "quantity": 555.187
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000253",
+    "lot_number": "MAT-0085-L01",
+    "material_id": "MAT-0085",
+    "quality_status": "AVAILABLE",
+    "quantity": 1018.226
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000254",
+    "lot_number": "MAT-0085-L02",
+    "material_id": "MAT-0085",
+    "quality_status": "AVAILABLE",
+    "quantity": 836.613
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000255",
+    "lot_number": "MAT-0085-L03",
+    "material_id": "MAT-0085",
+    "quality_status": "AVAILABLE",
+    "quantity": 509.679
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000256",
+    "lot_number": "MAT-0086-L01",
+    "material_id": "MAT-0086",
+    "quality_status": "AVAILABLE",
+    "quantity": 1040.278
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000257",
+    "lot_number": "MAT-0086-L02",
+    "material_id": "MAT-0086",
+    "quality_status": "AVAILABLE",
+    "quantity": 912.227
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000258",
+    "lot_number": "MAT-0086-L03",
+    "material_id": "MAT-0086",
+    "quality_status": "AVAILABLE",
+    "quantity": 1215.112
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000259",
+    "lot_number": "MAT-0087-L01",
+    "material_id": "MAT-0087",
+    "quality_status": "AVAILABLE",
+    "quantity": 1200.799
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000260",
+    "lot_number": "MAT-0087-L02",
+    "material_id": "MAT-0087",
+    "quality_status": "AVAILABLE",
+    "quantity": 580.089
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000261",
+    "lot_number": "MAT-0087-L03",
+    "material_id": "MAT-0087",
+    "quality_status": "AVAILABLE",
+    "quantity": 829.966
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000262",
+    "lot_number": "MAT-0088-L01",
+    "material_id": "MAT-0088",
+    "quality_status": "AVAILABLE",
+    "quantity": 1176.477
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000263",
+    "lot_number": "MAT-0088-L02",
+    "material_id": "MAT-0088",
+    "quality_status": "AVAILABLE",
+    "quantity": 640.232
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000264",
+    "lot_number": "MAT-0088-L03",
+    "material_id": "MAT-0088",
+    "quality_status": "AVAILABLE",
+    "quantity": 575.185
+  },
+  {
+    "available_from": "2026-11-30",
+    "expiry_date": "",
+    "lot_id": "LOT-000265",
+    "lot_number": "MAT-0089-L01",
+    "material_id": "MAT-0089",
+    "quality_status": "AVAILABLE",
+    "quantity": 579.431
+  },
+  {
+    "available_from": "2026-12-03",
+    "expiry_date": "",
+    "lot_id": "LOT-000266",
+    "lot_number": "MAT-0089-L02",
+    "material_id": "MAT-0089",
+    "quality_status": "AVAILABLE",
+    "quantity": 932.73
+  },
+  {
+    "available_from": "2026-12-05",
+    "expiry_date": "",
+    "lot_id": "LOT-000267",
+    "lot_number": "MAT-0089-L03",
+    "material_id": "MAT-0089",
+    "quality_status": "AVAILABLE",
+    "quantity": 780.552
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000268",
+    "lot_number": "MAT-0090-L01",
+    "material_id": "MAT-0090",
+    "quality_status": "AVAILABLE",
+    "quantity": 1389.509
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000269",
+    "lot_number": "MAT-0090-L02",
+    "material_id": "MAT-0090",
+    "quality_status": "AVAILABLE",
+    "quantity": 847.905
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000270",
+    "lot_number": "MAT-0090-L03",
+    "material_id": "MAT-0090",
+    "quality_status": "AVAILABLE",
+    "quantity": 993.319
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000271",
+    "lot_number": "MAT-0091-L01",
+    "material_id": "MAT-0091",
+    "quality_status": "AVAILABLE",
+    "quantity": 915.643
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000272",
+    "lot_number": "MAT-0091-L02",
+    "material_id": "MAT-0091",
+    "quality_status": "AVAILABLE",
+    "quantity": 620.389
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000273",
+    "lot_number": "MAT-0091-L03",
+    "material_id": "MAT-0091",
+    "quality_status": "AVAILABLE",
+    "quantity": 671.865
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000274",
+    "lot_number": "MAT-0092-L01",
+    "material_id": "MAT-0092",
+    "quality_status": "AVAILABLE",
+    "quantity": 679.587
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000275",
+    "lot_number": "MAT-0092-L02",
+    "material_id": "MAT-0092",
+    "quality_status": "AVAILABLE",
+    "quantity": 946.37
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000276",
+    "lot_number": "MAT-0092-L03",
+    "material_id": "MAT-0092",
+    "quality_status": "AVAILABLE",
+    "quantity": 892.052
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000277",
+    "lot_number": "MAT-0093-L01",
+    "material_id": "MAT-0093",
+    "quality_status": "AVAILABLE",
+    "quantity": 1038.351
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000278",
+    "lot_number": "MAT-0093-L02",
+    "material_id": "MAT-0093",
+    "quality_status": "AVAILABLE",
+    "quantity": 1095.597
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000279",
+    "lot_number": "MAT-0093-L03",
+    "material_id": "MAT-0093",
+    "quality_status": "AVAILABLE",
+    "quantity": 1330.661
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000280",
+    "lot_number": "MAT-0094-L01",
+    "material_id": "MAT-0094",
+    "quality_status": "AVAILABLE",
+    "quantity": 1246.185
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000281",
+    "lot_number": "MAT-0094-L02",
+    "material_id": "MAT-0094",
+    "quality_status": "AVAILABLE",
+    "quantity": 674.904
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000282",
+    "lot_number": "MAT-0094-L03",
+    "material_id": "MAT-0094",
+    "quality_status": "AVAILABLE",
+    "quantity": 854.834
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000283",
+    "lot_number": "MAT-0095-L01",
+    "material_id": "MAT-0095",
+    "quality_status": "AVAILABLE",
+    "quantity": 1217.129
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000284",
+    "lot_number": "MAT-0095-L02",
+    "material_id": "MAT-0095",
+    "quality_status": "AVAILABLE",
+    "quantity": 789.18
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000285",
+    "lot_number": "MAT-0095-L03",
+    "material_id": "MAT-0095",
+    "quality_status": "AVAILABLE",
+    "quantity": 617.512
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000286",
+    "lot_number": "MAT-0096-L01",
+    "material_id": "MAT-0096",
+    "quality_status": "AVAILABLE",
+    "quantity": 1298.795
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000287",
+    "lot_number": "MAT-0096-L02",
+    "material_id": "MAT-0096",
+    "quality_status": "AVAILABLE",
+    "quantity": 716.89
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000288",
+    "lot_number": "MAT-0096-L03",
+    "material_id": "MAT-0096",
+    "quality_status": "AVAILABLE",
+    "quantity": 1028.731
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000289",
+    "lot_number": "MAT-0097-L01",
+    "material_id": "MAT-0097",
+    "quality_status": "AVAILABLE",
+    "quantity": 1360.574
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000290",
+    "lot_number": "MAT-0097-L02",
+    "material_id": "MAT-0097",
+    "quality_status": "AVAILABLE",
+    "quantity": 1094.651
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000291",
+    "lot_number": "MAT-0097-L03",
+    "material_id": "MAT-0097",
+    "quality_status": "AVAILABLE",
+    "quantity": 1188.907
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000292",
+    "lot_number": "MAT-0098-L01",
+    "material_id": "MAT-0098",
+    "quality_status": "AVAILABLE",
+    "quantity": 761.311
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000293",
+    "lot_number": "MAT-0098-L02",
+    "material_id": "MAT-0098",
+    "quality_status": "AVAILABLE",
+    "quantity": 1003.999
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000294",
+    "lot_number": "MAT-0098-L03",
+    "material_id": "MAT-0098",
+    "quality_status": "AVAILABLE",
+    "quantity": 656.678
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000295",
+    "lot_number": "MAT-0099-L01",
+    "material_id": "MAT-0099",
+    "quality_status": "AVAILABLE",
+    "quantity": 516.274
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000296",
+    "lot_number": "MAT-0099-L02",
+    "material_id": "MAT-0099",
+    "quality_status": "AVAILABLE",
+    "quantity": 572.025
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000297",
+    "lot_number": "MAT-0099-L03",
+    "material_id": "MAT-0099",
+    "quality_status": "AVAILABLE",
+    "quantity": 590.734
+  },
+  {
+    "available_from": "2026-11-29",
+    "expiry_date": "",
+    "lot_id": "LOT-000298",
+    "lot_number": "MAT-0100-L01",
+    "material_id": "MAT-0100",
+    "quality_status": "AVAILABLE",
+    "quantity": 549.332
+  },
+  {
+    "available_from": "2026-12-02",
+    "expiry_date": "",
+    "lot_id": "LOT-000299",
+    "lot_number": "MAT-0100-L02",
+    "material_id": "MAT-0100",
+    "quality_status": "AVAILABLE",
+    "quantity": 983.954
+  },
+  {
+    "available_from": "2026-12-04",
+    "expiry_date": "",
+    "lot_id": "LOT-000300",
+    "lot_number": "MAT-0100-L03",
+    "material_id": "MAT-0100",
+    "quality_status": "AVAILABLE",
+    "quantity": 1208.597
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000301",
+    "lot_number": "MAT-0101-L01",
+    "material_id": "MAT-0101",
+    "quality_status": "AVAILABLE",
+    "quantity": 712.64
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000302",
+    "lot_number": "MAT-0101-L02",
+    "material_id": "MAT-0101",
+    "quality_status": "AVAILABLE",
+    "quantity": 1300.439
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000303",
+    "lot_number": "MAT-0101-L03",
+    "material_id": "MAT-0101",
+    "quality_status": "AVAILABLE",
+    "quantity": 566.827
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000304",
+    "lot_number": "MAT-0102-L01",
+    "material_id": "MAT-0102",
+    "quality_status": "AVAILABLE",
+    "quantity": 768.711
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000305",
+    "lot_number": "MAT-0102-L02",
+    "material_id": "MAT-0102",
+    "quality_status": "AVAILABLE",
+    "quantity": 567.633
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000306",
+    "lot_number": "MAT-0102-L03",
+    "material_id": "MAT-0102",
+    "quality_status": "AVAILABLE",
+    "quantity": 1068.994
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000307",
+    "lot_number": "MAT-0103-L01",
+    "material_id": "MAT-0103",
+    "quality_status": "AVAILABLE",
+    "quantity": 861.773
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000308",
+    "lot_number": "MAT-0103-L02",
+    "material_id": "MAT-0103",
+    "quality_status": "AVAILABLE",
+    "quantity": 1221.685
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000309",
+    "lot_number": "MAT-0103-L03",
+    "material_id": "MAT-0103",
+    "quality_status": "AVAILABLE",
+    "quantity": 1291.729
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000310",
+    "lot_number": "MAT-0104-L01",
+    "material_id": "MAT-0104",
+    "quality_status": "AVAILABLE",
+    "quantity": 850.513
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000311",
+    "lot_number": "MAT-0104-L02",
+    "material_id": "MAT-0104",
+    "quality_status": "AVAILABLE",
+    "quantity": 587.504
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000312",
+    "lot_number": "MAT-0104-L03",
+    "material_id": "MAT-0104",
+    "quality_status": "AVAILABLE",
+    "quantity": 609.984
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000313",
+    "lot_number": "MAT-0105-L01",
+    "material_id": "MAT-0105",
+    "quality_status": "AVAILABLE",
+    "quantity": 1133.751
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000314",
+    "lot_number": "MAT-0105-L02",
+    "material_id": "MAT-0105",
+    "quality_status": "AVAILABLE",
+    "quantity": 1091.442
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000315",
+    "lot_number": "MAT-0105-L03",
+    "material_id": "MAT-0105",
+    "quality_status": "AVAILABLE",
+    "quantity": 1338.858
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000316",
+    "lot_number": "MAT-0106-L01",
+    "material_id": "MAT-0106",
+    "quality_status": "AVAILABLE",
+    "quantity": 908.395
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000317",
+    "lot_number": "MAT-0106-L02",
+    "material_id": "MAT-0106",
+    "quality_status": "AVAILABLE",
+    "quantity": 1000.169
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000318",
+    "lot_number": "MAT-0106-L03",
+    "material_id": "MAT-0106",
+    "quality_status": "AVAILABLE",
+    "quantity": 1388.804
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000319",
+    "lot_number": "MAT-0107-L01",
+    "material_id": "MAT-0107",
+    "quality_status": "AVAILABLE",
+    "quantity": 1060.088
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000320",
+    "lot_number": "MAT-0107-L02",
+    "material_id": "MAT-0107",
+    "quality_status": "AVAILABLE",
+    "quantity": 1185.29
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000321",
+    "lot_number": "MAT-0107-L03",
+    "material_id": "MAT-0107",
+    "quality_status": "AVAILABLE",
+    "quantity": 1396.827
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000322",
+    "lot_number": "MAT-0108-L01",
+    "material_id": "MAT-0108",
+    "quality_status": "AVAILABLE",
+    "quantity": 961.041
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000323",
+    "lot_number": "MAT-0108-L02",
+    "material_id": "MAT-0108",
+    "quality_status": "AVAILABLE",
+    "quantity": 1050.173
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000324",
+    "lot_number": "MAT-0108-L03",
+    "material_id": "MAT-0108",
+    "quality_status": "AVAILABLE",
+    "quantity": 1128.457
+  },
+  {
+    "available_from": "2026-11-30",
+    "expiry_date": "",
+    "lot_id": "LOT-000325",
+    "lot_number": "MAT-0109-L01",
+    "material_id": "MAT-0109",
+    "quality_status": "AVAILABLE",
+    "quantity": 812.062
+  },
+  {
+    "available_from": "2026-12-05",
+    "expiry_date": "",
+    "lot_id": "LOT-000326",
+    "lot_number": "MAT-0109-L02",
+    "material_id": "MAT-0109",
+    "quality_status": "AVAILABLE",
+    "quantity": 937.296
+  },
+  {
+    "available_from": "2026-12-03",
+    "expiry_date": "",
+    "lot_id": "LOT-000327",
+    "lot_number": "MAT-0109-L03",
+    "material_id": "MAT-0109",
+    "quality_status": "AVAILABLE",
+    "quantity": 1028.176
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000328",
+    "lot_number": "MAT-0110-L01",
+    "material_id": "MAT-0110",
+    "quality_status": "AVAILABLE",
+    "quantity": 1373.944
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000329",
+    "lot_number": "MAT-0110-L02",
+    "material_id": "MAT-0110",
+    "quality_status": "AVAILABLE",
+    "quantity": 1328.928
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000330",
+    "lot_number": "MAT-0110-L03",
+    "material_id": "MAT-0110",
+    "quality_status": "AVAILABLE",
+    "quantity": 896.987
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000331",
+    "lot_number": "MAT-0111-L01",
+    "material_id": "MAT-0111",
+    "quality_status": "AVAILABLE",
+    "quantity": 1000.061
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000332",
+    "lot_number": "MAT-0111-L02",
+    "material_id": "MAT-0111",
+    "quality_status": "AVAILABLE",
+    "quantity": 727.294
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000333",
+    "lot_number": "MAT-0111-L03",
+    "material_id": "MAT-0111",
+    "quality_status": "AVAILABLE",
+    "quantity": 1252.916
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000334",
+    "lot_number": "MAT-0112-L01",
+    "material_id": "MAT-0112",
+    "quality_status": "AVAILABLE",
+    "quantity": 1058.392
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000335",
+    "lot_number": "MAT-0112-L02",
+    "material_id": "MAT-0112",
+    "quality_status": "AVAILABLE",
+    "quantity": 1125.177
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000336",
+    "lot_number": "MAT-0112-L03",
+    "material_id": "MAT-0112",
+    "quality_status": "AVAILABLE",
+    "quantity": 1198.695
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000337",
+    "lot_number": "MAT-0113-L01",
+    "material_id": "MAT-0113",
+    "quality_status": "AVAILABLE",
+    "quantity": 1002.925
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000338",
+    "lot_number": "MAT-0113-L02",
+    "material_id": "MAT-0113",
+    "quality_status": "AVAILABLE",
+    "quantity": 1337.766
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000339",
+    "lot_number": "MAT-0113-L03",
+    "material_id": "MAT-0113",
+    "quality_status": "AVAILABLE",
+    "quantity": 640.289
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000340",
+    "lot_number": "MAT-0114-L01",
+    "material_id": "MAT-0114",
+    "quality_status": "AVAILABLE",
+    "quantity": 636.481
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000341",
+    "lot_number": "MAT-0114-L02",
+    "material_id": "MAT-0114",
+    "quality_status": "AVAILABLE",
+    "quantity": 623.523
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000342",
+    "lot_number": "MAT-0114-L03",
+    "material_id": "MAT-0114",
+    "quality_status": "AVAILABLE",
+    "quantity": 1273.154
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000343",
+    "lot_number": "MAT-0115-L01",
+    "material_id": "MAT-0115",
+    "quality_status": "AVAILABLE",
+    "quantity": 1374.686
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000344",
+    "lot_number": "MAT-0115-L02",
+    "material_id": "MAT-0115",
+    "quality_status": "AVAILABLE",
+    "quantity": 814.532
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000345",
+    "lot_number": "MAT-0115-L03",
+    "material_id": "MAT-0115",
+    "quality_status": "AVAILABLE",
+    "quantity": 1129.868
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000346",
+    "lot_number": "MAT-0116-L01",
+    "material_id": "MAT-0116",
+    "quality_status": "AVAILABLE",
+    "quantity": 1395.753
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000347",
+    "lot_number": "MAT-0116-L02",
+    "material_id": "MAT-0116",
+    "quality_status": "AVAILABLE",
+    "quantity": 561.231
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000348",
+    "lot_number": "MAT-0116-L03",
+    "material_id": "MAT-0116",
+    "quality_status": "AVAILABLE",
+    "quantity": 825.429
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000349",
+    "lot_number": "MAT-0117-L01",
+    "material_id": "MAT-0117",
+    "quality_status": "AVAILABLE",
+    "quantity": 785.772
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000350",
+    "lot_number": "MAT-0117-L02",
+    "material_id": "MAT-0117",
+    "quality_status": "AVAILABLE",
+    "quantity": 1007.921
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000351",
+    "lot_number": "MAT-0117-L03",
+    "material_id": "MAT-0117",
+    "quality_status": "AVAILABLE",
+    "quantity": 914.422
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000352",
+    "lot_number": "MAT-0118-L01",
+    "material_id": "MAT-0118",
+    "quality_status": "AVAILABLE",
+    "quantity": 734.829
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000353",
+    "lot_number": "MAT-0118-L02",
+    "material_id": "MAT-0118",
+    "quality_status": "AVAILABLE",
+    "quantity": 818.23
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000354",
+    "lot_number": "MAT-0118-L03",
+    "material_id": "MAT-0118",
+    "quality_status": "AVAILABLE",
+    "quantity": 540.048
+  },
+  {
+    "available_from": "2026-11-30",
+    "expiry_date": "",
+    "lot_id": "LOT-000355",
+    "lot_number": "MAT-0119-L01",
+    "material_id": "MAT-0119",
+    "quality_status": "AVAILABLE",
+    "quantity": 1022.217
+  },
+  {
+    "available_from": "2026-12-07",
+    "expiry_date": "",
+    "lot_id": "LOT-000356",
+    "lot_number": "MAT-0119-L02",
+    "material_id": "MAT-0119",
+    "quality_status": "AVAILABLE",
+    "quantity": 951.014
+  },
+  {
+    "available_from": "2026-12-06",
+    "expiry_date": "",
+    "lot_id": "LOT-000357",
+    "lot_number": "MAT-0119-L03",
+    "material_id": "MAT-0119",
+    "quality_status": "AVAILABLE",
+    "quantity": 646.245
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000358",
+    "lot_number": "MAT-0120-L01",
+    "material_id": "MAT-0120",
+    "quality_status": "AVAILABLE",
+    "quantity": 890.464
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000359",
+    "lot_number": "MAT-0120-L02",
+    "material_id": "MAT-0120",
+    "quality_status": "AVAILABLE",
+    "quantity": 597.029
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000360",
+    "lot_number": "MAT-0120-L03",
+    "material_id": "MAT-0120",
+    "quality_status": "AVAILABLE",
+    "quantity": 1127.62
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000361",
+    "lot_number": "MAT-0121-L01",
+    "material_id": "MAT-0121",
+    "quality_status": "AVAILABLE",
+    "quantity": 859.457
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000362",
+    "lot_number": "MAT-0121-L02",
+    "material_id": "MAT-0121",
+    "quality_status": "AVAILABLE",
+    "quantity": 816.979
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000363",
+    "lot_number": "MAT-0121-L03",
+    "material_id": "MAT-0121",
+    "quality_status": "AVAILABLE",
+    "quantity": 728.985
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000364",
+    "lot_number": "MAT-0122-L01",
+    "material_id": "MAT-0122",
+    "quality_status": "AVAILABLE",
+    "quantity": 568.555
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000365",
+    "lot_number": "MAT-0122-L02",
+    "material_id": "MAT-0122",
+    "quality_status": "AVAILABLE",
+    "quantity": 962.407
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000366",
+    "lot_number": "MAT-0122-L03",
+    "material_id": "MAT-0122",
+    "quality_status": "AVAILABLE",
+    "quantity": 522.663
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000367",
+    "lot_number": "MAT-0123-L01",
+    "material_id": "MAT-0123",
+    "quality_status": "AVAILABLE",
+    "quantity": 1306.269
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000368",
+    "lot_number": "MAT-0123-L02",
+    "material_id": "MAT-0123",
+    "quality_status": "AVAILABLE",
+    "quantity": 1384.195
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000369",
+    "lot_number": "MAT-0123-L03",
+    "material_id": "MAT-0123",
+    "quality_status": "AVAILABLE",
+    "quantity": 1327.364
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000370",
+    "lot_number": "MAT-0124-L01",
+    "material_id": "MAT-0124",
+    "quality_status": "AVAILABLE",
+    "quantity": 1208.909
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000371",
+    "lot_number": "MAT-0124-L02",
+    "material_id": "MAT-0124",
+    "quality_status": "AVAILABLE",
+    "quantity": 1033.722
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000372",
+    "lot_number": "MAT-0124-L03",
+    "material_id": "MAT-0124",
+    "quality_status": "AVAILABLE",
+    "quantity": 1059.606
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000373",
+    "lot_number": "MAT-0125-L01",
+    "material_id": "MAT-0125",
+    "quality_status": "AVAILABLE",
+    "quantity": 1136.42
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000374",
+    "lot_number": "MAT-0125-L02",
+    "material_id": "MAT-0125",
+    "quality_status": "AVAILABLE",
+    "quantity": 757.695
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000375",
+    "lot_number": "MAT-0125-L03",
+    "material_id": "MAT-0125",
+    "quality_status": "AVAILABLE",
+    "quantity": 780.488
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000376",
+    "lot_number": "MAT-0126-L01",
+    "material_id": "MAT-0126",
+    "quality_status": "AVAILABLE",
+    "quantity": 701.012
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000377",
+    "lot_number": "MAT-0126-L02",
+    "material_id": "MAT-0126",
+    "quality_status": "AVAILABLE",
+    "quantity": 1382.131
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000378",
+    "lot_number": "MAT-0126-L03",
+    "material_id": "MAT-0126",
+    "quality_status": "AVAILABLE",
+    "quantity": 763.674
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000379",
+    "lot_number": "MAT-0127-L01",
+    "material_id": "MAT-0127",
+    "quality_status": "AVAILABLE",
+    "quantity": 823.505
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000380",
+    "lot_number": "MAT-0127-L02",
+    "material_id": "MAT-0127",
+    "quality_status": "AVAILABLE",
+    "quantity": 1290.763
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000381",
+    "lot_number": "MAT-0127-L03",
+    "material_id": "MAT-0127",
+    "quality_status": "AVAILABLE",
+    "quantity": 507.829
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000382",
+    "lot_number": "MAT-0128-L01",
+    "material_id": "MAT-0128",
+    "quality_status": "AVAILABLE",
+    "quantity": 1374.893
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000383",
+    "lot_number": "MAT-0128-L02",
+    "material_id": "MAT-0128",
+    "quality_status": "AVAILABLE",
+    "quantity": 1294.246
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000384",
+    "lot_number": "MAT-0128-L03",
+    "material_id": "MAT-0128",
+    "quality_status": "AVAILABLE",
+    "quantity": 569.808
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000385",
+    "lot_number": "MAT-0129-L01",
+    "material_id": "MAT-0129",
+    "quality_status": "AVAILABLE",
+    "quantity": 908.42
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000386",
+    "lot_number": "MAT-0129-L02",
+    "material_id": "MAT-0129",
+    "quality_status": "AVAILABLE",
+    "quantity": 1172.429
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000387",
+    "lot_number": "MAT-0129-L03",
+    "material_id": "MAT-0129",
+    "quality_status": "AVAILABLE",
+    "quantity": 880.48
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000388",
+    "lot_number": "MAT-0130-L01",
+    "material_id": "MAT-0130",
+    "quality_status": "AVAILABLE",
+    "quantity": 752.264
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000389",
+    "lot_number": "MAT-0130-L02",
+    "material_id": "MAT-0130",
+    "quality_status": "AVAILABLE",
+    "quantity": 524.13
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000390",
+    "lot_number": "MAT-0130-L03",
+    "material_id": "MAT-0130",
+    "quality_status": "AVAILABLE",
+    "quantity": 1307.579
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000391",
+    "lot_number": "MAT-0131-L01",
+    "material_id": "MAT-0131",
+    "quality_status": "AVAILABLE",
+    "quantity": 1083.081
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000392",
+    "lot_number": "MAT-0131-L02",
+    "material_id": "MAT-0131",
+    "quality_status": "AVAILABLE",
+    "quantity": 1190.587
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000393",
+    "lot_number": "MAT-0131-L03",
+    "material_id": "MAT-0131",
+    "quality_status": "AVAILABLE",
+    "quantity": 1009.899
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000394",
+    "lot_number": "MAT-0132-L01",
+    "material_id": "MAT-0132",
+    "quality_status": "AVAILABLE",
+    "quantity": 539.206
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000395",
+    "lot_number": "MAT-0132-L02",
+    "material_id": "MAT-0132",
+    "quality_status": "AVAILABLE",
+    "quantity": 665.72
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000396",
+    "lot_number": "MAT-0132-L03",
+    "material_id": "MAT-0132",
+    "quality_status": "AVAILABLE",
+    "quantity": 1164.423
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000397",
+    "lot_number": "MAT-0133-L01",
+    "material_id": "MAT-0133",
+    "quality_status": "AVAILABLE",
+    "quantity": 893.339
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000398",
+    "lot_number": "MAT-0133-L02",
+    "material_id": "MAT-0133",
+    "quality_status": "AVAILABLE",
+    "quantity": 880.639
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000399",
+    "lot_number": "MAT-0133-L03",
+    "material_id": "MAT-0133",
+    "quality_status": "AVAILABLE",
+    "quantity": 1096.276
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000400",
+    "lot_number": "MAT-0134-L01",
+    "material_id": "MAT-0134",
+    "quality_status": "AVAILABLE",
+    "quantity": 1010.031
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000401",
+    "lot_number": "MAT-0134-L02",
+    "material_id": "MAT-0134",
+    "quality_status": "AVAILABLE",
+    "quantity": 559.409
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000402",
+    "lot_number": "MAT-0134-L03",
+    "material_id": "MAT-0134",
+    "quality_status": "AVAILABLE",
+    "quantity": 517.603
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000403",
+    "lot_number": "MAT-0135-L01",
+    "material_id": "MAT-0135",
+    "quality_status": "AVAILABLE",
+    "quantity": 1103.591
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000404",
+    "lot_number": "MAT-0135-L02",
+    "material_id": "MAT-0135",
+    "quality_status": "AVAILABLE",
+    "quantity": 1021.053
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000405",
+    "lot_number": "MAT-0135-L03",
+    "material_id": "MAT-0135",
+    "quality_status": "AVAILABLE",
+    "quantity": 1095.592
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000406",
+    "lot_number": "MAT-0136-L01",
+    "material_id": "MAT-0136",
+    "quality_status": "AVAILABLE",
+    "quantity": 769.338
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000407",
+    "lot_number": "MAT-0136-L02",
+    "material_id": "MAT-0136",
+    "quality_status": "AVAILABLE",
+    "quantity": 999.214
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000408",
+    "lot_number": "MAT-0136-L03",
+    "material_id": "MAT-0136",
+    "quality_status": "AVAILABLE",
+    "quantity": 859.351
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000409",
+    "lot_number": "MAT-0137-L01",
+    "material_id": "MAT-0137",
+    "quality_status": "AVAILABLE",
+    "quantity": 800.861
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000410",
+    "lot_number": "MAT-0137-L02",
+    "material_id": "MAT-0137",
+    "quality_status": "AVAILABLE",
+    "quantity": 1305.056
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000411",
+    "lot_number": "MAT-0137-L03",
+    "material_id": "MAT-0137",
+    "quality_status": "AVAILABLE",
+    "quantity": 1098.185
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000412",
+    "lot_number": "MAT-0138-L01",
+    "material_id": "MAT-0138",
+    "quality_status": "AVAILABLE",
+    "quantity": 724.625
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000413",
+    "lot_number": "MAT-0138-L02",
+    "material_id": "MAT-0138",
+    "quality_status": "AVAILABLE",
+    "quantity": 563.13
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000414",
+    "lot_number": "MAT-0138-L03",
+    "material_id": "MAT-0138",
+    "quality_status": "AVAILABLE",
+    "quantity": 735.688
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000415",
+    "lot_number": "MAT-0139-L01",
+    "material_id": "MAT-0139",
+    "quality_status": "AVAILABLE",
+    "quantity": 1207.342
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000416",
+    "lot_number": "MAT-0139-L02",
+    "material_id": "MAT-0139",
+    "quality_status": "AVAILABLE",
+    "quantity": 833.98
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000417",
+    "lot_number": "MAT-0139-L03",
+    "material_id": "MAT-0139",
+    "quality_status": "AVAILABLE",
+    "quantity": 1006.258
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000418",
+    "lot_number": "MAT-0140-L01",
+    "material_id": "MAT-0140",
+    "quality_status": "AVAILABLE",
+    "quantity": 503.841
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000419",
+    "lot_number": "MAT-0140-L02",
+    "material_id": "MAT-0140",
+    "quality_status": "AVAILABLE",
+    "quantity": 792.461
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000420",
+    "lot_number": "MAT-0140-L03",
+    "material_id": "MAT-0140",
+    "quality_status": "AVAILABLE",
+    "quantity": 1107.566
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000421",
+    "lot_number": "MAT-0141-L01",
+    "material_id": "MAT-0141",
+    "quality_status": "AVAILABLE",
+    "quantity": 774.422
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000422",
+    "lot_number": "MAT-0141-L02",
+    "material_id": "MAT-0141",
+    "quality_status": "AVAILABLE",
+    "quantity": 1168.451
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000423",
+    "lot_number": "MAT-0141-L03",
+    "material_id": "MAT-0141",
+    "quality_status": "AVAILABLE",
+    "quantity": 1111.354
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000424",
+    "lot_number": "MAT-0142-L01",
+    "material_id": "MAT-0142",
+    "quality_status": "AVAILABLE",
+    "quantity": 944.534
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000425",
+    "lot_number": "MAT-0142-L02",
+    "material_id": "MAT-0142",
+    "quality_status": "AVAILABLE",
+    "quantity": 1387.588
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000426",
+    "lot_number": "MAT-0142-L03",
+    "material_id": "MAT-0142",
+    "quality_status": "AVAILABLE",
+    "quantity": 1042.088
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000427",
+    "lot_number": "MAT-0143-L01",
+    "material_id": "MAT-0143",
+    "quality_status": "AVAILABLE",
+    "quantity": 1092.806
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000428",
+    "lot_number": "MAT-0143-L02",
+    "material_id": "MAT-0143",
+    "quality_status": "AVAILABLE",
+    "quantity": 865.011
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000429",
+    "lot_number": "MAT-0143-L03",
+    "material_id": "MAT-0143",
+    "quality_status": "AVAILABLE",
+    "quantity": 1284.675
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000430",
+    "lot_number": "MAT-0144-L01",
+    "material_id": "MAT-0144",
+    "quality_status": "AVAILABLE",
+    "quantity": 824.244
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000431",
+    "lot_number": "MAT-0144-L02",
+    "material_id": "MAT-0144",
+    "quality_status": "AVAILABLE",
+    "quantity": 745.937
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000432",
+    "lot_number": "MAT-0144-L03",
+    "material_id": "MAT-0144",
+    "quality_status": "AVAILABLE",
+    "quantity": 1300.866
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000433",
+    "lot_number": "MAT-0145-L01",
+    "material_id": "MAT-0145",
+    "quality_status": "AVAILABLE",
+    "quantity": 580.985
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000434",
+    "lot_number": "MAT-0145-L02",
+    "material_id": "MAT-0145",
+    "quality_status": "AVAILABLE",
+    "quantity": 1130.555
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000435",
+    "lot_number": "MAT-0145-L03",
+    "material_id": "MAT-0145",
+    "quality_status": "AVAILABLE",
+    "quantity": 680.169
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000436",
+    "lot_number": "MAT-0146-L01",
+    "material_id": "MAT-0146",
+    "quality_status": "AVAILABLE",
+    "quantity": 740.451
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000437",
+    "lot_number": "MAT-0146-L02",
+    "material_id": "MAT-0146",
+    "quality_status": "AVAILABLE",
+    "quantity": 522.739
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000438",
+    "lot_number": "MAT-0146-L03",
+    "material_id": "MAT-0146",
+    "quality_status": "AVAILABLE",
+    "quantity": 1186.049
+  },
+  {
+    "available_from": "2026-11-29",
+    "expiry_date": "",
+    "lot_id": "LOT-000439",
+    "lot_number": "MAT-0147-L01",
+    "material_id": "MAT-0147",
+    "quality_status": "AVAILABLE",
+    "quantity": 1238.472
+  },
+  {
+    "available_from": "2026-12-03",
+    "expiry_date": "",
+    "lot_id": "LOT-000440",
+    "lot_number": "MAT-0147-L02",
+    "material_id": "MAT-0147",
+    "quality_status": "AVAILABLE",
+    "quantity": 601.014
+  },
+  {
+    "available_from": "2026-12-03",
+    "expiry_date": "",
+    "lot_id": "LOT-000441",
+    "lot_number": "MAT-0147-L03",
+    "material_id": "MAT-0147",
+    "quality_status": "AVAILABLE",
+    "quantity": 1195.028
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000442",
+    "lot_number": "MAT-0148-L01",
+    "material_id": "MAT-0148",
+    "quality_status": "AVAILABLE",
+    "quantity": 638.502
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000443",
+    "lot_number": "MAT-0148-L02",
+    "material_id": "MAT-0148",
+    "quality_status": "AVAILABLE",
+    "quantity": 513.293
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000444",
+    "lot_number": "MAT-0148-L03",
+    "material_id": "MAT-0148",
+    "quality_status": "AVAILABLE",
+    "quantity": 520.625
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000445",
+    "lot_number": "MAT-0149-L01",
+    "material_id": "MAT-0149",
+    "quality_status": "AVAILABLE",
+    "quantity": 1312.029
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000446",
+    "lot_number": "MAT-0149-L02",
+    "material_id": "MAT-0149",
+    "quality_status": "AVAILABLE",
+    "quantity": 1066.34
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000447",
+    "lot_number": "MAT-0149-L03",
+    "material_id": "MAT-0149",
+    "quality_status": "AVAILABLE",
+    "quantity": 1369.367
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000448",
+    "lot_number": "MAT-0150-L01",
+    "material_id": "MAT-0150",
+    "quality_status": "AVAILABLE",
+    "quantity": 996.087
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000449",
+    "lot_number": "MAT-0150-L02",
+    "material_id": "MAT-0150",
+    "quality_status": "AVAILABLE",
+    "quantity": 514.411
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000450",
+    "lot_number": "MAT-0150-L03",
+    "material_id": "MAT-0150",
+    "quality_status": "AVAILABLE",
+    "quantity": 694.432
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000451",
+    "lot_number": "MAT-0151-L01",
+    "material_id": "MAT-0151",
+    "quality_status": "AVAILABLE",
+    "quantity": 675.696
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000452",
+    "lot_number": "MAT-0151-L02",
+    "material_id": "MAT-0151",
+    "quality_status": "AVAILABLE",
+    "quantity": 1264.231
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000453",
+    "lot_number": "MAT-0151-L03",
+    "material_id": "MAT-0151",
+    "quality_status": "AVAILABLE",
+    "quantity": 658.376
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000454",
+    "lot_number": "MAT-0152-L01",
+    "material_id": "MAT-0152",
+    "quality_status": "AVAILABLE",
+    "quantity": 1377.207
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000455",
+    "lot_number": "MAT-0152-L02",
+    "material_id": "MAT-0152",
+    "quality_status": "AVAILABLE",
+    "quantity": 1070.157
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000456",
+    "lot_number": "MAT-0152-L03",
+    "material_id": "MAT-0152",
+    "quality_status": "AVAILABLE",
+    "quantity": 764.901
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000457",
+    "lot_number": "MAT-0153-L01",
+    "material_id": "MAT-0153",
+    "quality_status": "AVAILABLE",
+    "quantity": 716.974
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000458",
+    "lot_number": "MAT-0153-L02",
+    "material_id": "MAT-0153",
+    "quality_status": "AVAILABLE",
+    "quantity": 1189.06
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000459",
+    "lot_number": "MAT-0153-L03",
+    "material_id": "MAT-0153",
+    "quality_status": "AVAILABLE",
+    "quantity": 1196.331
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000460",
+    "lot_number": "MAT-0154-L01",
+    "material_id": "MAT-0154",
+    "quality_status": "AVAILABLE",
+    "quantity": 500.748
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000461",
+    "lot_number": "MAT-0154-L02",
+    "material_id": "MAT-0154",
+    "quality_status": "AVAILABLE",
+    "quantity": 654.383
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000462",
+    "lot_number": "MAT-0154-L03",
+    "material_id": "MAT-0154",
+    "quality_status": "AVAILABLE",
+    "quantity": 755.086
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000463",
+    "lot_number": "MAT-0155-L01",
+    "material_id": "MAT-0155",
+    "quality_status": "AVAILABLE",
+    "quantity": 946.858
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000464",
+    "lot_number": "MAT-0155-L02",
+    "material_id": "MAT-0155",
+    "quality_status": "AVAILABLE",
+    "quantity": 1310.881
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000465",
+    "lot_number": "MAT-0155-L03",
+    "material_id": "MAT-0155",
+    "quality_status": "AVAILABLE",
+    "quantity": 706.775
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000466",
+    "lot_number": "MAT-0156-L01",
+    "material_id": "MAT-0156",
+    "quality_status": "AVAILABLE",
+    "quantity": 638.807
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000467",
+    "lot_number": "MAT-0156-L02",
+    "material_id": "MAT-0156",
+    "quality_status": "AVAILABLE",
+    "quantity": 1287.523
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000468",
+    "lot_number": "MAT-0156-L03",
+    "material_id": "MAT-0156",
+    "quality_status": "AVAILABLE",
+    "quantity": 1215.634
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000469",
+    "lot_number": "MAT-0157-L01",
+    "material_id": "MAT-0157",
+    "quality_status": "AVAILABLE",
+    "quantity": 1394.791
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000470",
+    "lot_number": "MAT-0157-L02",
+    "material_id": "MAT-0157",
+    "quality_status": "AVAILABLE",
+    "quantity": 1158.32
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000471",
+    "lot_number": "MAT-0157-L03",
+    "material_id": "MAT-0157",
+    "quality_status": "AVAILABLE",
+    "quantity": 643.259
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000472",
+    "lot_number": "MAT-0158-L01",
+    "material_id": "MAT-0158",
+    "quality_status": "AVAILABLE",
+    "quantity": 764.767
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000473",
+    "lot_number": "MAT-0158-L02",
+    "material_id": "MAT-0158",
+    "quality_status": "AVAILABLE",
+    "quantity": 850.626
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000474",
+    "lot_number": "MAT-0158-L03",
+    "material_id": "MAT-0158",
+    "quality_status": "AVAILABLE",
+    "quantity": 1165.05
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000475",
+    "lot_number": "MAT-0159-L01",
+    "material_id": "MAT-0159",
+    "quality_status": "AVAILABLE",
+    "quantity": 646.275
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000476",
+    "lot_number": "MAT-0159-L02",
+    "material_id": "MAT-0159",
+    "quality_status": "AVAILABLE",
+    "quantity": 607.106
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000477",
+    "lot_number": "MAT-0159-L03",
+    "material_id": "MAT-0159",
+    "quality_status": "AVAILABLE",
+    "quantity": 681.966
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000478",
+    "lot_number": "MAT-0160-L01",
+    "material_id": "MAT-0160",
+    "quality_status": "AVAILABLE",
+    "quantity": 522.823
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000479",
+    "lot_number": "MAT-0160-L02",
+    "material_id": "MAT-0160",
+    "quality_status": "AVAILABLE",
+    "quantity": 1339.05
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000480",
+    "lot_number": "MAT-0160-L03",
+    "material_id": "MAT-0160",
+    "quality_status": "AVAILABLE",
+    "quantity": 585.292
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000481",
+    "lot_number": "MAT-0161-L01",
+    "material_id": "MAT-0161",
+    "quality_status": "AVAILABLE",
+    "quantity": 1316.941
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000482",
+    "lot_number": "MAT-0161-L02",
+    "material_id": "MAT-0161",
+    "quality_status": "AVAILABLE",
+    "quantity": 932.752
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000483",
+    "lot_number": "MAT-0161-L03",
+    "material_id": "MAT-0161",
+    "quality_status": "AVAILABLE",
+    "quantity": 993.416
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000484",
+    "lot_number": "MAT-0162-L01",
+    "material_id": "MAT-0162",
+    "quality_status": "AVAILABLE",
+    "quantity": 553.946
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000485",
+    "lot_number": "MAT-0162-L02",
+    "material_id": "MAT-0162",
+    "quality_status": "AVAILABLE",
+    "quantity": 564.754
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000486",
+    "lot_number": "MAT-0162-L03",
+    "material_id": "MAT-0162",
+    "quality_status": "AVAILABLE",
+    "quantity": 1381.184
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000487",
+    "lot_number": "MAT-0163-L01",
+    "material_id": "MAT-0163",
+    "quality_status": "AVAILABLE",
+    "quantity": 663.58
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000488",
+    "lot_number": "MAT-0163-L02",
+    "material_id": "MAT-0163",
+    "quality_status": "AVAILABLE",
+    "quantity": 896.065
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000489",
+    "lot_number": "MAT-0163-L03",
+    "material_id": "MAT-0163",
+    "quality_status": "AVAILABLE",
+    "quantity": 1068.962
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000490",
+    "lot_number": "MAT-0164-L01",
+    "material_id": "MAT-0164",
+    "quality_status": "AVAILABLE",
+    "quantity": 1390.0
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000491",
+    "lot_number": "MAT-0164-L02",
+    "material_id": "MAT-0164",
+    "quality_status": "AVAILABLE",
+    "quantity": 879.342
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000492",
+    "lot_number": "MAT-0164-L03",
+    "material_id": "MAT-0164",
+    "quality_status": "AVAILABLE",
+    "quantity": 857.028
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000493",
+    "lot_number": "MAT-0165-L01",
+    "material_id": "MAT-0165",
+    "quality_status": "AVAILABLE",
+    "quantity": 1243.505
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000494",
+    "lot_number": "MAT-0165-L02",
+    "material_id": "MAT-0165",
+    "quality_status": "AVAILABLE",
+    "quantity": 1324.968
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000495",
+    "lot_number": "MAT-0165-L03",
+    "material_id": "MAT-0165",
+    "quality_status": "AVAILABLE",
+    "quantity": 760.165
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000496",
+    "lot_number": "MAT-0166-L01",
+    "material_id": "MAT-0166",
+    "quality_status": "AVAILABLE",
+    "quantity": 746.864
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000497",
+    "lot_number": "MAT-0166-L02",
+    "material_id": "MAT-0166",
+    "quality_status": "AVAILABLE",
+    "quantity": 597.117
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000498",
+    "lot_number": "MAT-0166-L03",
+    "material_id": "MAT-0166",
+    "quality_status": "AVAILABLE",
+    "quantity": 1304.098
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000499",
+    "lot_number": "MAT-0167-L01",
+    "material_id": "MAT-0167",
+    "quality_status": "AVAILABLE",
+    "quantity": 1268.292
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000500",
+    "lot_number": "MAT-0167-L02",
+    "material_id": "MAT-0167",
+    "quality_status": "AVAILABLE",
+    "quantity": 1288.802
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000501",
+    "lot_number": "MAT-0167-L03",
+    "material_id": "MAT-0167",
+    "quality_status": "AVAILABLE",
+    "quantity": 1298.284
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000502",
+    "lot_number": "MAT-0168-L01",
+    "material_id": "MAT-0168",
+    "quality_status": "AVAILABLE",
+    "quantity": 537.25
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000503",
+    "lot_number": "MAT-0168-L02",
+    "material_id": "MAT-0168",
+    "quality_status": "AVAILABLE",
+    "quantity": 1034.906
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000504",
+    "lot_number": "MAT-0168-L03",
+    "material_id": "MAT-0168",
+    "quality_status": "AVAILABLE",
+    "quantity": 1029.474
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000505",
+    "lot_number": "MAT-0169-L01",
+    "material_id": "MAT-0169",
+    "quality_status": "AVAILABLE",
+    "quantity": 1072.391
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000506",
+    "lot_number": "MAT-0169-L02",
+    "material_id": "MAT-0169",
+    "quality_status": "AVAILABLE",
+    "quantity": 1277.364
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000507",
+    "lot_number": "MAT-0169-L03",
+    "material_id": "MAT-0169",
+    "quality_status": "AVAILABLE",
+    "quantity": 986.283
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000508",
+    "lot_number": "MAT-0170-L01",
+    "material_id": "MAT-0170",
+    "quality_status": "AVAILABLE",
+    "quantity": 638.471
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000509",
+    "lot_number": "MAT-0170-L02",
+    "material_id": "MAT-0170",
+    "quality_status": "AVAILABLE",
+    "quantity": 936.61
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000510",
+    "lot_number": "MAT-0170-L03",
+    "material_id": "MAT-0170",
+    "quality_status": "AVAILABLE",
+    "quantity": 1309.041
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000511",
+    "lot_number": "MAT-0171-L01",
+    "material_id": "MAT-0171",
+    "quality_status": "AVAILABLE",
+    "quantity": 1174.473
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000512",
+    "lot_number": "MAT-0171-L02",
+    "material_id": "MAT-0171",
+    "quality_status": "AVAILABLE",
+    "quantity": 514.213
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000513",
+    "lot_number": "MAT-0171-L03",
+    "material_id": "MAT-0171",
+    "quality_status": "AVAILABLE",
+    "quantity": 776.187
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000514",
+    "lot_number": "MAT-0172-L01",
+    "material_id": "MAT-0172",
+    "quality_status": "AVAILABLE",
+    "quantity": 687.176
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000515",
+    "lot_number": "MAT-0172-L02",
+    "material_id": "MAT-0172",
+    "quality_status": "AVAILABLE",
+    "quantity": 837.033
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000516",
+    "lot_number": "MAT-0172-L03",
+    "material_id": "MAT-0172",
+    "quality_status": "AVAILABLE",
+    "quantity": 1259.261
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000517",
+    "lot_number": "MAT-0173-L01",
+    "material_id": "MAT-0173",
+    "quality_status": "AVAILABLE",
+    "quantity": 625.198
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000518",
+    "lot_number": "MAT-0173-L02",
+    "material_id": "MAT-0173",
+    "quality_status": "AVAILABLE",
+    "quantity": 963.831
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000519",
+    "lot_number": "MAT-0173-L03",
+    "material_id": "MAT-0173",
+    "quality_status": "AVAILABLE",
+    "quantity": 1138.6
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000520",
+    "lot_number": "MAT-0174-L01",
+    "material_id": "MAT-0174",
+    "quality_status": "AVAILABLE",
+    "quantity": 623.192
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000521",
+    "lot_number": "MAT-0174-L02",
+    "material_id": "MAT-0174",
+    "quality_status": "AVAILABLE",
+    "quantity": 536.098
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000522",
+    "lot_number": "MAT-0174-L03",
+    "material_id": "MAT-0174",
+    "quality_status": "AVAILABLE",
+    "quantity": 546.54
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000523",
+    "lot_number": "MAT-0175-L01",
+    "material_id": "MAT-0175",
+    "quality_status": "AVAILABLE",
+    "quantity": 692.334
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000524",
+    "lot_number": "MAT-0175-L02",
+    "material_id": "MAT-0175",
+    "quality_status": "AVAILABLE",
+    "quantity": 878.865
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000525",
+    "lot_number": "MAT-0175-L03",
+    "material_id": "MAT-0175",
+    "quality_status": "AVAILABLE",
+    "quantity": 1188.056
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000526",
+    "lot_number": "MAT-0176-L01",
+    "material_id": "MAT-0176",
+    "quality_status": "AVAILABLE",
+    "quantity": 1162.454
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000527",
+    "lot_number": "MAT-0176-L02",
+    "material_id": "MAT-0176",
+    "quality_status": "AVAILABLE",
+    "quantity": 876.41
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000528",
+    "lot_number": "MAT-0176-L03",
+    "material_id": "MAT-0176",
+    "quality_status": "AVAILABLE",
+    "quantity": 604.469
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000529",
+    "lot_number": "MAT-0177-L01",
+    "material_id": "MAT-0177",
+    "quality_status": "AVAILABLE",
+    "quantity": 846.405
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000530",
+    "lot_number": "MAT-0177-L02",
+    "material_id": "MAT-0177",
+    "quality_status": "AVAILABLE",
+    "quantity": 1316.043
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000531",
+    "lot_number": "MAT-0177-L03",
+    "material_id": "MAT-0177",
+    "quality_status": "AVAILABLE",
+    "quantity": 1145.067
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000532",
+    "lot_number": "MAT-0178-L01",
+    "material_id": "MAT-0178",
+    "quality_status": "AVAILABLE",
+    "quantity": 716.662
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000533",
+    "lot_number": "MAT-0178-L02",
+    "material_id": "MAT-0178",
+    "quality_status": "AVAILABLE",
+    "quantity": 654.917
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000534",
+    "lot_number": "MAT-0178-L03",
+    "material_id": "MAT-0178",
+    "quality_status": "AVAILABLE",
+    "quantity": 651.177
+  },
+  {
+    "available_from": "2026-12-03",
+    "expiry_date": "",
+    "lot_id": "LOT-000535",
+    "lot_number": "MAT-0179-L01",
+    "material_id": "MAT-0179",
+    "quality_status": "AVAILABLE",
+    "quantity": 1114.665
+  },
+  {
+    "available_from": "2026-12-04",
+    "expiry_date": "",
+    "lot_id": "LOT-000536",
+    "lot_number": "MAT-0179-L02",
+    "material_id": "MAT-0179",
+    "quality_status": "AVAILABLE",
+    "quantity": 884.301
+  },
+  {
+    "available_from": "2026-12-10",
+    "expiry_date": "",
+    "lot_id": "LOT-000537",
+    "lot_number": "MAT-0179-L03",
+    "material_id": "MAT-0179",
+    "quality_status": "AVAILABLE",
+    "quantity": 1329.892
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000538",
+    "lot_number": "MAT-0180-L01",
+    "material_id": "MAT-0180",
+    "quality_status": "AVAILABLE",
+    "quantity": 1006.56
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000539",
+    "lot_number": "MAT-0180-L02",
+    "material_id": "MAT-0180",
+    "quality_status": "AVAILABLE",
+    "quantity": 1146.481
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000540",
+    "lot_number": "MAT-0180-L03",
+    "material_id": "MAT-0180",
+    "quality_status": "AVAILABLE",
+    "quantity": 981.987
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000541",
+    "lot_number": "MAT-0181-L01",
+    "material_id": "MAT-0181",
+    "quality_status": "AVAILABLE",
+    "quantity": 1385.376
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000542",
+    "lot_number": "MAT-0181-L02",
+    "material_id": "MAT-0181",
+    "quality_status": "AVAILABLE",
+    "quantity": 517.727
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000543",
+    "lot_number": "MAT-0181-L03",
+    "material_id": "MAT-0181",
+    "quality_status": "AVAILABLE",
+    "quantity": 525.213
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000544",
+    "lot_number": "MAT-0182-L01",
+    "material_id": "MAT-0182",
+    "quality_status": "AVAILABLE",
+    "quantity": 719.664
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000545",
+    "lot_number": "MAT-0182-L02",
+    "material_id": "MAT-0182",
+    "quality_status": "AVAILABLE",
+    "quantity": 1300.594
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000546",
+    "lot_number": "MAT-0182-L03",
+    "material_id": "MAT-0182",
+    "quality_status": "AVAILABLE",
+    "quantity": 731.394
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000547",
+    "lot_number": "MAT-0183-L01",
+    "material_id": "MAT-0183",
+    "quality_status": "AVAILABLE",
+    "quantity": 1043.789
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000548",
+    "lot_number": "MAT-0183-L02",
+    "material_id": "MAT-0183",
+    "quality_status": "AVAILABLE",
+    "quantity": 818.433
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000549",
+    "lot_number": "MAT-0183-L03",
+    "material_id": "MAT-0183",
+    "quality_status": "AVAILABLE",
+    "quantity": 997.624
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000550",
+    "lot_number": "MAT-0184-L01",
+    "material_id": "MAT-0184",
+    "quality_status": "AVAILABLE",
+    "quantity": 1279.171
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000551",
+    "lot_number": "MAT-0184-L02",
+    "material_id": "MAT-0184",
+    "quality_status": "AVAILABLE",
+    "quantity": 1178.099
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000552",
+    "lot_number": "MAT-0184-L03",
+    "material_id": "MAT-0184",
+    "quality_status": "AVAILABLE",
+    "quantity": 712.336
+  },
+  {
+    "available_from": "2026-11-19",
+    "expiry_date": "",
+    "lot_id": "LOT-000553",
+    "lot_number": "MAT-0185-L01",
+    "material_id": "MAT-0185",
+    "quality_status": "AVAILABLE",
+    "quantity": 1098.4
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000554",
+    "lot_number": "MAT-0185-L02",
+    "material_id": "MAT-0185",
+    "quality_status": "AVAILABLE",
+    "quantity": 991.216
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000555",
+    "lot_number": "MAT-0185-L03",
+    "material_id": "MAT-0185",
+    "quality_status": "AVAILABLE",
+    "quantity": 1049.507
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000556",
+    "lot_number": "MAT-0186-L01",
+    "material_id": "MAT-0186",
+    "quality_status": "AVAILABLE",
+    "quantity": 1056.923
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000557",
+    "lot_number": "MAT-0186-L02",
+    "material_id": "MAT-0186",
+    "quality_status": "AVAILABLE",
+    "quantity": 1062.246
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000558",
+    "lot_number": "MAT-0186-L03",
+    "material_id": "MAT-0186",
+    "quality_status": "AVAILABLE",
+    "quantity": 1048.65
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000559",
+    "lot_number": "MAT-0187-L01",
+    "material_id": "MAT-0187",
+    "quality_status": "AVAILABLE",
+    "quantity": 1308.255
+  },
+  {
+    "available_from": "2026-12-03",
+    "expiry_date": "",
+    "lot_id": "LOT-000560",
+    "lot_number": "MAT-0187-L02",
+    "material_id": "MAT-0187",
+    "quality_status": "AVAILABLE",
+    "quantity": 631.217
+  },
+  {
+    "available_from": "2026-12-07",
+    "expiry_date": "",
+    "lot_id": "LOT-000561",
+    "lot_number": "MAT-0187-L03",
+    "material_id": "MAT-0187",
+    "quality_status": "AVAILABLE",
+    "quantity": 586.306
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000562",
+    "lot_number": "MAT-0188-L01",
+    "material_id": "MAT-0188",
+    "quality_status": "AVAILABLE",
+    "quantity": 767.477
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000563",
+    "lot_number": "MAT-0188-L02",
+    "material_id": "MAT-0188",
+    "quality_status": "AVAILABLE",
+    "quantity": 1216.476
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000564",
+    "lot_number": "MAT-0188-L03",
+    "material_id": "MAT-0188",
+    "quality_status": "AVAILABLE",
+    "quantity": 724.419
+  },
+  {
+    "available_from": "2026-11-28",
+    "expiry_date": "",
+    "lot_id": "LOT-000565",
+    "lot_number": "MAT-0189-L01",
+    "material_id": "MAT-0189",
+    "quality_status": "AVAILABLE",
+    "quantity": 533.217
+  },
+  {
+    "available_from": "2026-12-04",
+    "expiry_date": "",
+    "lot_id": "LOT-000566",
+    "lot_number": "MAT-0189-L02",
+    "material_id": "MAT-0189",
+    "quality_status": "AVAILABLE",
+    "quantity": 1250.404
+  },
+  {
+    "available_from": "2026-12-01",
+    "expiry_date": "",
+    "lot_id": "LOT-000567",
+    "lot_number": "MAT-0189-L03",
+    "material_id": "MAT-0189",
+    "quality_status": "AVAILABLE",
+    "quantity": 667.62
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000568",
+    "lot_number": "MAT-0190-L01",
+    "material_id": "MAT-0190",
+    "quality_status": "AVAILABLE",
+    "quantity": 1096.876
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000569",
+    "lot_number": "MAT-0190-L02",
+    "material_id": "MAT-0190",
+    "quality_status": "AVAILABLE",
+    "quantity": 1371.653
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000570",
+    "lot_number": "MAT-0190-L03",
+    "material_id": "MAT-0190",
+    "quality_status": "AVAILABLE",
+    "quantity": 607.541
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000571",
+    "lot_number": "MAT-0191-L01",
+    "material_id": "MAT-0191",
+    "quality_status": "AVAILABLE",
+    "quantity": 1340.062
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000572",
+    "lot_number": "MAT-0191-L02",
+    "material_id": "MAT-0191",
+    "quality_status": "AVAILABLE",
+    "quantity": 602.31
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000573",
+    "lot_number": "MAT-0191-L03",
+    "material_id": "MAT-0191",
+    "quality_status": "AVAILABLE",
+    "quantity": 1382.058
+  },
+  {
+    "available_from": "2026-11-24",
+    "expiry_date": "",
+    "lot_id": "LOT-000574",
+    "lot_number": "MAT-0192-L01",
+    "material_id": "MAT-0192",
+    "quality_status": "AVAILABLE",
+    "quantity": 506.019
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000575",
+    "lot_number": "MAT-0192-L02",
+    "material_id": "MAT-0192",
+    "quality_status": "AVAILABLE",
+    "quantity": 866.685
+  },
+  {
+    "available_from": "2026-11-25",
+    "expiry_date": "",
+    "lot_id": "LOT-000576",
+    "lot_number": "MAT-0192-L03",
+    "material_id": "MAT-0192",
+    "quality_status": "AVAILABLE",
+    "quantity": 672.188
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000577",
+    "lot_number": "MAT-0193-L01",
+    "material_id": "MAT-0193",
+    "quality_status": "AVAILABLE",
+    "quantity": 1048.064
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000578",
+    "lot_number": "MAT-0193-L02",
+    "material_id": "MAT-0193",
+    "quality_status": "AVAILABLE",
+    "quantity": 1062.694
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000579",
+    "lot_number": "MAT-0193-L03",
+    "material_id": "MAT-0193",
+    "quality_status": "AVAILABLE",
+    "quantity": 1167.32
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000580",
+    "lot_number": "MAT-0194-L01",
+    "material_id": "MAT-0194",
+    "quality_status": "AVAILABLE",
+    "quantity": 1232.797
+  },
+  {
+    "available_from": "2026-11-26",
+    "expiry_date": "",
+    "lot_id": "LOT-000581",
+    "lot_number": "MAT-0194-L02",
+    "material_id": "MAT-0194",
+    "quality_status": "AVAILABLE",
+    "quantity": 1150.379
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000582",
+    "lot_number": "MAT-0194-L03",
+    "material_id": "MAT-0194",
+    "quality_status": "AVAILABLE",
+    "quantity": 994.278
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000583",
+    "lot_number": "MAT-0195-L01",
+    "material_id": "MAT-0195",
+    "quality_status": "AVAILABLE",
+    "quantity": 1247.82
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000584",
+    "lot_number": "MAT-0195-L02",
+    "material_id": "MAT-0195",
+    "quality_status": "AVAILABLE",
+    "quantity": 1049.086
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000585",
+    "lot_number": "MAT-0195-L03",
+    "material_id": "MAT-0195",
+    "quality_status": "AVAILABLE",
+    "quantity": 1384.92
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000586",
+    "lot_number": "MAT-0196-L01",
+    "material_id": "MAT-0196",
+    "quality_status": "AVAILABLE",
+    "quantity": 899.687
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000587",
+    "lot_number": "MAT-0196-L02",
+    "material_id": "MAT-0196",
+    "quality_status": "AVAILABLE",
+    "quantity": 981.88
+  },
+  {
+    "available_from": "2026-11-20",
+    "expiry_date": "",
+    "lot_id": "LOT-000588",
+    "lot_number": "MAT-0196-L03",
+    "material_id": "MAT-0196",
+    "quality_status": "AVAILABLE",
+    "quantity": 1193.565
+  },
+  {
+    "available_from": "2026-11-29",
+    "expiry_date": "",
+    "lot_id": "LOT-000589",
+    "lot_number": "MAT-0197-L01",
+    "material_id": "MAT-0197",
+    "quality_status": "AVAILABLE",
+    "quantity": 663.722
+  },
+  {
+    "available_from": "2026-11-29",
+    "expiry_date": "",
+    "lot_id": "LOT-000590",
+    "lot_number": "MAT-0197-L02",
+    "material_id": "MAT-0197",
+    "quality_status": "AVAILABLE",
+    "quantity": 1313.256
+  },
+  {
+    "available_from": "2026-12-02",
+    "expiry_date": "",
+    "lot_id": "LOT-000591",
+    "lot_number": "MAT-0197-L03",
+    "material_id": "MAT-0197",
+    "quality_status": "AVAILABLE",
+    "quantity": 1022.551
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000592",
+    "lot_number": "MAT-0198-L01",
+    "material_id": "MAT-0198",
+    "quality_status": "AVAILABLE",
+    "quantity": 644.053
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000593",
+    "lot_number": "MAT-0198-L02",
+    "material_id": "MAT-0198",
+    "quality_status": "AVAILABLE",
+    "quantity": 610.589
+  },
+  {
+    "available_from": "2026-11-17",
+    "expiry_date": "",
+    "lot_id": "LOT-000594",
+    "lot_number": "MAT-0198-L03",
+    "material_id": "MAT-0198",
+    "quality_status": "AVAILABLE",
+    "quantity": 1112.064
+  },
+  {
+    "available_from": "2026-11-21",
+    "expiry_date": "",
+    "lot_id": "LOT-000595",
+    "lot_number": "MAT-0199-L01",
+    "material_id": "MAT-0199",
+    "quality_status": "AVAILABLE",
+    "quantity": 994.478
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000596",
+    "lot_number": "MAT-0199-L02",
+    "material_id": "MAT-0199",
+    "quality_status": "AVAILABLE",
+    "quantity": 1332.443
+  },
+  {
+    "available_from": "2026-11-18",
+    "expiry_date": "",
+    "lot_id": "LOT-000597",
+    "lot_number": "MAT-0199-L03",
+    "material_id": "MAT-0199",
+    "quality_status": "AVAILABLE",
+    "quantity": 683.458
+  },
+  {
+    "available_from": "2026-11-22",
+    "expiry_date": "",
+    "lot_id": "LOT-000598",
+    "lot_number": "MAT-0200-L01",
+    "material_id": "MAT-0200",
+    "quality_status": "AVAILABLE",
+    "quantity": 524.7
+  },
+  {
+    "available_from": "2026-11-23",
+    "expiry_date": "",
+    "lot_id": "LOT-000599",
+    "lot_number": "MAT-0200-L02",
+    "material_id": "MAT-0200",
+    "quality_status": "AVAILABLE",
+    "quantity": 505.909
+  },
+  {
+    "available_from": "2026-11-16",
+    "expiry_date": "",
+    "lot_id": "LOT-000600",
+    "lot_number": "MAT-0200-L03",
+    "material_id": "MAT-0200",
+    "quality_status": "AVAILABLE",
+    "quantity": 1212.327
+  }
+]

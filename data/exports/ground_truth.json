@@ -1,0 +1,42 @@
+[
+  {
+    "scenario_id": "ANOM-001",
+    "operation_id": "OP-PO-2026-000451-04",
+    "issue_type": "MACHINE_OVERLAP",
+    "ground_truth": "VIOLATION",
+    "expected_detection": "MACHINE_OVERLAP",
+    "description": "Move the second operation into the first operation's occupied interval."
+  },
+  {
+    "scenario_id": "ANOM-002",
+    "operation_id": "OP-PO-2026-000034-03",
+    "issue_type": "PRECEDENCE",
+    "ground_truth": "VIOLATION",
+    "expected_detection": "PRECEDENCE",
+    "description": "Start a downstream route step before its predecessor is complete."
+  },
+  {
+    "scenario_id": "ANOM-003",
+    "operation_id": "OP-PO-2026-000450-01",
+    "issue_type": "MATERIAL_UNAVAILABLE",
+    "ground_truth": "VIOLATION",
+    "expected_detection": "MATERIAL_UNAVAILABLE",
+    "description": "Attempt to consume a material lot before its available_from date."
+  },
+  {
+    "scenario_id": "ANOM-004",
+    "operation_id": "OP-PO-2026-000034-03",
+    "issue_type": "CALENDAR_VIOLATION",
+    "ground_truth": "VIOLATION",
+    "expected_detection": "CALENDAR_VIOLATION",
+    "description": "Move an operation outside its machine's 08:00\u201316:00 weekday calendar."
+  },
+  {
+    "scenario_id": "ANOM-005",
+    "operation_id": "OP-PO-2026-000451-04",
+    "issue_type": "CHANGEOVER_MISSING",
+    "ground_truth": "VIOLATION",
+    "expected_detection": "CHANGEOVER_MISSING",
+    "description": "Set setup minutes to zero although the machine's from-to matrix requires a changeover."
+  }
+]

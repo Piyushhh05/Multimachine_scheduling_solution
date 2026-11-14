@@ -1,0 +1,164 @@
+{
+  "tables": [
+    {
+      "table": "scheduler_product",
+      "rows": 100,
+      "csv": "scheduler_product.csv",
+      "json": "scheduler_product.json",
+      "sha256_csv": "fd19fa7cd2133f1d00e182834fcc2a4a257a8012681f0beebe806638b103f56f"
+    },
+    {
+      "table": "scheduler_routing",
+      "rows": 100,
+      "csv": "scheduler_routing.csv",
+      "json": "scheduler_routing.json",
+      "sha256_csv": "d0dc1fc51045dad249622c3dd35771f74c83c2107f1f824cdb092bfe895d7dd9"
+    },
+    {
+      "table": "scheduler_machine",
+      "rows": 40,
+      "csv": "scheduler_machine.csv",
+      "json": "scheduler_machine.json",
+      "sha256_csv": "43628284d3c237b5384f2fcc69815e7cfe11f7167b2125ae8df7d2fadd19a9ad"
+    },
+    {
+      "table": "scheduler_machinecalendar",
+      "rows": 200,
+      "csv": "scheduler_machinecalendar.csv",
+      "json": "scheduler_machinecalendar.json",
+      "sha256_csv": "7acc8a9ca093567d43510f34f0d88d3f3804c64535ebabcc475a71a8c50f1f6d"
+    },
+    {
+      "table": "scheduler_machinedowntime",
+      "rows": 80,
+      "csv": "scheduler_machinedowntime.csv",
+      "json": "scheduler_machinedowntime.json",
+      "sha256_csv": "7b5460fa61d5ed1650d1a7d4de8bfe002978f7e973ce8936c09589ab8d2da05a"
+    },
+    {
+      "table": "scheduler_material",
+      "rows": 200,
+      "csv": "scheduler_material.csv",
+      "json": "scheduler_material.json",
+      "sha256_csv": "8f8eb0e620fd7028d328bc828fd013d5dea26e86cdc1a205098f4046195470fc"
+    },
+    {
+      "table": "scheduler_inventorylot",
+      "rows": 600,
+      "csv": "scheduler_inventorylot.csv",
+      "json": "scheduler_inventorylot.json",
+      "sha256_csv": "6d5bae97dee2ee6493403d50eeefa19bfd5c680ff6950bf1292a6b4b60bff93e"
+    },
+    {
+      "table": "scheduler_tooling",
+      "rows": 10,
+      "csv": "scheduler_tooling.csv",
+      "json": "scheduler_tooling.json",
+      "sha256_csv": "1c855130080729a5b710cc1d316ed5d4ea9317cc8d4a1d7b00a09dca1a017037"
+    },
+    {
+      "table": "scheduler_machinetooling",
+      "rows": 382,
+      "csv": "scheduler_machinetooling.csv",
+      "json": "scheduler_machinetooling.json",
+      "sha256_csv": "a3d4c21679110d223a42c25a9210e8a4a8c5dc48294e0055fbe570283bed1905"
+    },
+    {
+      "table": "scheduler_routingstep",
+      "rows": 400,
+      "csv": "scheduler_routingstep.csv",
+      "json": "scheduler_routingstep.json",
+      "sha256_csv": "8482ea84667df57122df497548fc2364ecea76b16356a404b54d8060569fe370"
+    },
+    {
+      "table": "scheduler_routingstepmachine",
+      "rows": 1200,
+      "csv": "scheduler_routingstepmachine.csv",
+      "json": "scheduler_routingstepmachine.json",
+      "sha256_csv": "8d8c5c48d5082d5ae9d4e47f99dc15c82385ab0fb654e65d4fcb1a4c4d4b3f4d"
+    },
+    {
+      "table": "scheduler_productmaterial",
+      "rows": 311,
+      "csv": "scheduler_productmaterial.csv",
+      "json": "scheduler_productmaterial.json",
+      "sha256_csv": "ba1f563e01abfabc5256cf59876752f5277ee3e0328d47b78a6b51d16753aacd"
+    },
+    {
+      "table": "scheduler_laborshift",
+      "rows": 5,
+      "csv": "scheduler_laborshift.csv",
+      "json": "scheduler_laborshift.json",
+      "sha256_csv": "06d43f72e46ade5b3d57ab696a75a90441ac3b6f4464c36fd86700230aa51823"
+    },
+    {
+      "table": "scheduler_changeovermatrix",
+      "rows": 1200,
+      "csv": "scheduler_changeovermatrix.csv",
+      "json": "scheduler_changeovermatrix.json",
+      "sha256_csv": "4f898881f3e6938f6eb2e144b0904ee8f61ab7c1f5a8d6d57c2480abd87e5702"
+    },
+    {
+      "table": "scheduler_productionorder",
+      "rows": 500,
+      "csv": "scheduler_productionorder.csv",
+      "json": "scheduler_productionorder.json",
+      "sha256_csv": "70e0da30130f14312160733c00780045e5ffe8f041d8ede38d61845f4dfaa0af"
+    },
+    {
+      "table": "scheduler_operation",
+      "rows": 2000,
+      "csv": "scheduler_operation.csv",
+      "json": "scheduler_operation.json",
+      "sha256_csv": "b3f47690b34bdda2dd24fd27cae4782b6c8bce95855531f30be2866502c46a3a"
+    },
+    {
+      "table": "scheduler_operationeligiblemachine",
+      "rows": 6000,
+      "csv": "scheduler_operationeligiblemachine.csv",
+      "json": "scheduler_operationeligiblemachine.json",
+      "sha256_csv": "1bad7a2d0d1b0cfbdf25e5ff02cce06622f796c7e72e323f4c1246dc7d3dec2d"
+    },
+    {
+      "table": "scheduler_schedulingrun",
+      "rows": 1,
+      "csv": "scheduler_schedulingrun.csv",
+      "json": "scheduler_schedulingrun.json",
+      "sha256_csv": "84943905a2c7c0d4986a64a87bac9864cd4b0cb61640df0f340066ff7eb43cef"
+    },
+    {
+      "table": "scheduler_operationschedule",
+      "rows": 2000,
+      "csv": "scheduler_operationschedule.csv",
+      "json": "scheduler_operationschedule.json",
+      "sha256_csv": "1ebac4244984db2bf8fa9de6e386f256ff7cff87c0de067c0ea790eda2af0f3d"
+    },
+    {
+      "table": "scheduler_materialreservation",
+      "rows": 1548,
+      "csv": "scheduler_materialreservation.csv",
+      "json": "scheduler_materialreservation.json",
+      "sha256_csv": "1eac888ede74afaf45ba999ff9bdbae926afe5a5f175216be333ba1663af8881"
+    },
+    {
+      "table": "scheduler_scheduleexception",
+      "rows": 3910,
+      "csv": "scheduler_scheduleexception.csv",
+      "json": "scheduler_scheduleexception.json",
+      "sha256_csv": "1a6c87b26e9f8a7fa02a436b090c110738ccdd6e6f0a1137f39e45477f3af812"
+    },
+    {
+      "table": "scheduler_auditevent",
+      "rows": 4002,
+      "csv": "scheduler_auditevent.csv",
+      "json": "scheduler_auditevent.json",
+      "sha256_csv": "3df7e80d62bc32d8235d3d1d46fa68993f445c6616ba915e1c7940538bbb2c59"
+    }
+  ],
+  "labels": {
+    "ground_truth_rows": 5,
+    "scenario_rows": 5,
+    "ground_truth_sha256": "705ee9fedc40de5d807c5dc4c7a17d42bede0d8362a4d6d3e6cb5e76360e3a9d"
+  },
+  "total_rows": 24789
+}

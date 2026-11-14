@@ -1,0 +1,1912 @@
+[
+  {
+    "id": 1,
+    "machine_id": "MACH-001",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 2,
+    "machine_id": "MACH-001",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 3,
+    "machine_id": "MACH-001",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 4,
+    "machine_id": "MACH-001",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 5,
+    "machine_id": "MACH-002",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 6,
+    "machine_id": "MACH-002",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 7,
+    "machine_id": "MACH-002",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 8,
+    "machine_id": "MACH-002",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 9,
+    "machine_id": "MACH-003",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 10,
+    "machine_id": "MACH-003",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 11,
+    "machine_id": "MACH-003",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 12,
+    "machine_id": "MACH-003",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 13,
+    "machine_id": "MACH-004",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 14,
+    "machine_id": "MACH-004",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 15,
+    "machine_id": "MACH-004",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 16,
+    "machine_id": "MACH-004",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 17,
+    "machine_id": "MACH-005",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 18,
+    "machine_id": "MACH-005",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 19,
+    "machine_id": "MACH-005",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 20,
+    "machine_id": "MACH-005",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 21,
+    "machine_id": "MACH-006",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 22,
+    "machine_id": "MACH-006",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 23,
+    "machine_id": "MACH-006",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 24,
+    "machine_id": "MACH-006",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 25,
+    "machine_id": "MACH-007",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 26,
+    "machine_id": "MACH-007",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 27,
+    "machine_id": "MACH-007",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 28,
+    "machine_id": "MACH-007",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 29,
+    "machine_id": "MACH-008",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 30,
+    "machine_id": "MACH-008",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 31,
+    "machine_id": "MACH-008",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 32,
+    "machine_id": "MACH-008",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 33,
+    "machine_id": "MACH-009",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 34,
+    "machine_id": "MACH-009",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 35,
+    "machine_id": "MACH-009",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 36,
+    "machine_id": "MACH-009",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 37,
+    "machine_id": "MACH-010",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 38,
+    "machine_id": "MACH-010",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 39,
+    "machine_id": "MACH-010",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 40,
+    "machine_id": "MACH-010",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 41,
+    "machine_id": "MACH-011",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 42,
+    "machine_id": "MACH-011",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 43,
+    "machine_id": "MACH-011",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 44,
+    "machine_id": "MACH-011",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 45,
+    "machine_id": "MACH-012",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 46,
+    "machine_id": "MACH-012",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 47,
+    "machine_id": "MACH-012",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 48,
+    "machine_id": "MACH-012",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 49,
+    "machine_id": "MACH-013",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 50,
+    "machine_id": "MACH-013",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 51,
+    "machine_id": "MACH-013",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 52,
+    "machine_id": "MACH-013",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 53,
+    "machine_id": "MACH-014",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 54,
+    "machine_id": "MACH-014",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 55,
+    "machine_id": "MACH-014",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 56,
+    "machine_id": "MACH-014",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 57,
+    "machine_id": "MACH-015",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 58,
+    "machine_id": "MACH-015",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 59,
+    "machine_id": "MACH-015",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 60,
+    "machine_id": "MACH-015",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 61,
+    "machine_id": "MACH-016",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 62,
+    "machine_id": "MACH-016",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 63,
+    "machine_id": "MACH-016",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 64,
+    "machine_id": "MACH-016",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 65,
+    "machine_id": "MACH-017",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 66,
+    "machine_id": "MACH-017",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 67,
+    "machine_id": "MACH-017",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 68,
+    "machine_id": "MACH-017",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 69,
+    "machine_id": "MACH-018",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 70,
+    "machine_id": "MACH-018",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 71,
+    "machine_id": "MACH-018",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 72,
+    "machine_id": "MACH-018",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 73,
+    "machine_id": "MACH-019",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 74,
+    "machine_id": "MACH-019",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 75,
+    "machine_id": "MACH-019",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 76,
+    "machine_id": "MACH-019",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 77,
+    "machine_id": "MACH-020",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 78,
+    "machine_id": "MACH-020",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 79,
+    "machine_id": "MACH-020",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 80,
+    "machine_id": "MACH-020",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 81,
+    "machine_id": "MACH-021",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 82,
+    "machine_id": "MACH-021",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 83,
+    "machine_id": "MACH-021",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 84,
+    "machine_id": "MACH-021",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 85,
+    "machine_id": "MACH-022",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 86,
+    "machine_id": "MACH-022",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 87,
+    "machine_id": "MACH-022",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 88,
+    "machine_id": "MACH-022",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 89,
+    "machine_id": "MACH-023",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 90,
+    "machine_id": "MACH-023",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 91,
+    "machine_id": "MACH-023",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 92,
+    "machine_id": "MACH-023",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 93,
+    "machine_id": "MACH-024",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 94,
+    "machine_id": "MACH-024",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 95,
+    "machine_id": "MACH-024",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 96,
+    "machine_id": "MACH-024",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 97,
+    "machine_id": "MACH-025",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 98,
+    "machine_id": "MACH-025",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 99,
+    "machine_id": "MACH-025",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 100,
+    "machine_id": "MACH-025",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 101,
+    "machine_id": "MACH-026",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 102,
+    "machine_id": "MACH-026",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 103,
+    "machine_id": "MACH-026",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 104,
+    "machine_id": "MACH-026",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 105,
+    "machine_id": "MACH-027",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 106,
+    "machine_id": "MACH-027",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 107,
+    "machine_id": "MACH-027",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 108,
+    "machine_id": "MACH-027",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 109,
+    "machine_id": "MACH-028",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 110,
+    "machine_id": "MACH-028",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 111,
+    "machine_id": "MACH-028",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 112,
+    "machine_id": "MACH-028",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 113,
+    "machine_id": "MACH-029",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 114,
+    "machine_id": "MACH-029",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 115,
+    "machine_id": "MACH-029",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 116,
+    "machine_id": "MACH-029",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 117,
+    "machine_id": "MACH-030",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 118,
+    "machine_id": "MACH-030",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 119,
+    "machine_id": "MACH-030",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 120,
+    "machine_id": "MACH-030",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 121,
+    "machine_id": "MACH-031",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 122,
+    "machine_id": "MACH-031",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 123,
+    "machine_id": "MACH-031",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 124,
+    "machine_id": "MACH-031",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 125,
+    "machine_id": "MACH-032",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 126,
+    "machine_id": "MACH-032",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 127,
+    "machine_id": "MACH-032",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 128,
+    "machine_id": "MACH-032",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 129,
+    "machine_id": "MACH-033",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 130,
+    "machine_id": "MACH-033",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 131,
+    "machine_id": "MACH-033",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 132,
+    "machine_id": "MACH-033",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 133,
+    "machine_id": "MACH-034",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 134,
+    "machine_id": "MACH-034",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 135,
+    "machine_id": "MACH-034",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 136,
+    "machine_id": "MACH-034",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 137,
+    "machine_id": "MACH-035",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 138,
+    "machine_id": "MACH-035",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 139,
+    "machine_id": "MACH-035",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 140,
+    "machine_id": "MACH-035",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 141,
+    "machine_id": "MACH-036",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 142,
+    "machine_id": "MACH-036",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 143,
+    "machine_id": "MACH-036",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 144,
+    "machine_id": "MACH-036",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 145,
+    "machine_id": "MACH-037",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 146,
+    "machine_id": "MACH-037",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 147,
+    "machine_id": "MACH-037",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 148,
+    "machine_id": "MACH-037",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 149,
+    "machine_id": "MACH-038",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 150,
+    "machine_id": "MACH-038",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 151,
+    "machine_id": "MACH-038",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 152,
+    "machine_id": "MACH-038",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 153,
+    "machine_id": "MACH-039",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 154,
+    "machine_id": "MACH-039",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 155,
+    "machine_id": "MACH-039",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 156,
+    "machine_id": "MACH-039",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 157,
+    "machine_id": "MACH-040",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 158,
+    "machine_id": "MACH-040",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 159,
+    "machine_id": "MACH-040",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 160,
+    "machine_id": "MACH-040",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 161,
+    "machine_id": "MACH-035",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 162,
+    "machine_id": "MACH-004",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 163,
+    "machine_id": "MACH-030",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 164,
+    "machine_id": "MACH-006",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 165,
+    "machine_id": "MACH-036",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 166,
+    "machine_id": "MACH-013",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 167,
+    "machine_id": "MACH-029",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 168,
+    "machine_id": "MACH-007",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 169,
+    "machine_id": "MACH-015",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 170,
+    "machine_id": "MACH-014",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 171,
+    "machine_id": "MACH-015",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 172,
+    "machine_id": "MACH-007",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 173,
+    "machine_id": "MACH-016",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 174,
+    "machine_id": "MACH-030",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 175,
+    "machine_id": "MACH-014",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 176,
+    "machine_id": "MACH-023",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 177,
+    "machine_id": "MACH-032",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 178,
+    "machine_id": "MACH-040",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 179,
+    "machine_id": "MACH-025",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 180,
+    "machine_id": "MACH-017",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 181,
+    "machine_id": "MACH-025",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 182,
+    "machine_id": "MACH-026",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 183,
+    "machine_id": "MACH-002",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 184,
+    "machine_id": "MACH-034",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 185,
+    "machine_id": "MACH-019",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 186,
+    "machine_id": "MACH-011",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 187,
+    "machine_id": "MACH-001",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 188,
+    "machine_id": "MACH-009",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 189,
+    "machine_id": "MACH-033",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 190,
+    "machine_id": "MACH-002",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 191,
+    "machine_id": "MACH-018",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 192,
+    "machine_id": "MACH-010",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 193,
+    "machine_id": "MACH-027",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 194,
+    "machine_id": "MACH-012",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 195,
+    "machine_id": "MACH-028",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 196,
+    "machine_id": "MACH-002",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 197,
+    "machine_id": "MACH-026",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 198,
+    "machine_id": "MACH-010",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 199,
+    "machine_id": "MACH-004",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 200,
+    "machine_id": "MACH-012",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 201,
+    "machine_id": "MACH-035",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 202,
+    "machine_id": "MACH-019",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 203,
+    "machine_id": "MACH-027",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 204,
+    "machine_id": "MACH-012",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 205,
+    "machine_id": "MACH-028",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 206,
+    "machine_id": "MACH-037",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 207,
+    "machine_id": "MACH-013",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 208,
+    "machine_id": "MACH-021",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 209,
+    "machine_id": "MACH-038",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 210,
+    "machine_id": "MACH-020",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 211,
+    "machine_id": "MACH-014",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 212,
+    "machine_id": "MACH-006",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 213,
+    "machine_id": "MACH-039",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 214,
+    "machine_id": "MACH-005",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 215,
+    "machine_id": "MACH-021",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 216,
+    "machine_id": "MACH-022",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 217,
+    "machine_id": "MACH-030",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 218,
+    "machine_id": "MACH-022",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 219,
+    "machine_id": "MACH-014",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 220,
+    "machine_id": "MACH-024",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 221,
+    "machine_id": "MACH-032",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 222,
+    "machine_id": "MACH-001",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 223,
+    "machine_id": "MACH-040",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 224,
+    "machine_id": "MACH-033",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 225,
+    "machine_id": "MACH-003",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 226,
+    "machine_id": "MACH-035",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 227,
+    "machine_id": "MACH-034",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 228,
+    "machine_id": "MACH-028",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 229,
+    "machine_id": "MACH-020",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 230,
+    "machine_id": "MACH-018",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 231,
+    "machine_id": "MACH-027",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 232,
+    "machine_id": "MACH-011",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 233,
+    "machine_id": "MACH-004",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 234,
+    "machine_id": "MACH-021",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 235,
+    "machine_id": "MACH-005",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 236,
+    "machine_id": "MACH-030",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 237,
+    "machine_id": "MACH-006",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 238,
+    "machine_id": "MACH-020",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 239,
+    "machine_id": "MACH-036",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 240,
+    "machine_id": "MACH-022",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 241,
+    "machine_id": "MACH-015",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 242,
+    "machine_id": "MACH-001",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 243,
+    "machine_id": "MACH-033",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 244,
+    "machine_id": "MACH-034",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 245,
+    "machine_id": "MACH-016",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 246,
+    "machine_id": "MACH-009",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 247,
+    "machine_id": "MACH-017",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 248,
+    "machine_id": "MACH-033",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 249,
+    "machine_id": "MACH-026",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 250,
+    "machine_id": "MACH-010",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 251,
+    "machine_id": "MACH-026",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 252,
+    "machine_id": "MACH-019",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 253,
+    "machine_id": "MACH-004",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 254,
+    "machine_id": "MACH-013",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 255,
+    "machine_id": "MACH-037",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 256,
+    "machine_id": "MACH-035",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 257,
+    "machine_id": "MACH-028",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 258,
+    "machine_id": "MACH-020",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 259,
+    "machine_id": "MACH-038",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 260,
+    "machine_id": "MACH-006",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 261,
+    "machine_id": "MACH-015",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 262,
+    "machine_id": "MACH-031",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 263,
+    "machine_id": "MACH-005",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 264,
+    "machine_id": "MACH-007",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 265,
+    "machine_id": "MACH-039",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 266,
+    "machine_id": "MACH-023",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 267,
+    "machine_id": "MACH-032",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 268,
+    "machine_id": "MACH-016",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 269,
+    "machine_id": "MACH-024",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 270,
+    "machine_id": "MACH-008",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 271,
+    "machine_id": "MACH-033",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 272,
+    "machine_id": "MACH-001",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 273,
+    "machine_id": "MACH-001",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 274,
+    "machine_id": "MACH-034",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 275,
+    "machine_id": "MACH-018",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 276,
+    "machine_id": "MACH-035",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 277,
+    "machine_id": "MACH-011",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 278,
+    "machine_id": "MACH-003",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 279,
+    "machine_id": "MACH-004",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 280,
+    "machine_id": "MACH-029",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 281,
+    "machine_id": "MACH-012",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 282,
+    "machine_id": "MACH-036",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 283,
+    "machine_id": "MACH-004",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 284,
+    "machine_id": "MACH-012",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 285,
+    "machine_id": "MACH-020",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 286,
+    "machine_id": "MACH-037",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 287,
+    "machine_id": "MACH-023",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 288,
+    "machine_id": "MACH-039",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 289,
+    "machine_id": "MACH-029",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 290,
+    "machine_id": "MACH-038",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 291,
+    "machine_id": "MACH-014",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 292,
+    "machine_id": "MACH-030",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 293,
+    "machine_id": "MACH-031",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 294,
+    "machine_id": "MACH-039",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 295,
+    "machine_id": "MACH-008",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 296,
+    "machine_id": "MACH-007",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 297,
+    "machine_id": "MACH-039",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 298,
+    "machine_id": "MACH-031",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 299,
+    "machine_id": "MACH-008",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 300,
+    "machine_id": "MACH-024",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 301,
+    "machine_id": "MACH-016",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 302,
+    "machine_id": "MACH-023",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 303,
+    "machine_id": "MACH-032",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 304,
+    "machine_id": "MACH-033",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 305,
+    "machine_id": "MACH-009",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 306,
+    "machine_id": "MACH-025",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 307,
+    "machine_id": "MACH-002",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 308,
+    "machine_id": "MACH-034",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 309,
+    "machine_id": "MACH-040",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 310,
+    "machine_id": "MACH-002",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 311,
+    "machine_id": "MACH-010",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 312,
+    "machine_id": "MACH-003",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 313,
+    "machine_id": "MACH-028",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 314,
+    "machine_id": "MACH-005",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 315,
+    "machine_id": "MACH-013",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 316,
+    "machine_id": "MACH-029",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 317,
+    "machine_id": "MACH-037",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 318,
+    "machine_id": "MACH-029",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 319,
+    "machine_id": "MACH-013",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 320,
+    "machine_id": "MACH-022",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 321,
+    "machine_id": "MACH-024",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 322,
+    "machine_id": "MACH-016",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 323,
+    "machine_id": "MACH-010",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 324,
+    "machine_id": "MACH-003",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 325,
+    "machine_id": "MACH-036",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 326,
+    "machine_id": "MACH-036",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 327,
+    "machine_id": "MACH-022",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 328,
+    "machine_id": "MACH-007",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 329,
+    "machine_id": "MACH-038",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 330,
+    "machine_id": "MACH-008",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 331,
+    "machine_id": "MACH-039",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 332,
+    "machine_id": "MACH-023",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 333,
+    "machine_id": "MACH-025",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 334,
+    "machine_id": "MACH-017",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 335,
+    "machine_id": "MACH-034",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 336,
+    "machine_id": "MACH-011",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 337,
+    "machine_id": "MACH-025",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 338,
+    "machine_id": "MACH-037",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 339,
+    "machine_id": "MACH-028",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 340,
+    "machine_id": "MACH-036",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 341,
+    "machine_id": "MACH-022",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 342,
+    "machine_id": "MACH-024",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 343,
+    "machine_id": "MACH-017",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 344,
+    "machine_id": "MACH-009",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 345,
+    "machine_id": "MACH-011",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 346,
+    "machine_id": "MACH-018",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 347,
+    "machine_id": "MACH-005",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 348,
+    "machine_id": "MACH-015",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 349,
+    "machine_id": "MACH-007",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 350,
+    "machine_id": "MACH-015",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 351,
+    "machine_id": "MACH-031",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 352,
+    "machine_id": "MACH-008",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 353,
+    "machine_id": "MACH-040",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 354,
+    "machine_id": "MACH-031",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 355,
+    "machine_id": "MACH-040",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 356,
+    "machine_id": "MACH-008",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 357,
+    "machine_id": "MACH-027",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 358,
+    "machine_id": "MACH-029",
+    "tooling_id": "TOOL-010"
+  },
+  {
+    "id": 359,
+    "machine_id": "MACH-024",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 360,
+    "machine_id": "MACH-016",
+    "tooling_id": "TOOL-008"
+  },
+  {
+    "id": 361,
+    "machine_id": "MACH-002",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 362,
+    "machine_id": "MACH-010",
+    "tooling_id": "TOOL-002"
+  },
+  {
+    "id": 363,
+    "machine_id": "MACH-003",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 364,
+    "machine_id": "MACH-027",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 365,
+    "machine_id": "MACH-003",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 366,
+    "machine_id": "MACH-019",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 367,
+    "machine_id": "MACH-005",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 368,
+    "machine_id": "MACH-006",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 369,
+    "machine_id": "MACH-038",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 370,
+    "machine_id": "MACH-031",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 371,
+    "machine_id": "MACH-040",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 372,
+    "machine_id": "MACH-032",
+    "tooling_id": "TOOL-007"
+  },
+  {
+    "id": 373,
+    "machine_id": "MACH-009",
+    "tooling_id": "TOOL-004"
+  },
+  {
+    "id": 374,
+    "machine_id": "MACH-018",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 375,
+    "machine_id": "MACH-023",
+    "tooling_id": "TOOL-003"
+  },
+  {
+    "id": 376,
+    "machine_id": "MACH-032",
+    "tooling_id": "TOOL-006"
+  },
+  {
+    "id": 377,
+    "machine_id": "MACH-001",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 378,
+    "machine_id": "MACH-009",
+    "tooling_id": "TOOL-001"
+  },
+  {
+    "id": 379,
+    "machine_id": "MACH-038",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 380,
+    "machine_id": "MACH-030",
+    "tooling_id": "TOOL-005"
+  },
+  {
+    "id": 381,
+    "machine_id": "MACH-026",
+    "tooling_id": "TOOL-009"
+  },
+  {
+    "id": 382,
+    "machine_id": "MACH-019",
+    "tooling_id": "TOOL-009"
+  }
+]

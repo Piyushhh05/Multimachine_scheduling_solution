@@ -1,0 +1,11 @@
+tooling_id,name,capacity,lifecycle_state
+TOOL-001,Shared fixture 01,1,ACTIVE
+TOOL-002,Shared fixture 02,1,ACTIVE
+TOOL-003,Shared fixture 03,1,ACTIVE
+TOOL-004,Shared fixture 04,1,ACTIVE
+TOOL-005,Shared fixture 05,1,ACTIVE
+TOOL-006,Shared fixture 06,1,ACTIVE
+TOOL-007,Shared fixture 07,1,ACTIVE
+TOOL-008,Shared fixture 08,1,ACTIVE
+TOOL-009,Shared fixture 09,1,ACTIVE
+TOOL-010,Shared fixture 10,1,ACTIVE

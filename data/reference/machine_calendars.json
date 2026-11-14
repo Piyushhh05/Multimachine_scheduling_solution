@@ -1,0 +1,1802 @@
+[
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-001",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-001",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-001",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-001",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-001",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-002",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-002",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-002",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-002",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-002",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-003",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-003",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-003",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-003",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-003",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-004",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-004",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-004",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-004",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-004",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-005",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-005",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-005",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-005",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-005",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-006",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-006",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-006",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-006",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-006",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-007",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-007",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-007",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-007",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-007",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-008",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-008",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-008",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-008",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-008",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-009",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-009",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-009",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-009",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-009",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-010",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-010",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-010",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-010",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-010",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-011",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-011",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-011",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-011",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-011",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-012",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-012",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-012",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-012",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-012",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-013",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-013",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-013",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-013",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-013",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-014",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-014",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-014",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-014",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-014",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-015",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-015",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-015",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-015",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-015",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-016",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-016",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-016",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-016",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-016",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-017",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-017",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-017",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-017",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-017",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-018",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-018",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-018",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-018",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-018",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-019",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-019",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-019",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-019",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-019",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-020",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-020",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-020",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-020",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-020",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-021",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-021",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-021",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-021",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-021",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-022",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-022",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-022",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-022",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-022",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-023",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-023",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-023",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-023",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-023",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-024",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-024",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-024",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-024",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-024",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-025",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-025",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-025",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-025",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-025",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-026",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-026",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-026",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-026",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-026",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-027",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-027",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-027",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-027",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-027",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-028",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-028",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-028",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-028",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-028",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-029",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-029",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-029",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-029",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-029",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-030",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-030",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-030",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-030",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-030",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-031",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-031",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-031",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-031",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-031",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-032",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-032",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-032",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-032",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-032",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-033",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-033",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-033",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-033",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-033",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-034",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-034",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-034",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-034",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-034",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-035",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-035",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-035",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-035",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-035",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-036",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-036",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-036",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-036",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-036",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-037",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-037",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-037",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-037",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-037",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-038",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-038",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-038",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-038",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-038",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-039",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-039",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-039",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-039",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-039",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-040",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 0
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-040",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 1
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-040",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 2
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-040",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 3
+  },
+  {
+    "capacity_minutes": 480,
+    "effective_from": "2026-01-01",
+    "effective_to": "2027-12-31",
+    "machine_id": "MACH-040",
+    "shift_end": "16:00:00",
+    "shift_start": "08:00:00",
+    "weekday": 4
+  }
+]

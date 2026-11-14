@@ -1,0 +1,402 @@
+[
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.5,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 1",
+    "machine_id": "MACH-001",
+    "machine_type": "CELL-A",
+    "name": "Production Cell 01"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.2,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 1",
+    "machine_id": "MACH-002",
+    "machine_type": "CELL-B",
+    "name": "Production Cell 02"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.2,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 1",
+    "machine_id": "MACH-003",
+    "machine_type": "CELL-C",
+    "name": "Production Cell 03"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.2,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 1",
+    "machine_id": "MACH-004",
+    "machine_type": "CELL-D",
+    "name": "Production Cell 04"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 0.8,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 1",
+    "machine_id": "MACH-005",
+    "machine_type": "CELL-E",
+    "name": "Production Cell 05"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.0,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 1",
+    "machine_id": "MACH-006",
+    "machine_type": "CELL-F",
+    "name": "Production Cell 06"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.0,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 1",
+    "machine_id": "MACH-007",
+    "machine_type": "CELL-G",
+    "name": "Production Cell 07"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 0.8,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 1",
+    "machine_id": "MACH-008",
+    "machine_type": "CELL-H",
+    "name": "Production Cell 08"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.5,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 1",
+    "machine_id": "MACH-009",
+    "machine_type": "CELL-A",
+    "name": "Production Cell 09"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.0,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 1",
+    "machine_id": "MACH-010",
+    "machine_type": "CELL-B",
+    "name": "Production Cell 10"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.2,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 1",
+    "machine_id": "MACH-011",
+    "machine_type": "CELL-C",
+    "name": "Production Cell 11"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.2,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 1",
+    "machine_id": "MACH-012",
+    "machine_type": "CELL-D",
+    "name": "Production Cell 12"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.2,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 1",
+    "machine_id": "MACH-013",
+    "machine_type": "CELL-E",
+    "name": "Production Cell 13"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 0.8,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 1",
+    "machine_id": "MACH-014",
+    "machine_type": "CELL-F",
+    "name": "Production Cell 14"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.0,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 1",
+    "machine_id": "MACH-015",
+    "machine_type": "CELL-G",
+    "name": "Production Cell 15"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.2,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 1",
+    "machine_id": "MACH-016",
+    "machine_type": "CELL-H",
+    "name": "Production Cell 16"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.0,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 1",
+    "machine_id": "MACH-017",
+    "machine_type": "CELL-A",
+    "name": "Production Cell 17"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 0.8,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 1",
+    "machine_id": "MACH-018",
+    "machine_type": "CELL-B",
+    "name": "Production Cell 18"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.5,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 1",
+    "machine_id": "MACH-019",
+    "machine_type": "CELL-C",
+    "name": "Production Cell 19"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.2,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 1",
+    "machine_id": "MACH-020",
+    "machine_type": "CELL-D",
+    "name": "Production Cell 20"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.2,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 2",
+    "machine_id": "MACH-021",
+    "machine_type": "CELL-E",
+    "name": "Production Cell 21"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.0,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 2",
+    "machine_id": "MACH-022",
+    "machine_type": "CELL-F",
+    "name": "Production Cell 22"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.2,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 2",
+    "machine_id": "MACH-023",
+    "machine_type": "CELL-G",
+    "name": "Production Cell 23"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.2,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 2",
+    "machine_id": "MACH-024",
+    "machine_type": "CELL-H",
+    "name": "Production Cell 24"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 0.8,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 2",
+    "machine_id": "MACH-025",
+    "machine_type": "CELL-A",
+    "name": "Production Cell 25"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.2,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 2",
+    "machine_id": "MACH-026",
+    "machine_type": "CELL-B",
+    "name": "Production Cell 26"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.5,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 2",
+    "machine_id": "MACH-027",
+    "machine_type": "CELL-C",
+    "name": "Production Cell 27"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 0.8,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 2",
+    "machine_id": "MACH-028",
+    "machine_type": "CELL-D",
+    "name": "Production Cell 28"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.0,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 2",
+    "machine_id": "MACH-029",
+    "machine_type": "CELL-E",
+    "name": "Production Cell 29"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.5,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 2",
+    "machine_id": "MACH-030",
+    "machine_type": "CELL-F",
+    "name": "Production Cell 30"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.2,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 2",
+    "machine_id": "MACH-031",
+    "machine_type": "CELL-G",
+    "name": "Production Cell 31"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 0.8,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 2",
+    "machine_id": "MACH-032",
+    "machine_type": "CELL-H",
+    "name": "Production Cell 32"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.2,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 2",
+    "machine_id": "MACH-033",
+    "machine_type": "CELL-A",
+    "name": "Production Cell 33"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.5,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 2",
+    "machine_id": "MACH-034",
+    "machine_type": "CELL-B",
+    "name": "Production Cell 34"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.0,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 2",
+    "machine_id": "MACH-035",
+    "machine_type": "CELL-C",
+    "name": "Production Cell 35"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.0,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 2",
+    "machine_id": "MACH-036",
+    "machine_type": "CELL-D",
+    "name": "Production Cell 36"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.5,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 2",
+    "machine_id": "MACH-037",
+    "machine_type": "CELL-E",
+    "name": "Production Cell 37"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.0,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 2",
+    "machine_id": "MACH-038",
+    "machine_type": "CELL-F",
+    "name": "Production Cell 38"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.0,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 2",
+    "machine_id": "MACH-039",
+    "machine_type": "CELL-G",
+    "name": "Production Cell 39"
+  },
+  {
+    "available_from": "2026-01-01",
+    "available_to": "",
+    "capacity_units_per_hour": 1.0,
+    "lifecycle_state": "ACTIVE",
+    "location": "Plant 2",
+    "machine_id": "MACH-040",
+    "machine_type": "CELL-H",
+    "name": "Production Cell 40"
+  }
+]

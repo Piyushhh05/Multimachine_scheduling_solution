@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0001-01"
+  },
+  {
+    "id": 2,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0001-01"
+  },
+  {
+    "id": 3,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0001-01"
+  },
+  {
+    "id": 4,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0001-02"
+  },
+  {
+    "id": 5,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0001-02"
+  },
+  {
+    "id": 6,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0001-02"
+  },
+  {
+    "id": 7,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0001-03"
+  },
+  {
+    "id": 8,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0001-03"
+  },
+  {
+    "id": 9,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0001-03"
+  },
+  {
+    "id": 10,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0001-04"
+  },
+  {
+    "id": 11,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0001-04"
+  },
+  {
+    "id": 12,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0001-04"
+  },
+  {
+    "id": 13,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0002-01"
+  },
+  {
+    "id": 14,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0002-01"
+  },
+  {
+    "id": 15,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0002-01"
+  },
+  {
+    "id": 16,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0002-02"
+  },
+  {
+    "id": 17,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0002-02"
+  },
+  {
+    "id": 18,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0002-02"
+  },
+  {
+    "id": 19,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0002-03"
+  },
+  {
+    "id": 20,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0002-03"
+  },
+  {
+    "id": 21,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0002-03"
+  },
+  {
+    "id": 22,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0002-04"
+  },
+  {
+    "id": 23,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0002-04"
+  },
+  {
+    "id": 24,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0002-04"
+  },
+  {
+    "id": 25,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0003-01"
+  },
+  {
+    "id": 26,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0003-01"
+  },
+  {
+    "id": 27,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0003-01"
+  },
+  {
+    "id": 28,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0003-02"
+  },
+  {
+    "id": 29,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0003-02"
+  },
+  {
+    "id": 30,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0003-02"
+  },
+  {
+    "id": 31,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0003-03"
+  },
+  {
+    "id": 32,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0003-03"
+  },
+  {
+    "id": 33,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0003-03"
+  },
+  {
+    "id": 34,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0003-04"
+  },
+  {
+    "id": 35,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0003-04"
+  },
+  {
+    "id": 36,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0003-04"
+  },
+  {
+    "id": 37,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0004-01"
+  },
+  {
+    "id": 38,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0004-01"
+  },
+  {
+    "id": 39,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0004-01"
+  },
+  {
+    "id": 40,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0004-02"
+  },
+  {
+    "id": 41,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0004-02"
+  },
+  {
+    "id": 42,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0004-02"
+  },
+  {
+    "id": 43,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0004-03"
+  },
+  {
+    "id": 44,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0004-03"
+  },
+  {
+    "id": 45,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0004-03"
+  },
+  {
+    "id": 46,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0004-04"
+  },
+  {
+    "id": 47,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0004-04"
+  },
+  {
+    "id": 48,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0004-04"
+  },
+  {
+    "id": 49,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0005-01"
+  },
+  {
+    "id": 50,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0005-01"
+  },
+  {
+    "id": 51,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0005-01"
+  },
+  {
+    "id": 52,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0005-02"
+  },
+  {
+    "id": 53,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0005-02"
+  },
+  {
+    "id": 54,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0005-02"
+  },
+  {
+    "id": 55,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0005-03"
+  },
+  {
+    "id": 56,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0005-03"
+  },
+  {
+    "id": 57,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0005-03"
+  },
+  {
+    "id": 58,
+    "machine_id": "MACH-026",
+    "routing_step_id": "RSTEP-SKU-0005-04"
+  },
+  {
+    "id": 59,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0005-04"
+  },
+  {
+    "id": 60,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0005-04"
+  },
+  {
+    "id": 61,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0006-01"
+  },
+  {
+    "id": 62,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0006-01"
+  },
+  {
+    "id": 63,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0006-01"
+  },
+  {
+    "id": 64,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0006-02"
+  },
+  {
+    "id": 65,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0006-02"
+  },
+  {
+    "id": 66,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0006-02"
+  },
+  {
+    "id": 67,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0006-03"
+  },
+  {
+    "id": 68,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0006-03"
+  },
+  {
+    "id": 69,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0006-03"
+  },
+  {
+    "id": 70,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0006-04"
+  },
+  {
+    "id": 71,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0006-04"
+  },
+  {
+    "id": 72,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0006-04"
+  },
+  {
+    "id": 73,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0007-01"
+  },
+  {
+    "id": 74,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0007-01"
+  },
+  {
+    "id": 75,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0007-01"
+  },
+  {
+    "id": 76,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0007-02"
+  },
+  {
+    "id": 77,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0007-02"
+  },
+  {
+    "id": 78,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0007-02"
+  },
+  {
+    "id": 79,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0007-03"
+  },
+  {
+    "id": 80,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0007-03"
+  },
+  {
+    "id": 81,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0007-03"
+  },
+  {
+    "id": 82,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0007-04"
+  },
+  {
+    "id": 83,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0007-04"
+  },
+  {
+    "id": 84,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0007-04"
+  },
+  {
+    "id": 85,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0008-01"
+  },
+  {
+    "id": 86,
+    "machine_id": "MACH-026",
+    "routing_step_id": "RSTEP-SKU-0008-01"
+  },
+  {
+    "id": 87,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0008-01"
+  },
+  {
+    "id": 88,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0008-02"
+  },
+  {
+    "id": 89,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0008-02"
+  },
+  {
+    "id": 90,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0008-02"
+  },
+  {
+    "id": 91,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0008-03"
+  },
+  {
+    "id": 92,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0008-03"
+  },
+  {
+    "id": 93,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0008-03"
+  },
+  {
+    "id": 94,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0008-04"
+  },
+  {
+    "id": 95,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0008-04"
+  },
+  {
+    "id": 96,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0008-04"
+  },
+  {
+    "id": 97,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0009-01"
+  },
+  {
+    "id": 98,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0009-01"
+  },
+  {
+    "id": 99,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0009-01"
+  },
+  {
+    "id": 100,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0009-02"
+  },
+  {
+    "id": 101,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0009-02"
+  },
+  {
+    "id": 102,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0009-02"
+  },
+  {
+    "id": 103,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0009-03"
+  },
+  {
+    "id": 104,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0009-03"
+  },
+  {
+    "id": 105,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0009-03"
+  },
+  {
+    "id": 106,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0009-04"
+  },
+  {
+    "id": 107,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0009-04"
+  },
+  {
+    "id": 108,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0009-04"
+  },
+  {
+    "id": 109,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0010-01"
+  },
+  {
+    "id": 110,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0010-01"
+  },
+  {
+    "id": 111,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0010-01"
+  },
+  {
+    "id": 112,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0010-02"
+  },
+  {
+    "id": 113,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0010-02"
+  },
+  {
+    "id": 114,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0010-02"
+  },
+  {
+    "id": 115,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0010-03"
+  },
+  {
+    "id": 116,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0010-03"
+  },
+  {
+    "id": 117,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0010-03"
+  },
+  {
+    "id": 118,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0010-04"
+  },
+  {
+    "id": 119,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0010-04"
+  },
+  {
+    "id": 120,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0010-04"
+  },
+  {
+    "id": 121,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0011-01"
+  },
+  {
+    "id": 122,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0011-01"
+  },
+  {
+    "id": 123,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0011-01"
+  },
+  {
+    "id": 124,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0011-02"
+  },
+  {
+    "id": 125,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0011-02"
+  },
+  {
+    "id": 126,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0011-02"
+  },
+  {
+    "id": 127,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0011-03"
+  },
+  {
+    "id": 128,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0011-03"
+  },
+  {
+    "id": 129,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0011-03"
+  },
+  {
+    "id": 130,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0011-04"
+  },
+  {
+    "id": 131,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0011-04"
+  },
+  {
+    "id": 132,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0011-04"
+  },
+  {
+    "id": 133,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0012-01"
+  },
+  {
+    "id": 134,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0012-01"
+  },
+  {
+    "id": 135,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0012-01"
+  },
+  {
+    "id": 136,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0012-02"
+  },
+  {
+    "id": 137,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0012-02"
+  },
+  {
+    "id": 138,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0012-02"
+  },
+  {
+    "id": 139,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0012-03"
+  },
+  {
+    "id": 140,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0012-03"
+  },
+  {
+    "id": 141,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0012-03"
+  },
+  {
+    "id": 142,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0012-04"
+  },
+  {
+    "id": 143,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0012-04"
+  },
+  {
+    "id": 144,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0012-04"
+  },
+  {
+    "id": 145,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0013-01"
+  },
+  {
+    "id": 146,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0013-01"
+  },
+  {
+    "id": 147,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0013-01"
+  },
+  {
+    "id": 148,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0013-02"
+  },
+  {
+    "id": 149,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0013-02"
+  },
+  {
+    "id": 150,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0013-02"
+  },
+  {
+    "id": 151,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0013-03"
+  },
+  {
+    "id": 152,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0013-03"
+  },
+  {
+    "id": 153,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0013-03"
+  },
+  {
+    "id": 154,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0013-04"
+  },
+  {
+    "id": 155,
+    "machine_id": "MACH-026",
+    "routing_step_id": "RSTEP-SKU-0013-04"
+  },
+  {
+    "id": 156,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0013-04"
+  },
+  {
+    "id": 157,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0014-01"
+  },
+  {
+    "id": 158,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0014-01"
+  },
+  {
+    "id": 159,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0014-01"
+  },
+  {
+    "id": 160,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0014-02"
+  },
+  {
+    "id": 161,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0014-02"
+  },
+  {
+    "id": 162,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0014-02"
+  },
+  {
+    "id": 163,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0014-03"
+  },
+  {
+    "id": 164,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0014-03"
+  },
+  {
+    "id": 165,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0014-03"
+  },
+  {
+    "id": 166,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0014-04"
+  },
+  {
+    "id": 167,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0014-04"
+  },
+  {
+    "id": 168,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0014-04"
+  },
+  {
+    "id": 169,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0015-01"
+  },
+  {
+    "id": 170,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0015-01"
+  },
+  {
+    "id": 171,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0015-01"
+  },
+  {
+    "id": 172,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0015-02"
+  },
+  {
+    "id": 173,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0015-02"
+  },
+  {
+    "id": 174,
+    "machine_id": "MACH-026",
+    "routing_step_id": "RSTEP-SKU-0015-02"
+  },
+  {
+    "id": 175,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0015-03"
+  },
+  {
+    "id": 176,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0015-03"
+  },
+  {
+    "id": 177,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0015-03"
+  },
+  {
+    "id": 178,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0015-04"
+  },
+  {
+    "id": 179,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0015-04"
+  },
+  {
+    "id": 180,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0015-04"
+  },
+  {
+    "id": 181,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0016-01"
+  },
+  {
+    "id": 182,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0016-01"
+  },
+  {
+    "id": 183,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0016-01"
+  },
+  {
+    "id": 184,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0016-02"
+  },
+  {
+    "id": 185,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0016-02"
+  },
+  {
+    "id": 186,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0016-02"
+  },
+  {
+    "id": 187,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0016-03"
+  },
+  {
+    "id": 188,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0016-03"
+  },
+  {
+    "id": 189,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0016-03"
+  },
+  {
+    "id": 190,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0016-04"
+  },
+  {
+    "id": 191,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0016-04"
+  },
+  {
+    "id": 192,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0016-04"
+  },
+  {
+    "id": 193,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0017-01"
+  },
+  {
+    "id": 194,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0017-01"
+  },
+  {
+    "id": 195,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0017-01"
+  },
+  {
+    "id": 196,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0017-02"
+  },
+  {
+    "id": 197,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0017-02"
+  },
+  {
+    "id": 198,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0017-02"
+  },
+  {
+    "id": 199,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0017-03"
+  },
+  {
+    "id": 200,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0017-03"
+  },
+  {
+    "id": 201,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0017-03"
+  },
+  {
+    "id": 202,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0017-04"
+  },
+  {
+    "id": 203,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0017-04"
+  },
+  {
+    "id": 204,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0017-04"
+  },
+  {
+    "id": 205,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0018-01"
+  },
+  {
+    "id": 206,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0018-01"
+  },
+  {
+    "id": 207,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0018-01"
+  },
+  {
+    "id": 208,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0018-02"
+  },
+  {
+    "id": 209,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0018-02"
+  },
+  {
+    "id": 210,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0018-02"
+  },
+  {
+    "id": 211,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0018-03"
+  },
+  {
+    "id": 212,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0018-03"
+  },
+  {
+    "id": 213,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0018-03"
+  },
+  {
+    "id": 214,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0018-04"
+  },
+  {
+    "id": 215,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0018-04"
+  },
+  {
+    "id": 216,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0018-04"
+  },
+  {
+    "id": 217,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0019-01"
+  },
+  {
+    "id": 218,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0019-01"
+  },
+  {
+    "id": 219,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0019-01"
+  },
+  {
+    "id": 220,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0019-02"
+  },
+  {
+    "id": 221,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0019-02"
+  },
+  {
+    "id": 222,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0019-02"
+  },
+  {
+    "id": 223,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0019-03"
+  },
+  {
+    "id": 224,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0019-03"
+  },
+  {
+    "id": 225,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0019-03"
+  },
+  {
+    "id": 226,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0019-04"
+  },
+  {
+    "id": 227,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0019-04"
+  },
+  {
+    "id": 228,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0019-04"
+  },
+  {
+    "id": 229,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0020-01"
+  },
+  {
+    "id": 230,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0020-01"
+  },
+  {
+    "id": 231,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0020-01"
+  },
+  {
+    "id": 232,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0020-02"
+  },
+  {
+    "id": 233,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0020-02"
+  },
+  {
+    "id": 234,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0020-02"
+  },
+  {
+    "id": 235,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0020-03"
+  },
+  {
+    "id": 236,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0020-03"
+  },
+  {
+    "id": 237,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0020-03"
+  },
+  {
+    "id": 238,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0020-04"
+  },
+  {
+    "id": 239,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0020-04"
+  },
+  {
+    "id": 240,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0020-04"
+  },
+  {
+    "id": 241,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0021-01"
+  },
+  {
+    "id": 242,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0021-01"
+  },
+  {
+    "id": 243,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0021-01"
+  },
+  {
+    "id": 244,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0021-02"
+  },
+  {
+    "id": 245,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0021-02"
+  },
+  {
+    "id": 246,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0021-02"
+  },
+  {
+    "id": 247,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0021-03"
+  },
+  {
+    "id": 248,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0021-03"
+  },
+  {
+    "id": 249,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0021-03"
+  },
+  {
+    "id": 250,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0021-04"
+  },
+  {
+    "id": 251,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0021-04"
+  },
+  {
+    "id": 252,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0021-04"
+  },
+  {
+    "id": 253,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0022-01"
+  },
+  {
+    "id": 254,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0022-01"
+  },
+  {
+    "id": 255,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0022-01"
+  },
+  {
+    "id": 256,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0022-02"
+  },
+  {
+    "id": 257,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0022-02"
+  },
+  {
+    "id": 258,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0022-02"
+  },
+  {
+    "id": 259,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0022-03"
+  },
+  {
+    "id": 260,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0022-03"
+  },
+  {
+    "id": 261,
+    "machine_id": "MACH-026",
+    "routing_step_id": "RSTEP-SKU-0022-03"
+  },
+  {
+    "id": 262,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0022-04"
+  },
+  {
+    "id": 263,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0022-04"
+  },
+  {
+    "id": 264,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0022-04"
+  },
+  {
+    "id": 265,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0023-01"
+  },
+  {
+    "id": 266,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0023-01"
+  },
+  {
+    "id": 267,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0023-01"
+  },
+  {
+    "id": 268,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0023-02"
+  },
+  {
+    "id": 269,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0023-02"
+  },
+  {
+    "id": 270,
+    "machine_id": "MACH-026",
+    "routing_step_id": "RSTEP-SKU-0023-02"
+  },
+  {
+    "id": 271,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0023-03"
+  },
+  {
+    "id": 272,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0023-03"
+  },
+  {
+    "id": 273,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0023-03"
+  },
+  {
+    "id": 274,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0023-04"
+  },
+  {
+    "id": 275,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0023-04"
+  },
+  {
+    "id": 276,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0023-04"
+  },
+  {
+    "id": 277,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0024-01"
+  },
+  {
+    "id": 278,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0024-01"
+  },
+  {
+    "id": 279,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0024-01"
+  },
+  {
+    "id": 280,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0024-02"
+  },
+  {
+    "id": 281,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0024-02"
+  },
+  {
+    "id": 282,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0024-02"
+  },
+  {
+    "id": 283,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0024-03"
+  },
+  {
+    "id": 284,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0024-03"
+  },
+  {
+    "id": 285,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0024-03"
+  },
+  {
+    "id": 286,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0024-04"
+  },
+  {
+    "id": 287,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0024-04"
+  },
+  {
+    "id": 288,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0024-04"
+  },
+  {
+    "id": 289,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0025-01"
+  },
+  {
+    "id": 290,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0025-01"
+  },
+  {
+    "id": 291,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0025-01"
+  },
+  {
+    "id": 292,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0025-02"
+  },
+  {
+    "id": 293,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0025-02"
+  },
+  {
+    "id": 294,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0025-02"
+  },
+  {
+    "id": 295,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0025-03"
+  },
+  {
+    "id": 296,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0025-03"
+  },
+  {
+    "id": 297,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0025-03"
+  },
+  {
+    "id": 298,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0025-04"
+  },
+  {
+    "id": 299,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0025-04"
+  },
+  {
+    "id": 300,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0025-04"
+  },
+  {
+    "id": 301,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0026-01"
+  },
+  {
+    "id": 302,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0026-01"
+  },
+  {
+    "id": 303,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0026-01"
+  },
+  {
+    "id": 304,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0026-02"
+  },
+  {
+    "id": 305,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0026-02"
+  },
+  {
+    "id": 306,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0026-02"
+  },
+  {
+    "id": 307,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0026-03"
+  },
+  {
+    "id": 308,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0026-03"
+  },
+  {
+    "id": 309,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0026-03"
+  },
+  {
+    "id": 310,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0026-04"
+  },
+  {
+    "id": 311,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0026-04"
+  },
+  {
+    "id": 312,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0026-04"
+  },
+  {
+    "id": 313,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0027-01"
+  },
+  {
+    "id": 314,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0027-01"
+  },
+  {
+    "id": 315,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0027-01"
+  },
+  {
+    "id": 316,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0027-02"
+  },
+  {
+    "id": 317,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0027-02"
+  },
+  {
+    "id": 318,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0027-02"
+  },
+  {
+    "id": 319,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0027-03"
+  },
+  {
+    "id": 320,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0027-03"
+  },
+  {
+    "id": 321,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0027-03"
+  },
+  {
+    "id": 322,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0027-04"
+  },
+  {
+    "id": 323,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0027-04"
+  },
+  {
+    "id": 324,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0027-04"
+  },
+  {
+    "id": 325,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0028-01"
+  },
+  {
+    "id": 326,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0028-01"
+  },
+  {
+    "id": 327,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0028-01"
+  },
+  {
+    "id": 328,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0028-02"
+  },
+  {
+    "id": 329,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0028-02"
+  },
+  {
+    "id": 330,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0028-02"
+  },
+  {
+    "id": 331,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0028-03"
+  },
+  {
+    "id": 332,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0028-03"
+  },
+  {
+    "id": 333,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0028-03"
+  },
+  {
+    "id": 334,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0028-04"
+  },
+  {
+    "id": 335,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0028-04"
+  },
+  {
+    "id": 336,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0028-04"
+  },
+  {
+    "id": 337,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0029-01"
+  },
+  {
+    "id": 338,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0029-01"
+  },
+  {
+    "id": 339,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0029-01"
+  },
+  {
+    "id": 340,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0029-02"
+  },
+  {
+    "id": 341,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0029-02"
+  },
+  {
+    "id": 342,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0029-02"
+  },
+  {
+    "id": 343,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0029-03"
+  },
+  {
+    "id": 344,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0029-03"
+  },
+  {
+    "id": 345,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0029-03"
+  },
+  {
+    "id": 346,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0029-04"
+  },
+  {
+    "id": 347,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0029-04"
+  },
+  {
+    "id": 348,
+    "machine_id": "MACH-026",
+    "routing_step_id": "RSTEP-SKU-0029-04"
+  },
+  {
+    "id": 349,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0030-01"
+  },
+  {
+    "id": 350,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0030-01"
+  },
+  {
+    "id": 351,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0030-01"
+  },
+  {
+    "id": 352,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0030-02"
+  },
+  {
+    "id": 353,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0030-02"
+  },
+  {
+    "id": 354,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0030-02"
+  },
+  {
+    "id": 355,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0030-03"
+  },
+  {
+    "id": 356,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0030-03"
+  },
+  {
+    "id": 357,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0030-03"
+  },
+  {
+    "id": 358,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0030-04"
+  },
+  {
+    "id": 359,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0030-04"
+  },
+  {
+    "id": 360,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0030-04"
+  },
+  {
+    "id": 361,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0031-01"
+  },
+  {
+    "id": 362,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0031-01"
+  },
+  {
+    "id": 363,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0031-01"
+  },
+  {
+    "id": 364,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0031-02"
+  },
+  {
+    "id": 365,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0031-02"
+  },
+  {
+    "id": 366,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0031-02"
+  },
+  {
+    "id": 367,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0031-03"
+  },
+  {
+    "id": 368,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0031-03"
+  },
+  {
+    "id": 369,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0031-03"
+  },
+  {
+    "id": 370,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0031-04"
+  },
+  {
+    "id": 371,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0031-04"
+  },
+  {
+    "id": 372,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0031-04"
+  },
+  {
+    "id": 373,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0032-01"
+  },
+  {
+    "id": 374,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0032-01"
+  },
+  {
+    "id": 375,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0032-01"
+  },
+  {
+    "id": 376,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0032-02"
+  },
+  {
+    "id": 377,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0032-02"
+  },
+  {
+    "id": 378,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0032-02"
+  },
+  {
+    "id": 379,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0032-03"
+  },
+  {
+    "id": 380,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0032-03"
+  },
+  {
+    "id": 381,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0032-03"
+  },
+  {
+    "id": 382,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0032-04"
+  },
+  {
+    "id": 383,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0032-04"
+  },
+  {
+    "id": 384,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0032-04"
+  },
+  {
+    "id": 385,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0033-01"
+  },
+  {
+    "id": 386,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0033-01"
+  },
+  {
+    "id": 387,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0033-01"
+  },
+  {
+    "id": 388,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0033-02"
+  },
+  {
+    "id": 389,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0033-02"
+  },
+  {
+    "id": 390,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0033-02"
+  },
+  {
+    "id": 391,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0033-03"
+  },
+  {
+    "id": 392,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0033-03"
+  },
+  {
+    "id": 393,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0033-03"
+  },
+  {
+    "id": 394,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0033-04"
+  },
+  {
+    "id": 395,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0033-04"
+  },
+  {
+    "id": 396,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0033-04"
+  },
+  {
+    "id": 397,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0034-01"
+  },
+  {
+    "id": 398,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0034-01"
+  },
+  {
+    "id": 399,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0034-01"
+  },
+  {
+    "id": 400,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0034-02"
+  },
+  {
+    "id": 401,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0034-02"
+  },
+  {
+    "id": 402,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0034-02"
+  },
+  {
+    "id": 403,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0034-03"
+  },
+  {
+    "id": 404,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0034-03"
+  },
+  {
+    "id": 405,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0034-03"
+  },
+  {
+    "id": 406,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0034-04"
+  },
+  {
+    "id": 407,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0034-04"
+  },
+  {
+    "id": 408,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0034-04"
+  },
+  {
+    "id": 409,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0035-01"
+  },
+  {
+    "id": 410,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0035-01"
+  },
+  {
+    "id": 411,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0035-01"
+  },
+  {
+    "id": 412,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0035-02"
+  },
+  {
+    "id": 413,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0035-02"
+  },
+  {
+    "id": 414,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0035-02"
+  },
+  {
+    "id": 415,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0035-03"
+  },
+  {
+    "id": 416,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0035-03"
+  },
+  {
+    "id": 417,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0035-03"
+  },
+  {
+    "id": 418,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0035-04"
+  },
+  {
+    "id": 419,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0035-04"
+  },
+  {
+    "id": 420,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0035-04"
+  },
+  {
+    "id": 421,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0036-01"
+  },
+  {
+    "id": 422,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0036-01"
+  },
+  {
+    "id": 423,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0036-01"
+  },
+  {
+    "id": 424,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0036-02"
+  },
+  {
+    "id": 425,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0036-02"
+  },
+  {
+    "id": 426,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0036-02"
+  },
+  {
+    "id": 427,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0036-03"
+  },
+  {
+    "id": 428,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0036-03"
+  },
+  {
+    "id": 429,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0036-03"
+  },
+  {
+    "id": 430,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0036-04"
+  },
+  {
+    "id": 431,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0036-04"
+  },
+  {
+    "id": 432,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0036-04"
+  },
+  {
+    "id": 433,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0037-01"
+  },
+  {
+    "id": 434,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0037-01"
+  },
+  {
+    "id": 435,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0037-01"
+  },
+  {
+    "id": 436,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0037-02"
+  },
+  {
+    "id": 437,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0037-02"
+  },
+  {
+    "id": 438,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0037-02"
+  },
+  {
+    "id": 439,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0037-03"
+  },
+  {
+    "id": 440,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0037-03"
+  },
+  {
+    "id": 441,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0037-03"
+  },
+  {
+    "id": 442,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0037-04"
+  },
+  {
+    "id": 443,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0037-04"
+  },
+  {
+    "id": 444,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0037-04"
+  },
+  {
+    "id": 445,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0038-01"
+  },
+  {
+    "id": 446,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0038-01"
+  },
+  {
+    "id": 447,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0038-01"
+  },
+  {
+    "id": 448,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0038-02"
+  },
+  {
+    "id": 449,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0038-02"
+  },
+  {
+    "id": 450,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0038-02"
+  },
+  {
+    "id": 451,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0038-03"
+  },
+  {
+    "id": 452,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0038-03"
+  },
+  {
+    "id": 453,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0038-03"
+  },
+  {
+    "id": 454,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0038-04"
+  },
+  {
+    "id": 455,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0038-04"
+  },
+  {
+    "id": 456,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0038-04"
+  },
+  {
+    "id": 457,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0039-01"
+  },
+  {
+    "id": 458,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0039-01"
+  },
+  {
+    "id": 459,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0039-01"
+  },
+  {
+    "id": 460,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0039-02"
+  },
+  {
+    "id": 461,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0039-02"
+  },
+  {
+    "id": 462,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0039-02"
+  },
+  {
+    "id": 463,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0039-03"
+  },
+  {
+    "id": 464,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0039-03"
+  },
+  {
+    "id": 465,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0039-03"
+  },
+  {
+    "id": 466,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0039-04"
+  },
+  {
+    "id": 467,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0039-04"
+  },
+  {
+    "id": 468,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0039-04"
+  },
+  {
+    "id": 469,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0040-01"
+  },
+  {
+    "id": 470,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0040-01"
+  },
+  {
+    "id": 471,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0040-01"
+  },
+  {
+    "id": 472,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0040-02"
+  },
+  {
+    "id": 473,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0040-02"
+  },
+  {
+    "id": 474,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0040-02"
+  },
+  {
+    "id": 475,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0040-03"
+  },
+  {
+    "id": 476,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0040-03"
+  },
+  {
+    "id": 477,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0040-03"
+  },
+  {
+    "id": 478,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0040-04"
+  },
+  {
+    "id": 479,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0040-04"
+  },
+  {
+    "id": 480,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0040-04"
+  },
+  {
+    "id": 481,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0041-01"
+  },
+  {
+    "id": 482,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0041-01"
+  },
+  {
+    "id": 483,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0041-01"
+  },
+  {
+    "id": 484,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0041-02"
+  },
+  {
+    "id": 485,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0041-02"
+  },
+  {
+    "id": 486,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0041-02"
+  },
+  {
+    "id": 487,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0041-03"
+  },
+  {
+    "id": 488,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0041-03"
+  },
+  {
+    "id": 489,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0041-03"
+  },
+  {
+    "id": 490,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0041-04"
+  },
+  {
+    "id": 491,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0041-04"
+  },
+  {
+    "id": 492,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0041-04"
+  },
+  {
+    "id": 493,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0042-01"
+  },
+  {
+    "id": 494,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0042-01"
+  },
+  {
+    "id": 495,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0042-01"
+  },
+  {
+    "id": 496,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0042-02"
+  },
+  {
+    "id": 497,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0042-02"
+  },
+  {
+    "id": 498,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0042-02"
+  },
+  {
+    "id": 499,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0042-03"
+  },
+  {
+    "id": 500,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0042-03"
+  },
+  {
+    "id": 501,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0042-03"
+  },
+  {
+    "id": 502,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0042-04"
+  },
+  {
+    "id": 503,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0042-04"
+  },
+  {
+    "id": 504,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0042-04"
+  },
+  {
+    "id": 505,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0043-01"
+  },
+  {
+    "id": 506,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0043-01"
+  },
+  {
+    "id": 507,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0043-01"
+  },
+  {
+    "id": 508,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0043-02"
+  },
+  {
+    "id": 509,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0043-02"
+  },
+  {
+    "id": 510,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0043-02"
+  },
+  {
+    "id": 511,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0043-03"
+  },
+  {
+    "id": 512,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0043-03"
+  },
+  {
+    "id": 513,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0043-03"
+  },
+  {
+    "id": 514,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0043-04"
+  },
+  {
+    "id": 515,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0043-04"
+  },
+  {
+    "id": 516,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0043-04"
+  },
+  {
+    "id": 517,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0044-01"
+  },
+  {
+    "id": 518,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0044-01"
+  },
+  {
+    "id": 519,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0044-01"
+  },
+  {
+    "id": 520,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0044-02"
+  },
+  {
+    "id": 521,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0044-02"
+  },
+  {
+    "id": 522,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0044-02"
+  },
+  {
+    "id": 523,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0044-03"
+  },
+  {
+    "id": 524,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0044-03"
+  },
+  {
+    "id": 525,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0044-03"
+  },
+  {
+    "id": 526,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0044-04"
+  },
+  {
+    "id": 527,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0044-04"
+  },
+  {
+    "id": 528,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0044-04"
+  },
+  {
+    "id": 529,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0045-01"
+  },
+  {
+    "id": 530,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0045-01"
+  },
+  {
+    "id": 531,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0045-01"
+  },
+  {
+    "id": 532,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0045-02"
+  },
+  {
+    "id": 533,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0045-02"
+  },
+  {
+    "id": 534,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0045-02"
+  },
+  {
+    "id": 535,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0045-03"
+  },
+  {
+    "id": 536,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0045-03"
+  },
+  {
+    "id": 537,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0045-03"
+  },
+  {
+    "id": 538,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0045-04"
+  },
+  {
+    "id": 539,
+    "machine_id": "MACH-026",
+    "routing_step_id": "RSTEP-SKU-0045-04"
+  },
+  {
+    "id": 540,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0045-04"
+  },
+  {
+    "id": 541,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0046-01"
+  },
+  {
+    "id": 542,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0046-01"
+  },
+  {
+    "id": 543,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0046-01"
+  },
+  {
+    "id": 544,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0046-02"
+  },
+  {
+    "id": 545,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0046-02"
+  },
+  {
+    "id": 546,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0046-02"
+  },
+  {
+    "id": 547,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0046-03"
+  },
+  {
+    "id": 548,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0046-03"
+  },
+  {
+    "id": 549,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0046-03"
+  },
+  {
+    "id": 550,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0046-04"
+  },
+  {
+    "id": 551,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0046-04"
+  },
+  {
+    "id": 552,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0046-04"
+  },
+  {
+    "id": 553,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0047-01"
+  },
+  {
+    "id": 554,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0047-01"
+  },
+  {
+    "id": 555,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0047-01"
+  },
+  {
+    "id": 556,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0047-02"
+  },
+  {
+    "id": 557,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0047-02"
+  },
+  {
+    "id": 558,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0047-02"
+  },
+  {
+    "id": 559,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0047-03"
+  },
+  {
+    "id": 560,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0047-03"
+  },
+  {
+    "id": 561,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0047-03"
+  },
+  {
+    "id": 562,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0047-04"
+  },
+  {
+    "id": 563,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0047-04"
+  },
+  {
+    "id": 564,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0047-04"
+  },
+  {
+    "id": 565,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0048-01"
+  },
+  {
+    "id": 566,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0048-01"
+  },
+  {
+    "id": 567,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0048-01"
+  },
+  {
+    "id": 568,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0048-02"
+  },
+  {
+    "id": 569,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0048-02"
+  },
+  {
+    "id": 570,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0048-02"
+  },
+  {
+    "id": 571,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0048-03"
+  },
+  {
+    "id": 572,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0048-03"
+  },
+  {
+    "id": 573,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0048-03"
+  },
+  {
+    "id": 574,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0048-04"
+  },
+  {
+    "id": 575,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0048-04"
+  },
+  {
+    "id": 576,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0048-04"
+  },
+  {
+    "id": 577,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0049-01"
+  },
+  {
+    "id": 578,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0049-01"
+  },
+  {
+    "id": 579,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0049-01"
+  },
+  {
+    "id": 580,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0049-02"
+  },
+  {
+    "id": 581,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0049-02"
+  },
+  {
+    "id": 582,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0049-02"
+  },
+  {
+    "id": 583,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0049-03"
+  },
+  {
+    "id": 584,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0049-03"
+  },
+  {
+    "id": 585,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0049-03"
+  },
+  {
+    "id": 586,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0049-04"
+  },
+  {
+    "id": 587,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0049-04"
+  },
+  {
+    "id": 588,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0049-04"
+  },
+  {
+    "id": 589,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0050-01"
+  },
+  {
+    "id": 590,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0050-01"
+  },
+  {
+    "id": 591,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0050-01"
+  },
+  {
+    "id": 592,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0050-02"
+  },
+  {
+    "id": 593,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0050-02"
+  },
+  {
+    "id": 594,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0050-02"
+  },
+  {
+    "id": 595,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0050-03"
+  },
+  {
+    "id": 596,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0050-03"
+  },
+  {
+    "id": 597,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0050-03"
+  },
+  {
+    "id": 598,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0050-04"
+  },
+  {
+    "id": 599,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0050-04"
+  },
+  {
+    "id": 600,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0050-04"
+  },
+  {
+    "id": 601,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0051-01"
+  },
+  {
+    "id": 602,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0051-01"
+  },
+  {
+    "id": 603,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0051-01"
+  },
+  {
+    "id": 604,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0051-02"
+  },
+  {
+    "id": 605,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0051-02"
+  },
+  {
+    "id": 606,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0051-02"
+  },
+  {
+    "id": 607,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0051-03"
+  },
+  {
+    "id": 608,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0051-03"
+  },
+  {
+    "id": 609,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0051-03"
+  },
+  {
+    "id": 610,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0051-04"
+  },
+  {
+    "id": 611,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0051-04"
+  },
+  {
+    "id": 612,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0051-04"
+  },
+  {
+    "id": 613,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0052-01"
+  },
+  {
+    "id": 614,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0052-01"
+  },
+  {
+    "id": 615,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0052-01"
+  },
+  {
+    "id": 616,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0052-02"
+  },
+  {
+    "id": 617,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0052-02"
+  },
+  {
+    "id": 618,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0052-02"
+  },
+  {
+    "id": 619,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0052-03"
+  },
+  {
+    "id": 620,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0052-03"
+  },
+  {
+    "id": 621,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0052-03"
+  },
+  {
+    "id": 622,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0052-04"
+  },
+  {
+    "id": 623,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0052-04"
+  },
+  {
+    "id": 624,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0052-04"
+  },
+  {
+    "id": 625,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0053-01"
+  },
+  {
+    "id": 626,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0053-01"
+  },
+  {
+    "id": 627,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0053-01"
+  },
+  {
+    "id": 628,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0053-02"
+  },
+  {
+    "id": 629,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0053-02"
+  },
+  {
+    "id": 630,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0053-02"
+  },
+  {
+    "id": 631,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0053-03"
+  },
+  {
+    "id": 632,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0053-03"
+  },
+  {
+    "id": 633,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0053-03"
+  },
+  {
+    "id": 634,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0053-04"
+  },
+  {
+    "id": 635,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0053-04"
+  },
+  {
+    "id": 636,
+    "machine_id": "MACH-026",
+    "routing_step_id": "RSTEP-SKU-0053-04"
+  },
+  {
+    "id": 637,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0054-01"
+  },
+  {
+    "id": 638,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0054-01"
+  },
+  {
+    "id": 639,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0054-01"
+  },
+  {
+    "id": 640,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0054-02"
+  },
+  {
+    "id": 641,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0054-02"
+  },
+  {
+    "id": 642,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0054-02"
+  },
+  {
+    "id": 643,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0054-03"
+  },
+  {
+    "id": 644,
+    "machine_id": "MACH-026",
+    "routing_step_id": "RSTEP-SKU-0054-03"
+  },
+  {
+    "id": 645,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0054-03"
+  },
+  {
+    "id": 646,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0054-04"
+  },
+  {
+    "id": 647,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0054-04"
+  },
+  {
+    "id": 648,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0054-04"
+  },
+  {
+    "id": 649,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0055-01"
+  },
+  {
+    "id": 650,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0055-01"
+  },
+  {
+    "id": 651,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0055-01"
+  },
+  {
+    "id": 652,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0055-02"
+  },
+  {
+    "id": 653,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0055-02"
+  },
+  {
+    "id": 654,
+    "machine_id": "MACH-026",
+    "routing_step_id": "RSTEP-SKU-0055-02"
+  },
+  {
+    "id": 655,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0055-03"
+  },
+  {
+    "id": 656,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0055-03"
+  },
+  {
+    "id": 657,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0055-03"
+  },
+  {
+    "id": 658,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0055-04"
+  },
+  {
+    "id": 659,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0055-04"
+  },
+  {
+    "id": 660,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0055-04"
+  },
+  {
+    "id": 661,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0056-01"
+  },
+  {
+    "id": 662,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0056-01"
+  },
+  {
+    "id": 663,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0056-01"
+  },
+  {
+    "id": 664,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0056-02"
+  },
+  {
+    "id": 665,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0056-02"
+  },
+  {
+    "id": 666,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0056-02"
+  },
+  {
+    "id": 667,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0056-03"
+  },
+  {
+    "id": 668,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0056-03"
+  },
+  {
+    "id": 669,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0056-03"
+  },
+  {
+    "id": 670,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0056-04"
+  },
+  {
+    "id": 671,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0056-04"
+  },
+  {
+    "id": 672,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0056-04"
+  },
+  {
+    "id": 673,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0057-01"
+  },
+  {
+    "id": 674,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0057-01"
+  },
+  {
+    "id": 675,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0057-01"
+  },
+  {
+    "id": 676,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0057-02"
+  },
+  {
+    "id": 677,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0057-02"
+  },
+  {
+    "id": 678,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0057-02"
+  },
+  {
+    "id": 679,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0057-03"
+  },
+  {
+    "id": 680,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0057-03"
+  },
+  {
+    "id": 681,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0057-03"
+  },
+  {
+    "id": 682,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0057-04"
+  },
+  {
+    "id": 683,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0057-04"
+  },
+  {
+    "id": 684,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0057-04"
+  },
+  {
+    "id": 685,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0058-01"
+  },
+  {
+    "id": 686,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0058-01"
+  },
+  {
+    "id": 687,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0058-01"
+  },
+  {
+    "id": 688,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0058-02"
+  },
+  {
+    "id": 689,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0058-02"
+  },
+  {
+    "id": 690,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0058-02"
+  },
+  {
+    "id": 691,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0058-03"
+  },
+  {
+    "id": 692,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0058-03"
+  },
+  {
+    "id": 693,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0058-03"
+  },
+  {
+    "id": 694,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0058-04"
+  },
+  {
+    "id": 695,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0058-04"
+  },
+  {
+    "id": 696,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0058-04"
+  },
+  {
+    "id": 697,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0059-01"
+  },
+  {
+    "id": 698,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0059-01"
+  },
+  {
+    "id": 699,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0059-01"
+  },
+  {
+    "id": 700,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0059-02"
+  },
+  {
+    "id": 701,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0059-02"
+  },
+  {
+    "id": 702,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0059-02"
+  },
+  {
+    "id": 703,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0059-03"
+  },
+  {
+    "id": 704,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0059-03"
+  },
+  {
+    "id": 705,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0059-03"
+  },
+  {
+    "id": 706,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0059-04"
+  },
+  {
+    "id": 707,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0059-04"
+  },
+  {
+    "id": 708,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0059-04"
+  },
+  {
+    "id": 709,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0060-01"
+  },
+  {
+    "id": 710,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0060-01"
+  },
+  {
+    "id": 711,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0060-01"
+  },
+  {
+    "id": 712,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0060-02"
+  },
+  {
+    "id": 713,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0060-02"
+  },
+  {
+    "id": 714,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0060-02"
+  },
+  {
+    "id": 715,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0060-03"
+  },
+  {
+    "id": 716,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0060-03"
+  },
+  {
+    "id": 717,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0060-03"
+  },
+  {
+    "id": 718,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0060-04"
+  },
+  {
+    "id": 719,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0060-04"
+  },
+  {
+    "id": 720,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0060-04"
+  },
+  {
+    "id": 721,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0061-01"
+  },
+  {
+    "id": 722,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0061-01"
+  },
+  {
+    "id": 723,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0061-01"
+  },
+  {
+    "id": 724,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0061-02"
+  },
+  {
+    "id": 725,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0061-02"
+  },
+  {
+    "id": 726,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0061-02"
+  },
+  {
+    "id": 727,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0061-03"
+  },
+  {
+    "id": 728,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0061-03"
+  },
+  {
+    "id": 729,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0061-03"
+  },
+  {
+    "id": 730,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0061-04"
+  },
+  {
+    "id": 731,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0061-04"
+  },
+  {
+    "id": 732,
+    "machine_id": "MACH-026",
+    "routing_step_id": "RSTEP-SKU-0061-04"
+  },
+  {
+    "id": 733,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0062-01"
+  },
+  {
+    "id": 734,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0062-01"
+  },
+  {
+    "id": 735,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0062-01"
+  },
+  {
+    "id": 736,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0062-02"
+  },
+  {
+    "id": 737,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0062-02"
+  },
+  {
+    "id": 738,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0062-02"
+  },
+  {
+    "id": 739,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0062-03"
+  },
+  {
+    "id": 740,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0062-03"
+  },
+  {
+    "id": 741,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0062-03"
+  },
+  {
+    "id": 742,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0062-04"
+  },
+  {
+    "id": 743,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0062-04"
+  },
+  {
+    "id": 744,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0062-04"
+  },
+  {
+    "id": 745,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0063-01"
+  },
+  {
+    "id": 746,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0063-01"
+  },
+  {
+    "id": 747,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0063-01"
+  },
+  {
+    "id": 748,
+    "machine_id": "MACH-026",
+    "routing_step_id": "RSTEP-SKU-0063-02"
+  },
+  {
+    "id": 749,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0063-02"
+  },
+  {
+    "id": 750,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0063-02"
+  },
+  {
+    "id": 751,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0063-03"
+  },
+  {
+    "id": 752,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0063-03"
+  },
+  {
+    "id": 753,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0063-03"
+  },
+  {
+    "id": 754,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0063-04"
+  },
+  {
+    "id": 755,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0063-04"
+  },
+  {
+    "id": 756,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0063-04"
+  },
+  {
+    "id": 757,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0064-01"
+  },
+  {
+    "id": 758,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0064-01"
+  },
+  {
+    "id": 759,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0064-01"
+  },
+  {
+    "id": 760,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0064-02"
+  },
+  {
+    "id": 761,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0064-02"
+  },
+  {
+    "id": 762,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0064-02"
+  },
+  {
+    "id": 763,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0064-03"
+  },
+  {
+    "id": 764,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0064-03"
+  },
+  {
+    "id": 765,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0064-03"
+  },
+  {
+    "id": 766,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0064-04"
+  },
+  {
+    "id": 767,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0064-04"
+  },
+  {
+    "id": 768,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0064-04"
+  },
+  {
+    "id": 769,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0065-01"
+  },
+  {
+    "id": 770,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0065-01"
+  },
+  {
+    "id": 771,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0065-01"
+  },
+  {
+    "id": 772,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0065-02"
+  },
+  {
+    "id": 773,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0065-02"
+  },
+  {
+    "id": 774,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0065-02"
+  },
+  {
+    "id": 775,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0065-03"
+  },
+  {
+    "id": 776,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0065-03"
+  },
+  {
+    "id": 777,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0065-03"
+  },
+  {
+    "id": 778,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0065-04"
+  },
+  {
+    "id": 779,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0065-04"
+  },
+  {
+    "id": 780,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0065-04"
+  },
+  {
+    "id": 781,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0066-01"
+  },
+  {
+    "id": 782,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0066-01"
+  },
+  {
+    "id": 783,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0066-01"
+  },
+  {
+    "id": 784,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0066-02"
+  },
+  {
+    "id": 785,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0066-02"
+  },
+  {
+    "id": 786,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0066-02"
+  },
+  {
+    "id": 787,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0066-03"
+  },
+  {
+    "id": 788,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0066-03"
+  },
+  {
+    "id": 789,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0066-03"
+  },
+  {
+    "id": 790,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0066-04"
+  },
+  {
+    "id": 791,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0066-04"
+  },
+  {
+    "id": 792,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0066-04"
+  },
+  {
+    "id": 793,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0067-01"
+  },
+  {
+    "id": 794,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0067-01"
+  },
+  {
+    "id": 795,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0067-01"
+  },
+  {
+    "id": 796,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0067-02"
+  },
+  {
+    "id": 797,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0067-02"
+  },
+  {
+    "id": 798,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0067-02"
+  },
+  {
+    "id": 799,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0067-03"
+  },
+  {
+    "id": 800,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0067-03"
+  },
+  {
+    "id": 801,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0067-03"
+  },
+  {
+    "id": 802,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0067-04"
+  },
+  {
+    "id": 803,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0067-04"
+  },
+  {
+    "id": 804,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0067-04"
+  },
+  {
+    "id": 805,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0068-01"
+  },
+  {
+    "id": 806,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0068-01"
+  },
+  {
+    "id": 807,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0068-01"
+  },
+  {
+    "id": 808,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0068-02"
+  },
+  {
+    "id": 809,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0068-02"
+  },
+  {
+    "id": 810,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0068-02"
+  },
+  {
+    "id": 811,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0068-03"
+  },
+  {
+    "id": 812,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0068-03"
+  },
+  {
+    "id": 813,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0068-03"
+  },
+  {
+    "id": 814,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0068-04"
+  },
+  {
+    "id": 815,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0068-04"
+  },
+  {
+    "id": 816,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0068-04"
+  },
+  {
+    "id": 817,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0069-01"
+  },
+  {
+    "id": 818,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0069-01"
+  },
+  {
+    "id": 819,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0069-01"
+  },
+  {
+    "id": 820,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0069-02"
+  },
+  {
+    "id": 821,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0069-02"
+  },
+  {
+    "id": 822,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0069-02"
+  },
+  {
+    "id": 823,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0069-03"
+  },
+  {
+    "id": 824,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0069-03"
+  },
+  {
+    "id": 825,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0069-03"
+  },
+  {
+    "id": 826,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0069-04"
+  },
+  {
+    "id": 827,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0069-04"
+  },
+  {
+    "id": 828,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0069-04"
+  },
+  {
+    "id": 829,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0070-01"
+  },
+  {
+    "id": 830,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0070-01"
+  },
+  {
+    "id": 831,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0070-01"
+  },
+  {
+    "id": 832,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0070-02"
+  },
+  {
+    "id": 833,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0070-02"
+  },
+  {
+    "id": 834,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0070-02"
+  },
+  {
+    "id": 835,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0070-03"
+  },
+  {
+    "id": 836,
+    "machine_id": "MACH-026",
+    "routing_step_id": "RSTEP-SKU-0070-03"
+  },
+  {
+    "id": 837,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0070-03"
+  },
+  {
+    "id": 838,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0070-04"
+  },
+  {
+    "id": 839,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0070-04"
+  },
+  {
+    "id": 840,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0070-04"
+  },
+  {
+    "id": 841,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0071-01"
+  },
+  {
+    "id": 842,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0071-01"
+  },
+  {
+    "id": 843,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0071-01"
+  },
+  {
+    "id": 844,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0071-02"
+  },
+  {
+    "id": 845,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0071-02"
+  },
+  {
+    "id": 846,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0071-02"
+  },
+  {
+    "id": 847,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0071-03"
+  },
+  {
+    "id": 848,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0071-03"
+  },
+  {
+    "id": 849,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0071-03"
+  },
+  {
+    "id": 850,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0071-04"
+  },
+  {
+    "id": 851,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0071-04"
+  },
+  {
+    "id": 852,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0071-04"
+  },
+  {
+    "id": 853,
+    "machine_id": "MACH-026",
+    "routing_step_id": "RSTEP-SKU-0072-01"
+  },
+  {
+    "id": 854,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0072-01"
+  },
+  {
+    "id": 855,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0072-01"
+  },
+  {
+    "id": 856,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0072-02"
+  },
+  {
+    "id": 857,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0072-02"
+  },
+  {
+    "id": 858,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0072-02"
+  },
+  {
+    "id": 859,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0072-03"
+  },
+  {
+    "id": 860,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0072-03"
+  },
+  {
+    "id": 861,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0072-03"
+  },
+  {
+    "id": 862,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0072-04"
+  },
+  {
+    "id": 863,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0072-04"
+  },
+  {
+    "id": 864,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0072-04"
+  },
+  {
+    "id": 865,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0073-01"
+  },
+  {
+    "id": 866,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0073-01"
+  },
+  {
+    "id": 867,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0073-01"
+  },
+  {
+    "id": 868,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0073-02"
+  },
+  {
+    "id": 869,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0073-02"
+  },
+  {
+    "id": 870,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0073-02"
+  },
+  {
+    "id": 871,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0073-03"
+  },
+  {
+    "id": 872,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0073-03"
+  },
+  {
+    "id": 873,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0073-03"
+  },
+  {
+    "id": 874,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0073-04"
+  },
+  {
+    "id": 875,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0073-04"
+  },
+  {
+    "id": 876,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0073-04"
+  },
+  {
+    "id": 877,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0074-01"
+  },
+  {
+    "id": 878,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0074-01"
+  },
+  {
+    "id": 879,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0074-01"
+  },
+  {
+    "id": 880,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0074-02"
+  },
+  {
+    "id": 881,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0074-02"
+  },
+  {
+    "id": 882,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0074-02"
+  },
+  {
+    "id": 883,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0074-03"
+  },
+  {
+    "id": 884,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0074-03"
+  },
+  {
+    "id": 885,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0074-03"
+  },
+  {
+    "id": 886,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0074-04"
+  },
+  {
+    "id": 887,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0074-04"
+  },
+  {
+    "id": 888,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0074-04"
+  },
+  {
+    "id": 889,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0075-01"
+  },
+  {
+    "id": 890,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0075-01"
+  },
+  {
+    "id": 891,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0075-01"
+  },
+  {
+    "id": 892,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0075-02"
+  },
+  {
+    "id": 893,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0075-02"
+  },
+  {
+    "id": 894,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0075-02"
+  },
+  {
+    "id": 895,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0075-03"
+  },
+  {
+    "id": 896,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0075-03"
+  },
+  {
+    "id": 897,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0075-03"
+  },
+  {
+    "id": 898,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0075-04"
+  },
+  {
+    "id": 899,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0075-04"
+  },
+  {
+    "id": 900,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0075-04"
+  },
+  {
+    "id": 901,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0076-01"
+  },
+  {
+    "id": 902,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0076-01"
+  },
+  {
+    "id": 903,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0076-01"
+  },
+  {
+    "id": 904,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0076-02"
+  },
+  {
+    "id": 905,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0076-02"
+  },
+  {
+    "id": 906,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0076-02"
+  },
+  {
+    "id": 907,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0076-03"
+  },
+  {
+    "id": 908,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0076-03"
+  },
+  {
+    "id": 909,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0076-03"
+  },
+  {
+    "id": 910,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0076-04"
+  },
+  {
+    "id": 911,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0076-04"
+  },
+  {
+    "id": 912,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0076-04"
+  },
+  {
+    "id": 913,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0077-01"
+  },
+  {
+    "id": 914,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0077-01"
+  },
+  {
+    "id": 915,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0077-01"
+  },
+  {
+    "id": 916,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0077-02"
+  },
+  {
+    "id": 917,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0077-02"
+  },
+  {
+    "id": 918,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0077-02"
+  },
+  {
+    "id": 919,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0077-03"
+  },
+  {
+    "id": 920,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0077-03"
+  },
+  {
+    "id": 921,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0077-03"
+  },
+  {
+    "id": 922,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0077-04"
+  },
+  {
+    "id": 923,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0077-04"
+  },
+  {
+    "id": 924,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0077-04"
+  },
+  {
+    "id": 925,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0078-01"
+  },
+  {
+    "id": 926,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0078-01"
+  },
+  {
+    "id": 927,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0078-01"
+  },
+  {
+    "id": 928,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0078-02"
+  },
+  {
+    "id": 929,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0078-02"
+  },
+  {
+    "id": 930,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0078-02"
+  },
+  {
+    "id": 931,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0078-03"
+  },
+  {
+    "id": 932,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0078-03"
+  },
+  {
+    "id": 933,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0078-03"
+  },
+  {
+    "id": 934,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0078-04"
+  },
+  {
+    "id": 935,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0078-04"
+  },
+  {
+    "id": 936,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0078-04"
+  },
+  {
+    "id": 937,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0079-01"
+  },
+  {
+    "id": 938,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0079-01"
+  },
+  {
+    "id": 939,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0079-01"
+  },
+  {
+    "id": 940,
+    "machine_id": "MACH-026",
+    "routing_step_id": "RSTEP-SKU-0079-02"
+  },
+  {
+    "id": 941,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0079-02"
+  },
+  {
+    "id": 942,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0079-02"
+  },
+  {
+    "id": 943,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0079-03"
+  },
+  {
+    "id": 944,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0079-03"
+  },
+  {
+    "id": 945,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0079-03"
+  },
+  {
+    "id": 946,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0079-04"
+  },
+  {
+    "id": 947,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0079-04"
+  },
+  {
+    "id": 948,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0079-04"
+  },
+  {
+    "id": 949,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0080-01"
+  },
+  {
+    "id": 950,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0080-01"
+  },
+  {
+    "id": 951,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0080-01"
+  },
+  {
+    "id": 952,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0080-02"
+  },
+  {
+    "id": 953,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0080-02"
+  },
+  {
+    "id": 954,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0080-02"
+  },
+  {
+    "id": 955,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0080-03"
+  },
+  {
+    "id": 956,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0080-03"
+  },
+  {
+    "id": 957,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0080-03"
+  },
+  {
+    "id": 958,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0080-04"
+  },
+  {
+    "id": 959,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0080-04"
+  },
+  {
+    "id": 960,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0080-04"
+  },
+  {
+    "id": 961,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0081-01"
+  },
+  {
+    "id": 962,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0081-01"
+  },
+  {
+    "id": 963,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0081-01"
+  },
+  {
+    "id": 964,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0081-02"
+  },
+  {
+    "id": 965,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0081-02"
+  },
+  {
+    "id": 966,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0081-02"
+  },
+  {
+    "id": 967,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0081-03"
+  },
+  {
+    "id": 968,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0081-03"
+  },
+  {
+    "id": 969,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0081-03"
+  },
+  {
+    "id": 970,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0081-04"
+  },
+  {
+    "id": 971,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0081-04"
+  },
+  {
+    "id": 972,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0081-04"
+  },
+  {
+    "id": 973,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0082-01"
+  },
+  {
+    "id": 974,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0082-01"
+  },
+  {
+    "id": 975,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0082-01"
+  },
+  {
+    "id": 976,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0082-02"
+  },
+  {
+    "id": 977,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0082-02"
+  },
+  {
+    "id": 978,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0082-02"
+  },
+  {
+    "id": 979,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0082-03"
+  },
+  {
+    "id": 980,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0082-03"
+  },
+  {
+    "id": 981,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0082-03"
+  },
+  {
+    "id": 982,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0082-04"
+  },
+  {
+    "id": 983,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0082-04"
+  },
+  {
+    "id": 984,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0082-04"
+  },
+  {
+    "id": 985,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0083-01"
+  },
+  {
+    "id": 986,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0083-01"
+  },
+  {
+    "id": 987,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0083-01"
+  },
+  {
+    "id": 988,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0083-02"
+  },
+  {
+    "id": 989,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0083-02"
+  },
+  {
+    "id": 990,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0083-02"
+  },
+  {
+    "id": 991,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0083-03"
+  },
+  {
+    "id": 992,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0083-03"
+  },
+  {
+    "id": 993,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0083-03"
+  },
+  {
+    "id": 994,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0083-04"
+  },
+  {
+    "id": 995,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0083-04"
+  },
+  {
+    "id": 996,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0083-04"
+  },
+  {
+    "id": 997,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0084-01"
+  },
+  {
+    "id": 998,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0084-01"
+  },
+  {
+    "id": 999,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0084-01"
+  },
+  {
+    "id": 1000,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0084-02"
+  },
+  {
+    "id": 1001,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0084-02"
+  },
+  {
+    "id": 1002,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0084-02"
+  },
+  {
+    "id": 1003,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0084-03"
+  },
+  {
+    "id": 1004,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0084-03"
+  },
+  {
+    "id": 1005,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0084-03"
+  },
+  {
+    "id": 1006,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0084-04"
+  },
+  {
+    "id": 1007,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0084-04"
+  },
+  {
+    "id": 1008,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0084-04"
+  },
+  {
+    "id": 1009,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0085-01"
+  },
+  {
+    "id": 1010,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0085-01"
+  },
+  {
+    "id": 1011,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0085-01"
+  },
+  {
+    "id": 1012,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0085-02"
+  },
+  {
+    "id": 1013,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0085-02"
+  },
+  {
+    "id": 1014,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0085-02"
+  },
+  {
+    "id": 1015,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0085-03"
+  },
+  {
+    "id": 1016,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0085-03"
+  },
+  {
+    "id": 1017,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0085-03"
+  },
+  {
+    "id": 1018,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0085-04"
+  },
+  {
+    "id": 1019,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0085-04"
+  },
+  {
+    "id": 1020,
+    "machine_id": "MACH-026",
+    "routing_step_id": "RSTEP-SKU-0085-04"
+  },
+  {
+    "id": 1021,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0086-01"
+  },
+  {
+    "id": 1022,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0086-01"
+  },
+  {
+    "id": 1023,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0086-01"
+  },
+  {
+    "id": 1024,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0086-02"
+  },
+  {
+    "id": 1025,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0086-02"
+  },
+  {
+    "id": 1026,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0086-02"
+  },
+  {
+    "id": 1027,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0086-03"
+  },
+  {
+    "id": 1028,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0086-03"
+  },
+  {
+    "id": 1029,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0086-03"
+  },
+  {
+    "id": 1030,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0086-04"
+  },
+  {
+    "id": 1031,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0086-04"
+  },
+  {
+    "id": 1032,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0086-04"
+  },
+  {
+    "id": 1033,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0087-01"
+  },
+  {
+    "id": 1034,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0087-01"
+  },
+  {
+    "id": 1035,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0087-01"
+  },
+  {
+    "id": 1036,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0087-02"
+  },
+  {
+    "id": 1037,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0087-02"
+  },
+  {
+    "id": 1038,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0087-02"
+  },
+  {
+    "id": 1039,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0087-03"
+  },
+  {
+    "id": 1040,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0087-03"
+  },
+  {
+    "id": 1041,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0087-03"
+  },
+  {
+    "id": 1042,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0087-04"
+  },
+  {
+    "id": 1043,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0087-04"
+  },
+  {
+    "id": 1044,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0087-04"
+  },
+  {
+    "id": 1045,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0088-01"
+  },
+  {
+    "id": 1046,
+    "machine_id": "MACH-026",
+    "routing_step_id": "RSTEP-SKU-0088-01"
+  },
+  {
+    "id": 1047,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0088-01"
+  },
+  {
+    "id": 1048,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0088-02"
+  },
+  {
+    "id": 1049,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0088-02"
+  },
+  {
+    "id": 1050,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0088-02"
+  },
+  {
+    "id": 1051,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0088-03"
+  },
+  {
+    "id": 1052,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0088-03"
+  },
+  {
+    "id": 1053,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0088-03"
+  },
+  {
+    "id": 1054,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0088-04"
+  },
+  {
+    "id": 1055,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0088-04"
+  },
+  {
+    "id": 1056,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0088-04"
+  },
+  {
+    "id": 1057,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0089-01"
+  },
+  {
+    "id": 1058,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0089-01"
+  },
+  {
+    "id": 1059,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0089-01"
+  },
+  {
+    "id": 1060,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0089-02"
+  },
+  {
+    "id": 1061,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0089-02"
+  },
+  {
+    "id": 1062,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0089-02"
+  },
+  {
+    "id": 1063,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0089-03"
+  },
+  {
+    "id": 1064,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0089-03"
+  },
+  {
+    "id": 1065,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0089-03"
+  },
+  {
+    "id": 1066,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0089-04"
+  },
+  {
+    "id": 1067,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0089-04"
+  },
+  {
+    "id": 1068,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0089-04"
+  },
+  {
+    "id": 1069,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0090-01"
+  },
+  {
+    "id": 1070,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0090-01"
+  },
+  {
+    "id": 1071,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0090-01"
+  },
+  {
+    "id": 1072,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0090-02"
+  },
+  {
+    "id": 1073,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0090-02"
+  },
+  {
+    "id": 1074,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0090-02"
+  },
+  {
+    "id": 1075,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0090-03"
+  },
+  {
+    "id": 1076,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0090-03"
+  },
+  {
+    "id": 1077,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0090-03"
+  },
+  {
+    "id": 1078,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0090-04"
+  },
+  {
+    "id": 1079,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0090-04"
+  },
+  {
+    "id": 1080,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0090-04"
+  },
+  {
+    "id": 1081,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0091-01"
+  },
+  {
+    "id": 1082,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0091-01"
+  },
+  {
+    "id": 1083,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0091-01"
+  },
+  {
+    "id": 1084,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0091-02"
+  },
+  {
+    "id": 1085,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0091-02"
+  },
+  {
+    "id": 1086,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0091-02"
+  },
+  {
+    "id": 1087,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0091-03"
+  },
+  {
+    "id": 1088,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0091-03"
+  },
+  {
+    "id": 1089,
+    "machine_id": "MACH-039",
+    "routing_step_id": "RSTEP-SKU-0091-03"
+  },
+  {
+    "id": 1090,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0091-04"
+  },
+  {
+    "id": 1091,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0091-04"
+  },
+  {
+    "id": 1092,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0091-04"
+  },
+  {
+    "id": 1093,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0092-01"
+  },
+  {
+    "id": 1094,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0092-01"
+  },
+  {
+    "id": 1095,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0092-01"
+  },
+  {
+    "id": 1096,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0092-02"
+  },
+  {
+    "id": 1097,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0092-02"
+  },
+  {
+    "id": 1098,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0092-02"
+  },
+  {
+    "id": 1099,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0092-03"
+  },
+  {
+    "id": 1100,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0092-03"
+  },
+  {
+    "id": 1101,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0092-03"
+  },
+  {
+    "id": 1102,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0092-04"
+  },
+  {
+    "id": 1103,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0092-04"
+  },
+  {
+    "id": 1104,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0092-04"
+  },
+  {
+    "id": 1105,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0093-01"
+  },
+  {
+    "id": 1106,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0093-01"
+  },
+  {
+    "id": 1107,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0093-01"
+  },
+  {
+    "id": 1108,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0093-02"
+  },
+  {
+    "id": 1109,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0093-02"
+  },
+  {
+    "id": 1110,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0093-02"
+  },
+  {
+    "id": 1111,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0093-03"
+  },
+  {
+    "id": 1112,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0093-03"
+  },
+  {
+    "id": 1113,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0093-03"
+  },
+  {
+    "id": 1114,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0093-04"
+  },
+  {
+    "id": 1115,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0093-04"
+  },
+  {
+    "id": 1116,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0093-04"
+  },
+  {
+    "id": 1117,
+    "machine_id": "MACH-008",
+    "routing_step_id": "RSTEP-SKU-0094-01"
+  },
+  {
+    "id": 1118,
+    "machine_id": "MACH-016",
+    "routing_step_id": "RSTEP-SKU-0094-01"
+  },
+  {
+    "id": 1119,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0094-01"
+  },
+  {
+    "id": 1120,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0094-02"
+  },
+  {
+    "id": 1121,
+    "machine_id": "MACH-001",
+    "routing_step_id": "RSTEP-SKU-0094-02"
+  },
+  {
+    "id": 1122,
+    "machine_id": "MACH-009",
+    "routing_step_id": "RSTEP-SKU-0094-02"
+  },
+  {
+    "id": 1123,
+    "machine_id": "MACH-026",
+    "routing_step_id": "RSTEP-SKU-0094-03"
+  },
+  {
+    "id": 1124,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0094-03"
+  },
+  {
+    "id": 1125,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0094-03"
+  },
+  {
+    "id": 1126,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0094-04"
+  },
+  {
+    "id": 1127,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0094-04"
+  },
+  {
+    "id": 1128,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0094-04"
+  },
+  {
+    "id": 1129,
+    "machine_id": "MACH-025",
+    "routing_step_id": "RSTEP-SKU-0095-01"
+  },
+  {
+    "id": 1130,
+    "machine_id": "MACH-033",
+    "routing_step_id": "RSTEP-SKU-0095-01"
+  },
+  {
+    "id": 1131,
+    "machine_id": "MACH-017",
+    "routing_step_id": "RSTEP-SKU-0095-01"
+  },
+  {
+    "id": 1132,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0095-02"
+  },
+  {
+    "id": 1133,
+    "machine_id": "MACH-018",
+    "routing_step_id": "RSTEP-SKU-0095-02"
+  },
+  {
+    "id": 1134,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0095-02"
+  },
+  {
+    "id": 1135,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0095-03"
+  },
+  {
+    "id": 1136,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0095-03"
+  },
+  {
+    "id": 1137,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0095-03"
+  },
+  {
+    "id": 1138,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0095-04"
+  },
+  {
+    "id": 1139,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0095-04"
+  },
+  {
+    "id": 1140,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0095-04"
+  },
+  {
+    "id": 1141,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0096-01"
+  },
+  {
+    "id": 1142,
+    "machine_id": "MACH-026",
+    "routing_step_id": "RSTEP-SKU-0096-01"
+  },
+  {
+    "id": 1143,
+    "machine_id": "MACH-002",
+    "routing_step_id": "RSTEP-SKU-0096-01"
+  },
+  {
+    "id": 1144,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0096-02"
+  },
+  {
+    "id": 1145,
+    "machine_id": "MACH-011",
+    "routing_step_id": "RSTEP-SKU-0096-02"
+  },
+  {
+    "id": 1146,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0096-02"
+  },
+  {
+    "id": 1147,
+    "machine_id": "MACH-012",
+    "routing_step_id": "RSTEP-SKU-0096-03"
+  },
+  {
+    "id": 1148,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0096-03"
+  },
+  {
+    "id": 1149,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0096-03"
+  },
+  {
+    "id": 1150,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0096-04"
+  },
+  {
+    "id": 1151,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0096-04"
+  },
+  {
+    "id": 1152,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0096-04"
+  },
+  {
+    "id": 1153,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0097-01"
+  },
+  {
+    "id": 1154,
+    "machine_id": "MACH-035",
+    "routing_step_id": "RSTEP-SKU-0097-01"
+  },
+  {
+    "id": 1155,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0097-01"
+  },
+  {
+    "id": 1156,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0097-02"
+  },
+  {
+    "id": 1157,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0097-02"
+  },
+  {
+    "id": 1158,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0097-02"
+  },
+  {
+    "id": 1159,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0097-03"
+  },
+  {
+    "id": 1160,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0097-03"
+  },
+  {
+    "id": 1161,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0097-03"
+  },
+  {
+    "id": 1162,
+    "machine_id": "MACH-006",
+    "routing_step_id": "RSTEP-SKU-0097-04"
+  },
+  {
+    "id": 1163,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0097-04"
+  },
+  {
+    "id": 1164,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0097-04"
+  },
+  {
+    "id": 1165,
+    "machine_id": "MACH-020",
+    "routing_step_id": "RSTEP-SKU-0098-01"
+  },
+  {
+    "id": 1166,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0098-01"
+  },
+  {
+    "id": 1167,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0098-01"
+  },
+  {
+    "id": 1168,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0098-02"
+  },
+  {
+    "id": 1169,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0098-02"
+  },
+  {
+    "id": 1170,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0098-02"
+  },
+  {
+    "id": 1171,
+    "machine_id": "MACH-030",
+    "routing_step_id": "RSTEP-SKU-0098-03"
+  },
+  {
+    "id": 1172,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0098-03"
+  },
+  {
+    "id": 1173,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0098-03"
+  },
+  {
+    "id": 1174,
+    "machine_id": "MACH-015",
+    "routing_step_id": "RSTEP-SKU-0098-04"
+  },
+  {
+    "id": 1175,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0098-04"
+  },
+  {
+    "id": 1176,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0098-04"
+  },
+  {
+    "id": 1177,
+    "machine_id": "MACH-037",
+    "routing_step_id": "RSTEP-SKU-0099-01"
+  },
+  {
+    "id": 1178,
+    "machine_id": "MACH-013",
+    "routing_step_id": "RSTEP-SKU-0099-01"
+  },
+  {
+    "id": 1179,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0099-01"
+  },
+  {
+    "id": 1180,
+    "machine_id": "MACH-014",
+    "routing_step_id": "RSTEP-SKU-0099-02"
+  },
+  {
+    "id": 1181,
+    "machine_id": "MACH-038",
+    "routing_step_id": "RSTEP-SKU-0099-02"
+  },
+  {
+    "id": 1182,
+    "machine_id": "MACH-022",
+    "routing_step_id": "RSTEP-SKU-0099-02"
+  },
+  {
+    "id": 1183,
+    "machine_id": "MACH-007",
+    "routing_step_id": "RSTEP-SKU-0099-03"
+  },
+  {
+    "id": 1184,
+    "machine_id": "MACH-023",
+    "routing_step_id": "RSTEP-SKU-0099-03"
+  },
+  {
+    "id": 1185,
+    "machine_id": "MACH-031",
+    "routing_step_id": "RSTEP-SKU-0099-03"
+  },
+  {
+    "id": 1186,
+    "machine_id": "MACH-032",
+    "routing_step_id": "RSTEP-SKU-0099-04"
+  },
+  {
+    "id": 1187,
+    "machine_id": "MACH-040",
+    "routing_step_id": "RSTEP-SKU-0099-04"
+  },
+  {
+    "id": 1188,
+    "machine_id": "MACH-024",
+    "routing_step_id": "RSTEP-SKU-0099-04"
+  },
+  {
+    "id": 1189,
+    "machine_id": "MACH-010",
+    "routing_step_id": "RSTEP-SKU-0100-01"
+  },
+  {
+    "id": 1190,
+    "machine_id": "MACH-026",
+    "routing_step_id": "RSTEP-SKU-0100-01"
+  },
+  {
+    "id": 1191,
+    "machine_id": "MACH-034",
+    "routing_step_id": "RSTEP-SKU-0100-01"
+  },
+  {
+    "id": 1192,
+    "machine_id": "MACH-003",
+    "routing_step_id": "RSTEP-SKU-0100-02"
+  },
+  {
+    "id": 1193,
+    "machine_id": "MACH-027",
+    "routing_step_id": "RSTEP-SKU-0100-02"
+  },
+  {
+    "id": 1194,
+    "machine_id": "MACH-019",
+    "routing_step_id": "RSTEP-SKU-0100-02"
+  },
+  {
+    "id": 1195,
+    "machine_id": "MACH-004",
+    "routing_step_id": "RSTEP-SKU-0100-03"
+  },
+  {
+    "id": 1196,
+    "machine_id": "MACH-028",
+    "routing_step_id": "RSTEP-SKU-0100-03"
+  },
+  {
+    "id": 1197,
+    "machine_id": "MACH-036",
+    "routing_step_id": "RSTEP-SKU-0100-03"
+  },
+  {
+    "id": 1198,
+    "machine_id": "MACH-021",
+    "routing_step_id": "RSTEP-SKU-0100-04"
+  },
+  {
+    "id": 1199,
+    "machine_id": "MACH-029",
+    "routing_step_id": "RSTEP-SKU-0100-04"
+  },
+  {
+    "id": 1200,
+    "machine_id": "MACH-005",
+    "routing_step_id": "RSTEP-SKU-0100-04"
+  }
+]

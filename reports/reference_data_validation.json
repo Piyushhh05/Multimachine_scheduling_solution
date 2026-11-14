@@ -1,0 +1,88 @@
+{
+  "seed": 20261022,
+  "scale": "full",
+  "row_counts": {
+    "anomaly_scenarios": 5,
+    "audit_events": 1,
+    "changeover_matrix": 1200,
+    "ground_truth": 5,
+    "inventory_lots": 600,
+    "labor_shifts": 5,
+    "machine_calendars": 200,
+    "machine_downtime": 80,
+    "machine_tooling": 376,
+    "machines": 40,
+    "material_reservations": 0,
+    "materials": 200,
+    "operation_eligible_machine": 6000,
+    "operation_schedules": 0,
+    "operations": 2000,
+    "product_material": 302,
+    "production_orders": 500,
+    "products": 100,
+    "routing_step_machines": 1200,
+    "routing_steps": 400,
+    "routings": 100,
+    "schedule_exceptions": 0,
+    "scheduling_runs": 0,
+    "tooling": 10
+  },
+  "checks": {
+    "expected_volumes": {
+      "products": true,
+      "machines": true,
+      "production_orders": true,
+      "operations": true,
+      "materials": true
+    },
+    "identifier_checks": {
+      "products_unique_pk": true,
+      "routings_unique_pk": true,
+      "machines_unique_pk": true,
+      "materials_unique_pk": true,
+      "inventory_lots_unique_pk": true,
+      "tooling_unique_pk": true,
+      "routing_steps_unique_pk": true,
+      "production_orders_unique_pk": true,
+      "operations_unique_pk": true,
+      "machine_downtime_unique_pk": true,
+      "changeover_matrix_unique_pk": true,
+      "product_id_pattern": true,
+      "machine_id_pattern": true,
+      "order_id_pattern": true,
+      "operation_id_pattern": true
+    },
+    "foreign_key_checks": {
+      "routing_product": true,
+      "routing_step_parent": true,
+      "machine_calendar_parent": true,
+      "downtime_machine_parent": true,
+      "lot_material_parent": true,
+      "bom_parent_joins": true,
+      "order_product_route_join": true,
+      "operation_order_step_join": true,
+      "operation_eligible_join": true,
+      "step_eligible_join": true,
+      "machine_tooling_join": true
+    },
+    "derived_values": {
+      "operation_count_equals_order_steps": true,
+      "operation_duration_reconciles": true,
+      "orders_have_four_sequenced_steps": true,
+      "positive_inventory_quantities": true,
+      "valid_due_dates": true,
+      "valid_machine_calendars": true
+    },
+    "ground_truth_checks": {
+      "five_required_labels": true,
+      "all_labels_reference_real_operations": true,
+      "scenario_rows_match_labels": true,
+      "no_anomaly_feature_in_operations": true
+    },
+    "sqlite_seed_checks": {
+      "foreign_key_check_empty": true,
+      "core_counts_match_csv": true
+    }
+  },
+  "passed": true
+}
